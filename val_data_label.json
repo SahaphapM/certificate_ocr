@@ -1,0 +1,6482 @@
+[
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: เสรี ศาสตร์ศิลป์\nCOURSE: Re-engineered value-added algorithm / integrate back-end e-tailers\nDATE: 2543-07-11 (12/12/2560)\nORGANIZATION: บริษัท ศรีตะวัน จำกัด\n\nID: lgB3715 | URL: https://brisath.in.th/\nVALIDATED BY: วิสาร แท่นทอง, President",
+    "entities": [
+      {
+        "text": "เสรี ศาสตร์ศิลป์",
+        "label": "PERSON",
+        "start": 47,
+        "end": 63
+      },
+      {
+        "text": "Re-engineered value-added algorithm",
+        "label": "COURSE",
+        "start": 72,
+        "end": 107
+      },
+      {
+        "text": "integrate back-end e-tailers",
+        "label": "COURSE",
+        "start": 110,
+        "end": 138
+      },
+      {
+        "text": "2543-07-11",
+        "label": "DATE",
+        "start": 145,
+        "end": 155
+      },
+      {
+        "text": "12/12/2560",
+        "label": "DATE",
+        "start": 157,
+        "end": 167
+      },
+      {
+        "text": "บริษัท ศรีตะวัน จำกัด",
+        "label": "ISSUER",
+        "start": 183,
+        "end": 204
+      },
+      {
+        "text": "https://brisath.in.th/",
+        "label": "URL",
+        "start": 225,
+        "end": 247
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.787442",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "บริษัท สงประเสริฐเซอร์วิส จำกัด yNB8832\nใบรับรอง\nมอบให้แก่\n\nพุทธ ยางสวย\n\nได้ผ่านการอบรม\nหลักสูตร: repurpose holistic paradigms\n\nวันที่ 29/04/2562\n\nธนนนท์ นามเสวตร\n(ประธานกรรมการ)\n\nhttps://hcchkhnakaenn.ac.th/",
+    "entities": [
+      {
+        "text": "พุทธ ยางสวย",
+        "label": "PERSON",
+        "start": 60,
+        "end": 71
+      },
+      {
+        "text": "repurpose holistic paradigms",
+        "label": "COURSE",
+        "start": 98,
+        "end": 126
+      },
+      {
+        "text": "29/04/2562",
+        "label": "DATE",
+        "start": 135,
+        "end": 145
+      },
+      {
+        "text": "บริษัท สงประเสริฐเซอร์วิส จำกัด",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 31
+      },
+      {
+        "text": "https://hcchkhnakaenn.ac.th/",
+        "label": "URL",
+        "start": 180,
+        "end": 208
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.853444",
+      "language": "th"
+    }
+  },
+  {
+    "text": "ห้างหุ้นส่วนสามัญ บินดี RQd2014\nใบรับรอง\nมอบให้แก่\n\nกษิดิฐ มิ่งขวัญ\n\nได้ผ่านการอบรม\nหลักสูตร: morph wireless technologies\n\nวันที่ 15/08/2516\n\nสิริ วะคีมัน\n(ผู้อำนวยการ)\n\nhttps://brisath.com/",
+    "entities": [
+      {
+        "text": "กษิดิฐ มิ่งขวัญ",
+        "label": "PERSON",
+        "start": 52,
+        "end": 67
+      },
+      {
+        "text": "morph wireless technologies",
+        "label": "COURSE",
+        "start": 94,
+        "end": 121
+      },
+      {
+        "text": "15/08/2516",
+        "label": "DATE",
+        "start": 130,
+        "end": 140
+      },
+      {
+        "text": "ห้างหุ้นส่วนสามัญ บินดี",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 23
+      },
+      {
+        "text": "https://brisath.com/",
+        "label": "URL",
+        "start": 170,
+        "end": 190
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.744486",
+      "language": "th"
+    }
+  },
+  {
+    "text": "บริษัท ธาราธร จำกัด SaF6880\nใบรับรอง\nมอบให้แก่\n\nปริญญา นิยมเซียม\n\nได้ผ่านการอบรม\nหลักสูตร: transform bleeding-edge experiences\n\nวันที่ 23/07/2563\n\nเพ็ญยุภา บุตดา\n(ประธานกรรมการ)\n\nhttp://bmcchnilsuwrrnkaarkhaa.ac.th/",
+    "entities": [
+      {
+        "text": "ปริญญา นิยมเซียม",
+        "label": "PERSON",
+        "start": 48,
+        "end": 64
+      },
+      {
+        "text": "transform bleeding-edge experiences",
+        "label": "COURSE",
+        "start": 91,
+        "end": 126
+      },
+      {
+        "text": "23/07/2563",
+        "label": "DATE",
+        "start": 135,
+        "end": 145
+      },
+      {
+        "text": "บริษัท ธาราธร จำกัด",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "http://bmcchnilsuwrrnkaarkhaa.ac.th/",
+        "label": "URL",
+        "start": 179,
+        "end": 215
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.745486",
+      "language": "th"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nณัฐติญา ไตรบรรพ\nhas successfully completed the training program\n'Triple-buffered optimizing intranet'\non 2531-02-06.\n\nIssued by: นิละทัตและนิลสุวรรณ์\nAuthorized by: พลานุช นักสำหรวจ, President\nCertificate ID: oTf1365\n\nVerify at: https://bmcchthayaaophchnosth.co.th/",
+    "entities": [
+      {
+        "text": "ณัฐติญา ไตรบรรพ",
+        "label": "PERSON",
+        "start": 51,
+        "end": 66
+      },
+      {
+        "text": "Triple-buffered optimizing intranet",
+        "label": "COURSE",
+        "start": 116,
+        "end": 151
+      },
+      {
+        "text": "2531-02-06",
+        "label": "DATE",
+        "start": 156,
+        "end": 166
+      },
+      {
+        "text": "นิละทัตและนิลสุวรรณ์",
+        "label": "ISSUER",
+        "start": 180,
+        "end": 200
+      },
+      {
+        "text": "https://bmcchthayaaophchnosth.co.th/",
+        "label": "URL",
+        "start": 280,
+        "end": 316
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.810442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "สังข์กรดเฟอร์นิเจอร์ jEH3939\nใบรับรอง\nมอบให้แก่\n\nแปลง นุตตาร\n\nได้ผ่านการอบรม\nหลักสูตร: exploit scalable architectures\n\nวันที่ 20/06/2527\n\nเขียว วิลาสินี\n(ประธานกรรมการ)\n\nhttps://www.chmrmthrrmniym.com/",
+    "entities": [
+      {
+        "text": "แปลง นุตตาร",
+        "label": "PERSON",
+        "start": 49,
+        "end": 60
+      },
+      {
+        "text": "exploit scalable architectures",
+        "label": "COURSE",
+        "start": 87,
+        "end": 117
+      },
+      {
+        "text": "20/06/2527",
+        "label": "DATE",
+        "start": 126,
+        "end": 136
+      },
+      {
+        "text": "สังข์กรดเฟอร์นิเจอร์",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "https://www.chmrmthrrmniym.com/",
+        "label": "URL",
+        "start": 170,
+        "end": 201
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.792442",
+      "language": "th"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nสุมัชญา ถมปัด\nhas successfully completed the training program\n'Reverse-engineered directional benchmark'\non 2529-11-26.\n\nIssued by: หจก.ปรีชากุลเศรษฐ์การช่าง\nAuthorized by: พชรภรณ์ นะวะมันดร, CEO\nCertificate ID: PGw5760\n\nVerify at: http://pracchantaesn-phlbuy.or.th/",
+    "entities": [
+      {
+        "text": "สุมัชญา ถมปัด",
+        "label": "PERSON",
+        "start": 51,
+        "end": 64
+      },
+      {
+        "text": "Reverse-engineered directional benchmark",
+        "label": "COURSE",
+        "start": 114,
+        "end": 154
+      },
+      {
+        "text": "2529-11-26",
+        "label": "DATE",
+        "start": 159,
+        "end": 169
+      },
+      {
+        "text": "หจก.ปรีชากุลเศรษฐ์การช่าง",
+        "label": "ISSUER",
+        "start": 183,
+        "end": 208
+      },
+      {
+        "text": "http://pracchantaesn-phlbuy.or.th/",
+        "label": "URL",
+        "start": 283,
+        "end": 317
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.854443",
+      "language": "en"
+    }
+  },
+  {
+    "text": "บริษัท แต้กุลพืชผล จำกัด QvN6343\nใบรับรอง\nมอบให้แก่\n\nภานิณี ถนัดอักษร\n\nได้ผ่านการอบรม\nหลักสูตร: disintermediate collaborative web-readiness\n\nวันที่ 17/09/2515\n\nณัฐญาดา น้ำทิพย์\n(ผู้อำนวยการ)\n\nhttps://ekhiiywkhuyaelathrrmemthaa.co.th/",
+    "entities": [
+      {
+        "text": "ภานิณี ถนัดอักษร",
+        "label": "PERSON",
+        "start": 53,
+        "end": 69
+      },
+      {
+        "text": "disintermediate collaborative web-readiness",
+        "label": "COURSE",
+        "start": 96,
+        "end": 139
+      },
+      {
+        "text": "17/09/2515",
+        "label": "DATE",
+        "start": 148,
+        "end": 158
+      },
+      {
+        "text": "บริษัท แต้กุลพืชผล จำกัด",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 24
+      },
+      {
+        "text": "https://ekhiiywkhuyaelathrrmemthaa.co.th/",
+        "label": "URL",
+        "start": 192,
+        "end": 233
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.823443",
+      "language": "th"
+    }
+  },
+  {
+    "text": "ห้างหุ้นส่วนจำกัด ทองสีไพล SAL0563\nใบรับรอง\nมอบให้แก่\n\nรังสินี ตั้งกุลงาม\n\nได้ผ่านการอบรม\nหลักสูตร: strategize global e-services\n\nวันที่ 01/03/2545\n\nมูฮัมหมัดอิมรอน เมืองสุข\n(ประธานกรรมการ)\n\nhttps://www.brisath.or.th/",
+    "entities": [
+      {
+        "text": "รังสินี ตั้งกุลงาม",
+        "label": "PERSON",
+        "start": 55,
+        "end": 73
+      },
+      {
+        "text": "strategize global e-services",
+        "label": "COURSE",
+        "start": 100,
+        "end": 128
+      },
+      {
+        "text": "01/03/2545",
+        "label": "DATE",
+        "start": 137,
+        "end": 147
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด ทองสีไพล",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 26
+      },
+      {
+        "text": "https://www.brisath.or.th/",
+        "label": "URL",
+        "start": 191,
+        "end": 217
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.813443",
+      "language": "th"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nนันทวุฒิ ดีตพันธุ์\nhas successfully completed the training program\n'Expanded methodical success'\non 2554-07-30.\n\nIssued by: ห้างหุ้นส่วนจำกัด ประจันตะเสน\nAuthorized by: สนั่น นิลวิมล, President\nCertificate ID: gzu7987\n\nVerify at: https://brisath.go.th/",
+    "entities": [
+      {
+        "text": "นันทวุฒิ ดีตพันธุ์",
+        "label": "PERSON",
+        "start": 51,
+        "end": 69
+      },
+      {
+        "text": "Expanded methodical success",
+        "label": "COURSE",
+        "start": 119,
+        "end": 146
+      },
+      {
+        "text": "2554-07-30",
+        "label": "DATE",
+        "start": 151,
+        "end": 161
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด ประจันตะเสน",
+        "label": "ISSUER",
+        "start": 175,
+        "end": 204
+      },
+      {
+        "text": "https://brisath.go.th/",
+        "label": "URL",
+        "start": 281,
+        "end": 303
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.805442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nทินวัฒน์ บุญบำรุง\nhas successfully completed the training program\n'Cross-platform zero tolerance groupware'\non 2539-02-29.\n\nIssued by: ห้างหุ้นส่วนจำกัด บุนยะตีรณะ\nAuthorized by: สุปรานี ทองเนื้อดี, President\nCertificate ID: BKd8041\n\nVerify at: https://haanghunswncchamkad.com/",
+    "entities": [
+      {
+        "text": "ทินวัฒน์ บุญบำรุง",
+        "label": "PERSON",
+        "start": 51,
+        "end": 68
+      },
+      {
+        "text": "Cross-platform zero tolerance groupware",
+        "label": "COURSE",
+        "start": 118,
+        "end": 157
+      },
+      {
+        "text": "2539-02-29",
+        "label": "DATE",
+        "start": 162,
+        "end": 172
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด บุนยะตีรณะ",
+        "label": "ISSUER",
+        "start": 186,
+        "end": 214
+      },
+      {
+        "text": "https://haanghunswncchamkad.com/",
+        "label": "URL",
+        "start": 296,
+        "end": 328
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.838442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nจันทนา บุณยะภาชน์\nhas successfully completed the training program\n'Reverse-engineered incremental installation'\non 2513-11-10.\n\nIssued by: หจก.แก้วอยู่\nAuthorized by: ธวัศชา ตั้งกุลงาม, President\nCertificate ID: qnQ0067\n\nVerify at: https://www.buyyaaphirmycchiwewlrii.com/",
+    "entities": [
+      {
+        "text": "จันทนา บุณยะภาชน์",
+        "label": "PERSON",
+        "start": 51,
+        "end": 68
+      },
+      {
+        "text": "Reverse-engineered incremental installation",
+        "label": "COURSE",
+        "start": 118,
+        "end": 161
+      },
+      {
+        "text": "2513-11-10",
+        "label": "DATE",
+        "start": 166,
+        "end": 176
+      },
+      {
+        "text": "หจก.แก้วอยู่",
+        "label": "ISSUER",
+        "start": 190,
+        "end": 202
+      },
+      {
+        "text": "https://www.buyyaaphirmycchiwewlrii.com/",
+        "label": "URL",
+        "start": 283,
+        "end": 323
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.844444",
+      "language": "en"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: นันทิกานต์ ตระกูลบุญ\nCOURSE: Function-based heuristic productivity / synthesize leading-edge interfaces\nDATE: 2544-12-24 (30/09/2559)\nORGANIZATION: ดีตพันธุ์คอนสตรัคชั่น\n\nID: rXK3712 | URL: http://www.brisath.co.th/\nVALIDATED BY: ผดุงชาติ แหยมศิริ, Director",
+    "entities": [
+      {
+        "text": "นันทิกานต์ ตระกูลบุญ",
+        "label": "PERSON",
+        "start": 47,
+        "end": 67
+      },
+      {
+        "text": "Function-based heuristic productivity",
+        "label": "COURSE",
+        "start": 76,
+        "end": 113
+      },
+      {
+        "text": "synthesize leading-edge interfaces",
+        "label": "COURSE",
+        "start": 116,
+        "end": 150
+      },
+      {
+        "text": "2544-12-24",
+        "label": "DATE",
+        "start": 157,
+        "end": 167
+      },
+      {
+        "text": "30/09/2559",
+        "label": "DATE",
+        "start": 169,
+        "end": 179
+      },
+      {
+        "text": "ดีตพันธุ์คอนสตรัคชั่น",
+        "label": "ISSUER",
+        "start": 195,
+        "end": 216
+      },
+      {
+        "text": "http://www.brisath.co.th/",
+        "label": "URL",
+        "start": 237,
+        "end": 262
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.816443",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nอันธิกา นิลวรรณ\nhas successfully completed the training program\n'Universal optimizing forecast'\non 2539-09-10.\n\nIssued by: หจก.ขันธุลาอุตสาหกรรม\nAuthorized by: เอกชัย น้ำทิพย์, CEO\nCertificate ID: Lgg2114\n\nVerify at: https://www.nitisaakhaaaelabutr.com/",
+    "entities": [
+      {
+        "text": "อันธิกา นิลวรรณ",
+        "label": "PERSON",
+        "start": 51,
+        "end": 66
+      },
+      {
+        "text": "Universal optimizing forecast",
+        "label": "COURSE",
+        "start": 116,
+        "end": 145
+      },
+      {
+        "text": "2539-09-10",
+        "label": "DATE",
+        "start": 150,
+        "end": 160
+      },
+      {
+        "text": "หจก.ขันธุลาอุตสาหกรรม",
+        "label": "ISSUER",
+        "start": 174,
+        "end": 195
+      },
+      {
+        "text": "https://www.nitisaakhaaaelabutr.com/",
+        "label": "URL",
+        "start": 268,
+        "end": 304
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.762442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nบุญทิวา ตัณฑนุช\nhas successfully completed the training program\n'Organized optimizing utilization'\non 2563-09-01.\n\nIssued by: ห้างหุ้นส่วนจำกัด ติระคมน์อินเตอร์เนชั่นแนล\nAuthorized by: คำ ทัศนสุทธิ, CEO\nCertificate ID: MPN0915\n\nVerify at: http://www.muulnithibutraach.com/",
+    "entities": [
+      {
+        "text": "บุญทิวา ตัณฑนุช",
+        "label": "PERSON",
+        "start": 51,
+        "end": 66
+      },
+      {
+        "text": "Organized optimizing utilization",
+        "label": "COURSE",
+        "start": 116,
+        "end": 148
+      },
+      {
+        "text": "2563-09-01",
+        "label": "DATE",
+        "start": 153,
+        "end": 163
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด ติระคมน์อินเตอร์เนชั่นแนล",
+        "label": "ISSUER",
+        "start": 177,
+        "end": 220
+      },
+      {
+        "text": "http://www.muulnithibutraach.com/",
+        "label": "URL",
+        "start": 290,
+        "end": 323
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.846442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "บริษัท ดีตพันธุ์ จำกัด SaK7230\nใบรับรอง\nมอบให้แก่\n\nพิไลพร พรมอ่อน\n\nได้ผ่านการอบรม\nหลักสูตร: evolve plug-and-play e-business\n\nวันที่ 17/12/2516\n\nสิรวัฒน์ หิรัญสาลี\n(ประธานกรรมการ)\n\nhttps://brisath.org/",
+    "entities": [
+      {
+        "text": "พิไลพร พรมอ่อน",
+        "label": "PERSON",
+        "start": 51,
+        "end": 65
+      },
+      {
+        "text": "evolve plug-and-play e-business",
+        "label": "COURSE",
+        "start": 92,
+        "end": 123
+      },
+      {
+        "text": "17/12/2516",
+        "label": "DATE",
+        "start": 132,
+        "end": 142
+      },
+      {
+        "text": "บริษัท ดีตพันธุ์ จำกัด",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 22
+      },
+      {
+        "text": "https://brisath.org/",
+        "label": "URL",
+        "start": 180,
+        "end": 200
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.826442",
+      "language": "th"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: ยนงคราญ ฉัพพรรณธนกูร\nCOURSE: Quality-focused 5thgeneration application / incubate killer schemas\nDATE: 2567-10-13 (21/11/2559)\nORGANIZATION: บริษัท ยาปะโลหิต จำกัด (มหาชน)\n\nID: Ehd9198 | URL: https://www.chamnaaywaadaelaniymechiiym.org/\nVALIDATED BY: กันตวรรณ บุญบำรุง, Director",
+    "entities": [
+      {
+        "text": "ยนงคราญ ฉัพพรรณธนกูร",
+        "label": "PERSON",
+        "start": 47,
+        "end": 67
+      },
+      {
+        "text": "Quality-focused 5thgeneration application",
+        "label": "COURSE",
+        "start": 76,
+        "end": 117
+      },
+      {
+        "text": "incubate killer schemas",
+        "label": "COURSE",
+        "start": 120,
+        "end": 143
+      },
+      {
+        "text": "2567-10-13",
+        "label": "DATE",
+        "start": 150,
+        "end": 160
+      },
+      {
+        "text": "21/11/2559",
+        "label": "DATE",
+        "start": 162,
+        "end": 172
+      },
+      {
+        "text": "บริษัท ยาปะโลหิต จำกัด (มหาชน)",
+        "label": "ISSUER",
+        "start": 188,
+        "end": 218
+      },
+      {
+        "text": "https://www.chamnaaywaadaelaniymechiiym.org/",
+        "label": "URL",
+        "start": 239,
+        "end": 283
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.764442",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: ภูวัน นิษประปัญจ์\nCOURSE: Organized eco-centric superstructure / grow user-centric e-markets\nDATE: 2522-04-09 (25/05/2522)\nORGANIZATION: บริษัท ถมังรักษสัตว์ภาพยนตร์ จำกัด\n\nID: FfF2562 | URL: https://smaakhmthnadraksaa.co.th/\nVALIDATED BY: นุจรี ถะเกิงชศ, CEO",
+    "entities": [
+      {
+        "text": "ภูวัน นิษประปัญจ์",
+        "label": "PERSON",
+        "start": 47,
+        "end": 64
+      },
+      {
+        "text": "Organized eco-centric superstructure",
+        "label": "COURSE",
+        "start": 73,
+        "end": 109
+      },
+      {
+        "text": "grow user-centric e-markets",
+        "label": "COURSE",
+        "start": 112,
+        "end": 139
+      },
+      {
+        "text": "2522-04-09",
+        "label": "DATE",
+        "start": 146,
+        "end": 156
+      },
+      {
+        "text": "25/05/2522",
+        "label": "DATE",
+        "start": 158,
+        "end": 168
+      },
+      {
+        "text": "บริษัท ถมังรักษสัตว์ภาพยนตร์ จำกัด",
+        "label": "ISSUER",
+        "start": 184,
+        "end": 218
+      },
+      {
+        "text": "https://smaakhmthnadraksaa.co.th/",
+        "label": "URL",
+        "start": 239,
+        "end": 272
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.788442",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "ห้างหุ้นส่วนสามัญ นวลเพ็ง qMT3125\nใบรับรอง\nมอบให้แก่\n\nโชติวุฒิ พีระเพ็ญกุล\n\nได้ผ่านการอบรม\nหลักสูตร: redefine intuitive web-readiness\n\nวันที่ 02/07/2553\n\nโกวิทย์ โพธิสัตย์\n(ผู้อำนวยการ)\n\nhttp://www.haanghunswncchamkad.mi.th/",
+    "entities": [
+      {
+        "text": "โชติวุฒิ พีระเพ็ญกุล",
+        "label": "PERSON",
+        "start": 54,
+        "end": 74
+      },
+      {
+        "text": "redefine intuitive web-readiness",
+        "label": "COURSE",
+        "start": 101,
+        "end": 133
+      },
+      {
+        "text": "02/07/2553",
+        "label": "DATE",
+        "start": 142,
+        "end": 152
+      },
+      {
+        "text": "ห้างหุ้นส่วนสามัญ นวลเพ็ง",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 25
+      },
+      {
+        "text": "http://www.haanghunswncchamkad.mi.th/",
+        "label": "URL",
+        "start": 187,
+        "end": 224
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.784442",
+      "language": "th"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nวันชนก นฤภัย\nhas successfully completed the training program\n'Stand-alone 4thgeneration utilization'\non 2563-12-05.\n\nIssued by: บริษัท ดาตูอินเตอร์เนชั่นแนล จำกัด\nAuthorized by: เอนกพงศ์ บุนยาภิสนท์, President\nCertificate ID: pHg2338\n\nVerify at: https://www.brisath.org/",
+    "entities": [
+      {
+        "text": "วันชนก นฤภัย",
+        "label": "PERSON",
+        "start": 51,
+        "end": 63
+      },
+      {
+        "text": "Stand-alone 4thgeneration utilization",
+        "label": "COURSE",
+        "start": 113,
+        "end": 150
+      },
+      {
+        "text": "2563-12-05",
+        "label": "DATE",
+        "start": 155,
+        "end": 165
+      },
+      {
+        "text": "บริษัท ดาตูอินเตอร์เนชั่นแนล จำกัด",
+        "label": "ISSUER",
+        "start": 179,
+        "end": 213
+      },
+      {
+        "text": "https://www.brisath.org/",
+        "label": "URL",
+        "start": 297,
+        "end": 321
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.844444",
+      "language": "en"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: สินสมุทร ทองสินธุ์\nCOURSE: Ergonomic maximized model / brand global markets\nDATE: 2560-11-11 (13/06/2521)\nORGANIZATION: นะวะมันดร-เตมิยะเดช\n\nID: PIS3904 | URL: https://www.brisath.or.th/\nVALIDATED BY: กฤตเมธ นิลวรรณ, President",
+    "entities": [
+      {
+        "text": "สินสมุทร ทองสินธุ์",
+        "label": "PERSON",
+        "start": 47,
+        "end": 65
+      },
+      {
+        "text": "Ergonomic maximized model",
+        "label": "COURSE",
+        "start": 74,
+        "end": 99
+      },
+      {
+        "text": "brand global markets",
+        "label": "COURSE",
+        "start": 102,
+        "end": 122
+      },
+      {
+        "text": "2560-11-11",
+        "label": "DATE",
+        "start": 129,
+        "end": 139
+      },
+      {
+        "text": "13/06/2521",
+        "label": "DATE",
+        "start": 141,
+        "end": 151
+      },
+      {
+        "text": "นะวะมันดร-เตมิยะเดช",
+        "label": "ISSUER",
+        "start": 167,
+        "end": 186
+      },
+      {
+        "text": "https://www.brisath.or.th/",
+        "label": "URL",
+        "start": 207,
+        "end": 233
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.793442",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "ซาซุมอิมปอร์ตเอ็กซปอร์ต nCd4974\nใบรับรอง\nมอบให้แก่\n\nธวัศชา นุ่มกัน\n\nได้ผ่านการอบรม\nหลักสูตร: utilize world-class portals\n\nวันที่ 25/11/2531\n\nสุภาพร ฉัตรอภิเที่ยงค่ำ\n(ประธานกรรมการ)\n\nhttp://brisath.co.th/",
+    "entities": [
+      {
+        "text": "ธวัศชา นุ่มกัน",
+        "label": "PERSON",
+        "start": 52,
+        "end": 66
+      },
+      {
+        "text": "utilize world-class portals",
+        "label": "COURSE",
+        "start": 93,
+        "end": 120
+      },
+      {
+        "text": "25/11/2531",
+        "label": "DATE",
+        "start": 129,
+        "end": 139
+      },
+      {
+        "text": "ซาซุมอิมปอร์ตเอ็กซปอร์ต",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 23
+      },
+      {
+        "text": "http://brisath.co.th/",
+        "label": "URL",
+        "start": 182,
+        "end": 203
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.799443",
+      "language": "th"
+    }
+  },
+  {
+    "text": "นวลเพ็งและเดชวา GLw8749\nใบรับรอง\nมอบให้แก่\n\nธีรวุฒิ ไม้แดง\n\nได้ผ่านการอบรม\nหลักสูตร: engineer end-to-end niches\n\nวันที่ 16/11/2541\n\nณิชาภัทร ศรีสัตย์\n(ประธานกรรมการ)\n\nhttp://www.bmcchtangephaaechrwis.com/",
+    "entities": [
+      {
+        "text": "ธีรวุฒิ ไม้แดง",
+        "label": "PERSON",
+        "start": 44,
+        "end": 58
+      },
+      {
+        "text": "engineer end-to-end niches",
+        "label": "COURSE",
+        "start": 85,
+        "end": 111
+      },
+      {
+        "text": "16/11/2541",
+        "label": "DATE",
+        "start": 120,
+        "end": 130
+      },
+      {
+        "text": "นวลเพ็งและเดชวา",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "http://www.bmcchtangephaaechrwis.com/",
+        "label": "URL",
+        "start": 167,
+        "end": 204
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.747486",
+      "language": "th"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nอดิสรณ์ ทีฆะ\nhas successfully completed the training program\n'Profound transitional data-warehouse'\non 2541-01-29.\n\nIssued by: หจก.ทุมะบุตร์พานิช\nAuthorized by: เกศรา ทรัพย์ธำรงค์, Director\nCertificate ID: fdr7457\n\nVerify at: http://bmcchthuwanuti.com/",
+    "entities": [
+      {
+        "text": "อดิสรณ์ ทีฆะ",
+        "label": "PERSON",
+        "start": 51,
+        "end": 63
+      },
+      {
+        "text": "Profound transitional data-warehouse",
+        "label": "COURSE",
+        "start": 113,
+        "end": 149
+      },
+      {
+        "text": "2541-01-29",
+        "label": "DATE",
+        "start": 154,
+        "end": 164
+      },
+      {
+        "text": "หจก.ทุมะบุตร์พานิช",
+        "label": "ISSUER",
+        "start": 178,
+        "end": 196
+      },
+      {
+        "text": "http://bmcchthuwanuti.com/",
+        "label": "URL",
+        "start": 277,
+        "end": 303
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.749485",
+      "language": "en"
+    }
+  },
+  {
+    "text": "หจก.ทองปากน้ำเทรดดิ้ง nwX2178\nใบรับรอง\nมอบให้แก่\n\nถนอมชัย เดชคุ้ม\n\nได้ผ่านการอบรม\nหลักสูตร: extend revolutionary channels\n\nวันที่ 07/02/2520\n\nฤทธิ์ชกร นรวิทย์โชติกุล\n(ประธานกรรมการ)\n\nhttps://www.haanghunswncchamkad.com/",
+    "entities": [
+      {
+        "text": "ถนอมชัย เดชคุ้ม",
+        "label": "PERSON",
+        "start": 50,
+        "end": 65
+      },
+      {
+        "text": "extend revolutionary channels",
+        "label": "COURSE",
+        "start": 92,
+        "end": 121
+      },
+      {
+        "text": "07/02/2520",
+        "label": "DATE",
+        "start": 130,
+        "end": 140
+      },
+      {
+        "text": "หจก.ทองปากน้ำเทรดดิ้ง",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 21
+      },
+      {
+        "text": "https://www.haanghunswncchamkad.com/",
+        "label": "URL",
+        "start": 183,
+        "end": 219
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.781442",
+      "language": "th"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nปฐวีกานต์ ตั้งรบ\nhas successfully completed the training program\n'Function-based background frame'\non 2528-08-19.\n\nIssued by: สหภาพแรงงานนำธวัช\nAuthorized by: ธัญญามาศ ขุนดำ, President\nCertificate ID: iFM6844\n\nVerify at: http://www.hcchkthuuphmbrikaar.in.th/",
+    "entities": [
+      {
+        "text": "ปฐวีกานต์ ตั้งรบ",
+        "label": "PERSON",
+        "start": 51,
+        "end": 67
+      },
+      {
+        "text": "Function-based background frame",
+        "label": "COURSE",
+        "start": 117,
+        "end": 148
+      },
+      {
+        "text": "2528-08-19",
+        "label": "DATE",
+        "start": 153,
+        "end": 163
+      },
+      {
+        "text": "สหภาพแรงงานนำธวัช",
+        "label": "ISSUER",
+        "start": 177,
+        "end": 194
+      },
+      {
+        "text": "http://www.hcchkthuuphmbrikaar.in.th/",
+        "label": "URL",
+        "start": 272,
+        "end": 309
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.778443",
+      "language": "en"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: เถลิงยศ นิษประปัญจ์\nCOURSE: Customer-focused demand-driven structure / cultivate B2B web-readiness\nDATE: 2518-09-14 (23/10/2525)\nORGANIZATION: บริษัท ศรีธนะเวทย์ยานยนต์ จำกัด\n\nID: SWG0696 | URL: http://brisath.org/\nVALIDATED BY: วัลยา นะวะมันดร, CEO",
+    "entities": [
+      {
+        "text": "เถลิงยศ นิษประปัญจ์",
+        "label": "PERSON",
+        "start": 47,
+        "end": 66
+      },
+      {
+        "text": "Customer-focused demand-driven structure",
+        "label": "COURSE",
+        "start": 75,
+        "end": 115
+      },
+      {
+        "text": "cultivate B2B web-readiness",
+        "label": "COURSE",
+        "start": 118,
+        "end": 145
+      },
+      {
+        "text": "2518-09-14",
+        "label": "DATE",
+        "start": 152,
+        "end": 162
+      },
+      {
+        "text": "23/10/2525",
+        "label": "DATE",
+        "start": 164,
+        "end": 174
+      },
+      {
+        "text": "บริษัท ศรีธนะเวทย์ยานยนต์ จำกัด",
+        "label": "ISSUER",
+        "start": 190,
+        "end": 221
+      },
+      {
+        "text": "http://brisath.org/",
+        "label": "URL",
+        "start": 242,
+        "end": 261
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.751486",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: เพียงกมล นาถะเดชะ\nCOURSE: Programmable bifurcated knowledge user / transition B2C relationships\nDATE: 2543-01-23 (19/05/2548)\nORGANIZATION: บริษัทหลักทรัพย์ แนวพญาเฟอนิชชิ่ง จำกัด (มหาชน)\n\nID: ahf6312 | URL: http://www.haanghunswncchamkad.com/\nVALIDATED BY: ธีรวุฒิ ยางสวย, President",
+    "entities": [
+      {
+        "text": "เพียงกมล นาถะเดชะ",
+        "label": "PERSON",
+        "start": 47,
+        "end": 64
+      },
+      {
+        "text": "Programmable bifurcated knowledge user",
+        "label": "COURSE",
+        "start": 73,
+        "end": 111
+      },
+      {
+        "text": "transition B2C relationships",
+        "label": "COURSE",
+        "start": 114,
+        "end": 142
+      },
+      {
+        "text": "2543-01-23",
+        "label": "DATE",
+        "start": 149,
+        "end": 159
+      },
+      {
+        "text": "19/05/2548",
+        "label": "DATE",
+        "start": 161,
+        "end": 171
+      },
+      {
+        "text": "บริษัทหลักทรัพย์ แนวพญาเฟอนิชชิ่ง จำกัด (มหาชน)",
+        "label": "ISSUER",
+        "start": 187,
+        "end": 234
+      },
+      {
+        "text": "http://www.haanghunswncchamkad.com/",
+        "label": "URL",
+        "start": 255,
+        "end": 290
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.749485",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nอรรจน์ เจริญรัมย์\nhas successfully completed the training program\n'Polarized modular solution'\non 2539-12-22.\n\nIssued by: บริษัท นิษประปัญจ์วิศวกรรม จำกัด\nAuthorized by: สันติราษฎร์ ตะละภัฏ, Director\nCertificate ID: WLw3484\n\nVerify at: http://www.brisath.in.th/",
+    "entities": [
+      {
+        "text": "อรรจน์ เจริญรัมย์",
+        "label": "PERSON",
+        "start": 51,
+        "end": 68
+      },
+      {
+        "text": "Polarized modular solution",
+        "label": "COURSE",
+        "start": 118,
+        "end": 144
+      },
+      {
+        "text": "2539-12-22",
+        "label": "DATE",
+        "start": 149,
+        "end": 159
+      },
+      {
+        "text": "บริษัท นิษประปัญจ์วิศวกรรม จำกัด",
+        "label": "ISSUER",
+        "start": 173,
+        "end": 205
+      },
+      {
+        "text": "http://www.brisath.in.th/",
+        "label": "URL",
+        "start": 287,
+        "end": 312
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.796442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nรอซีด๊ะ ธนูปกรณ์\nhas successfully completed the training program\n'Versatile high-level projection'\non 2529-04-24.\n\nIssued by: บมจ.ไตรบรรพเซอร์วิส\nAuthorized by: วาสุเทพ ชุมวระ, President\nCertificate ID: GfY2373\n\nVerify at: https://www.thnadkaaryntaaihlynt.com/",
+    "entities": [
+      {
+        "text": "รอซีด๊ะ ธนูปกรณ์",
+        "label": "PERSON",
+        "start": 51,
+        "end": 67
+      },
+      {
+        "text": "Versatile high-level projection",
+        "label": "COURSE",
+        "start": 117,
+        "end": 148
+      },
+      {
+        "text": "2529-04-24",
+        "label": "DATE",
+        "start": 153,
+        "end": 163
+      },
+      {
+        "text": "บมจ.ไตรบรรพเซอร์วิส",
+        "label": "ISSUER",
+        "start": 177,
+        "end": 196
+      },
+      {
+        "text": "https://www.thnadkaaryntaaihlynt.com/",
+        "label": "URL",
+        "start": 274,
+        "end": 311
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.769443",
+      "language": "en"
+    }
+  },
+  {
+    "text": "มูลนิธิขอหมั่นกลาง tLA3811\nใบรับรอง\nมอบให้แก่\n\nวิถี เขียวอ่อน\n\nได้ผ่านการอบรม\nหลักสูตร: visualize turn-key methodologies\n\nวันที่ 30/08/2544\n\nพีระพงศ์พันธ์ ถุงเงิน\n(ผู้อำนวยการ)\n\nhttp://www.hcchkaenwphyaakaarbaychii.in.th/",
+    "entities": [
+      {
+        "text": "วิถี เขียวอ่อน",
+        "label": "PERSON",
+        "start": 47,
+        "end": 61
+      },
+      {
+        "text": "visualize turn-key methodologies",
+        "label": "COURSE",
+        "start": 88,
+        "end": 120
+      },
+      {
+        "text": "30/08/2544",
+        "label": "DATE",
+        "start": 129,
+        "end": 139
+      },
+      {
+        "text": "มูลนิธิขอหมั่นกลาง",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "text": "http://www.hcchkaenwphyaakaarbaychii.in.th/",
+        "label": "URL",
+        "start": 178,
+        "end": 221
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.743486",
+      "language": "th"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: วันฉัตร ธนูปกรณ์\nCOURSE: User-centric zero administration intranet / harness value-added partnerships\nDATE: 2532-10-28 (22/06/2540)\nORGANIZATION: บมจ.นิละทัต\n\nID: ovx7522 | URL: http://www.muulnithiaethnthng.org/\nVALIDATED BY: เจษฏาภรณ์ ขันธุลา, Director",
+    "entities": [
+      {
+        "text": "วันฉัตร ธนูปกรณ์",
+        "label": "PERSON",
+        "start": 47,
+        "end": 63
+      },
+      {
+        "text": "User-centric zero administration intranet",
+        "label": "COURSE",
+        "start": 72,
+        "end": 113
+      },
+      {
+        "text": "harness value-added partnerships",
+        "label": "COURSE",
+        "start": 116,
+        "end": 148
+      },
+      {
+        "text": "2532-10-28",
+        "label": "DATE",
+        "start": 155,
+        "end": 165
+      },
+      {
+        "text": "22/06/2540",
+        "label": "DATE",
+        "start": 167,
+        "end": 177
+      },
+      {
+        "text": "บมจ.นิละทัต",
+        "label": "ISSUER",
+        "start": 193,
+        "end": 204
+      },
+      {
+        "text": "http://www.muulnithiaethnthng.org/",
+        "label": "URL",
+        "start": 225,
+        "end": 259
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.802443",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: รภัสพงษ์ ธูปหอม\nCOURSE: Business-focused analyzing Graphical User Interface / streamline frictionless e-tailers\nDATE: 2565-05-25 (25/08/2546)\nORGANIZATION: สมาคมเพียยา\n\nID: UNX7276 | URL: http://www.haanghunswncchamkad.in.th/\nVALIDATED BY: สินสมุทร นิยมธรรม, CEO",
+    "entities": [
+      {
+        "text": "รภัสพงษ์ ธูปหอม",
+        "label": "PERSON",
+        "start": 47,
+        "end": 62
+      },
+      {
+        "text": "Business-focused analyzing Graphical User Interface",
+        "label": "COURSE",
+        "start": 71,
+        "end": 122
+      },
+      {
+        "text": "streamline frictionless e-tailers",
+        "label": "COURSE",
+        "start": 125,
+        "end": 158
+      },
+      {
+        "text": "2565-05-25",
+        "label": "DATE",
+        "start": 165,
+        "end": 175
+      },
+      {
+        "text": "25/08/2546",
+        "label": "DATE",
+        "start": 177,
+        "end": 187
+      },
+      {
+        "text": "สมาคมเพียยา",
+        "label": "ISSUER",
+        "start": 203,
+        "end": 214
+      },
+      {
+        "text": "http://www.haanghunswncchamkad.in.th/",
+        "label": "URL",
+        "start": 235,
+        "end": 272
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.816443",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "ห้างหุ้นส่วนจำกัด ติระคมน์ขนส่ง dft3780\nใบรับรอง\nมอบให้แก่\n\nณิชาภัทร เนตร์มณี\n\nได้ผ่านการอบรม\nหลักสูตร: disintermediate global portals\n\nวันที่ 15/09/2562\n\nภัทรนาฎ ถาวระวรณ์\n(ประธานกรรมการ)\n\nhttp://www.haanghunswncchamkad.com/",
+    "entities": [
+      {
+        "text": "ณิชาภัทร เนตร์มณี",
+        "label": "PERSON",
+        "start": 60,
+        "end": 77
+      },
+      {
+        "text": "disintermediate global portals",
+        "label": "COURSE",
+        "start": 104,
+        "end": 134
+      },
+      {
+        "text": "15/09/2562",
+        "label": "DATE",
+        "start": 143,
+        "end": 153
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด ติระคมน์ขนส่ง",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 31
+      },
+      {
+        "text": "http://www.haanghunswncchamkad.com/",
+        "label": "URL",
+        "start": 190,
+        "end": 225
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.846442",
+      "language": "th"
+    }
+  },
+  {
+    "text": "บริษัท ตะละภัฏ จำกัด TVm4163\nใบรับรอง\nมอบให้แก่\n\nเทียมศักดิ์ ธนรักษ์\n\nได้ผ่านการอบรม\nหลักสูตร: exploit robust solutions\n\nวันที่ 18/05/2565\n\nยศพงศ์ ถิรสวัสดิ์\n(ประธานกรรมการ)\n\nhttps://www.bmcchelkhaphanthu.or.th/",
+    "entities": [
+      {
+        "text": "เทียมศักดิ์ ธนรักษ์",
+        "label": "PERSON",
+        "start": 49,
+        "end": 68
+      },
+      {
+        "text": "exploit robust solutions",
+        "label": "COURSE",
+        "start": 95,
+        "end": 119
+      },
+      {
+        "text": "18/05/2565",
+        "label": "DATE",
+        "start": 128,
+        "end": 138
+      },
+      {
+        "text": "บริษัท ตะละภัฏ จำกัด",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "https://www.bmcchelkhaphanthu.or.th/",
+        "label": "URL",
+        "start": 175,
+        "end": 211
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.825442",
+      "language": "th"
+    }
+  },
+  {
+    "text": "บจก.นิระหานีพานิช fMZ3580\nใบรับรอง\nมอบให้แก่\n\nวณัฐดา ถนัดการยนต์\n\nได้ผ่านการอบรม\nหลักสูตร: generate seamless web services\n\nวันที่ 16/10/2547\n\nภูวัน นิยมเซียม\n(ประธานกรรมการ)\n\nhttp://brisath.co.th/",
+    "entities": [
+      {
+        "text": "วณัฐดา ถนัดการยนต์",
+        "label": "PERSON",
+        "start": 46,
+        "end": 64
+      },
+      {
+        "text": "generate seamless web services",
+        "label": "COURSE",
+        "start": 91,
+        "end": 121
+      },
+      {
+        "text": "16/10/2547",
+        "label": "DATE",
+        "start": 130,
+        "end": 140
+      },
+      {
+        "text": "บจก.นิระหานีพานิช",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "http://brisath.co.th/",
+        "label": "URL",
+        "start": 175,
+        "end": 196
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.740439",
+      "language": "th"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: มาโนชญ์ ตั้งกุลงาม\nCOURSE: Multi-channeled high-level secured line / scale plug-and-play e-business\nDATE: 2548-11-19 (11/06/2534)\nORGANIZATION: ห้างหุ้นส่วนสามัญ นิลวิมล\n\nID: iMw2885 | URL: https://thnaakhaareyaawthnochkh.in.th/\nVALIDATED BY: พีรภัทร์ แก้วชลคราม, Director",
+    "entities": [
+      {
+        "text": "มาโนชญ์ ตั้งกุลงาม",
+        "label": "PERSON",
+        "start": 47,
+        "end": 65
+      },
+      {
+        "text": "Multi-channeled high-level secured line",
+        "label": "COURSE",
+        "start": 74,
+        "end": 113
+      },
+      {
+        "text": "scale plug-and-play e-business",
+        "label": "COURSE",
+        "start": 116,
+        "end": 146
+      },
+      {
+        "text": "2548-11-19",
+        "label": "DATE",
+        "start": 153,
+        "end": 163
+      },
+      {
+        "text": "11/06/2534",
+        "label": "DATE",
+        "start": 165,
+        "end": 175
+      },
+      {
+        "text": "ห้างหุ้นส่วนสามัญ นิลวิมล",
+        "label": "ISSUER",
+        "start": 191,
+        "end": 216
+      },
+      {
+        "text": "https://thnaakhaareyaawthnochkh.in.th/",
+        "label": "URL",
+        "start": 237,
+        "end": 275
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.780442",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "บริษัท ธาราธร จำกัด ieU4775\nใบรับรอง\nมอบให้แก่\n\nกุลปรียา สุวรรณหงษ์\n\nได้ผ่านการอบรม\nหลักสูตร: morph distributed architectures\n\nวันที่ 22/11/2537\n\nหล้า ชำนาญวาด\n(ผู้จัดการทั่วไป)\n\nhttps://butdaaeeynchii.com/",
+    "entities": [
+      {
+        "text": "กุลปรียา สุวรรณหงษ์",
+        "label": "PERSON",
+        "start": 48,
+        "end": 67
+      },
+      {
+        "text": "morph distributed architectures",
+        "label": "COURSE",
+        "start": 94,
+        "end": 125
+      },
+      {
+        "text": "22/11/2537",
+        "label": "DATE",
+        "start": 134,
+        "end": 144
+      },
+      {
+        "text": "บริษัท ธาราธร จำกัด",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "https://butdaaeeynchii.com/",
+        "label": "URL",
+        "start": 179,
+        "end": 206
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.797442",
+      "language": "th"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nอาฮามัด นาคสุทิน\nhas successfully completed the training program\n'Re-engineered multi-tasking knowledgebase'\non 2558-01-12.\n\nIssued by: ห้างหุ้นส่วนจำกัด ตั้งกุลงามบริการ\nAuthorized by: ศิริเกศ ผลบุญ, President\nCertificate ID: Ioa7063\n\nVerify at: http://www.hcchkyaangswy.ac.th/",
+    "entities": [
+      {
+        "text": "อาฮามัด นาคสุทิน",
+        "label": "PERSON",
+        "start": 51,
+        "end": 67
+      },
+      {
+        "text": "Re-engineered multi-tasking knowledgebase",
+        "label": "COURSE",
+        "start": 117,
+        "end": 158
+      },
+      {
+        "text": "2558-01-12",
+        "label": "DATE",
+        "start": 163,
+        "end": 173
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด ตั้งกุลงามบริการ",
+        "label": "ISSUER",
+        "start": 187,
+        "end": 221
+      },
+      {
+        "text": "http://www.hcchkyaangswy.ac.th/",
+        "label": "URL",
+        "start": 298,
+        "end": 329
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.746485",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nธมน นฤทุกข์\nhas successfully completed the training program\n'Secured empowering portal'\non 2563-01-25.\n\nIssued by: ห้างหุ้นส่วนสามัญ ธาราธรมอเตอร์\nAuthorized by: สิทธิชัย เลขะพันธุ์, President\nCertificate ID: RNO5717\n\nVerify at: https://www.muulnithicchann.org/",
+    "entities": [
+      {
+        "text": "ธมน นฤทุกข์",
+        "label": "PERSON",
+        "start": 51,
+        "end": 62
+      },
+      {
+        "text": "Secured empowering portal",
+        "label": "COURSE",
+        "start": 112,
+        "end": 137
+      },
+      {
+        "text": "2563-01-25",
+        "label": "DATE",
+        "start": 142,
+        "end": 152
+      },
+      {
+        "text": "ห้างหุ้นส่วนสามัญ ธาราธรมอเตอร์",
+        "label": "ISSUER",
+        "start": 166,
+        "end": 197
+      },
+      {
+        "text": "https://www.muulnithicchann.org/",
+        "label": "URL",
+        "start": 280,
+        "end": 312
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.822442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "หจก.เนตร์มณีอิมปอร์ตเอ็กซปอร์ต AWf4239\nใบรับรอง\nมอบให้แก่\n\nภูวฤณ ธาราธร\n\nได้ผ่านการอบรม\nหลักสูตร: implement seamless eyeballs\n\nวันที่ 21/06/2558\n\nสมใจ บุญญาภิรมย์\n(ประธานกรรมการ)\n\nhttp://hcchkeyaawthnochkhimprtekchprt.com/",
+    "entities": [
+      {
+        "text": "ภูวฤณ ธาราธร",
+        "label": "PERSON",
+        "start": 59,
+        "end": 71
+      },
+      {
+        "text": "implement seamless eyeballs",
+        "label": "COURSE",
+        "start": 98,
+        "end": 125
+      },
+      {
+        "text": "21/06/2558",
+        "label": "DATE",
+        "start": 134,
+        "end": 144
+      },
+      {
+        "text": "หจก.เนตร์มณีอิมปอร์ตเอ็กซปอร์ต",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 30
+      },
+      {
+        "text": "http://hcchkeyaawthnochkhimprtekchprt.com/",
+        "label": "URL",
+        "start": 180,
+        "end": 222
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.745486",
+      "language": "th"
+    }
+  },
+  {
+    "text": "ห้างหุ้นส่วนจำกัด เนื่องนนท์บริการ bCp5891\nใบรับรอง\nมอบให้แก่\n\nกวาง ทัศนสุทธิ\n\nได้ผ่านการอบรม\nหลักสูตร: disintermediate 24/365 experiences\n\nวันที่ 11/08/2515\n\nวุฒิ เพียยา\n(ผู้จัดการทั่วไป)\n\nhttps://www.haanghunswncchamkad.or.th/",
+    "entities": [
+      {
+        "text": "กวาง ทัศนสุทธิ",
+        "label": "PERSON",
+        "start": 63,
+        "end": 77
+      },
+      {
+        "text": "disintermediate 24/365 experiences",
+        "label": "COURSE",
+        "start": 104,
+        "end": 138
+      },
+      {
+        "text": "11/08/2515",
+        "label": "DATE",
+        "start": 147,
+        "end": 157
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด เนื่องนนท์บริการ",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 34
+      },
+      {
+        "text": "https://www.haanghunswncchamkad.or.th/",
+        "label": "URL",
+        "start": 190,
+        "end": 228
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.817442",
+      "language": "th"
+    }
+  },
+  {
+    "text": "บริษัท ทองปากน้ำพานิช จำกัด SYB3146\nใบรับรอง\nมอบให้แก่\n\nไวพจน์ แถมธน\n\nได้ผ่านการอบรม\nหลักสูตร: harness scalable users\n\nวันที่ 29/09/2535\n\nยศพงศ์ ขุนดำ\n(ผู้จัดการทั่วไป)\n\nhttps://www.haanghunswnsaamay.com/",
+    "entities": [
+      {
+        "text": "ไวพจน์ แถมธน",
+        "label": "PERSON",
+        "start": 56,
+        "end": 68
+      },
+      {
+        "text": "harness scalable users",
+        "label": "COURSE",
+        "start": 95,
+        "end": 117
+      },
+      {
+        "text": "29/09/2535",
+        "label": "DATE",
+        "start": 126,
+        "end": 136
+      },
+      {
+        "text": "บริษัท ทองปากน้ำพานิช จำกัด",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 27
+      },
+      {
+        "text": "https://www.haanghunswnsaamay.com/",
+        "label": "URL",
+        "start": 170,
+        "end": 204
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.767443",
+      "language": "th"
+    }
+  },
+  {
+    "text": "ทำประดู่จิวเวลรี่ OEd6535\nใบรับรอง\nมอบให้แก่\n\nบุญเกิด นกทอง\n\nได้ผ่านการอบรม\nหลักสูตร: syndicate real-time users\n\nวันที่ 28/12/2566\n\nเจษฏาภรณ์ ถะเกิงชศ\n(ผู้จัดการทั่วไป)\n\nhttps://www.haanghunswncchamkad.net/",
+    "entities": [
+      {
+        "text": "บุญเกิด นกทอง",
+        "label": "PERSON",
+        "start": 46,
+        "end": 59
+      },
+      {
+        "text": "syndicate real-time users",
+        "label": "COURSE",
+        "start": 86,
+        "end": 111
+      },
+      {
+        "text": "28/12/2566",
+        "label": "DATE",
+        "start": 120,
+        "end": 130
+      },
+      {
+        "text": "ทำประดู่จิวเวลรี่",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "https://www.haanghunswncchamkad.net/",
+        "label": "URL",
+        "start": 170,
+        "end": 206
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.823443",
+      "language": "th"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nปรายกานต์ นิระหานี\nhas successfully completed the training program\n'Programmable regional moratorium'\non 2540-03-18.\n\nIssued by: บริษัท ถนัดกลึง จำกัด\nAuthorized by: สีหราช ปานสุวรรณ, CEO\nCertificate ID: BtY0289\n\nVerify at: https://www.nilsuwrrnbrikaar.com/",
+    "entities": [
+      {
+        "text": "ปรายกานต์ นิระหานี",
+        "label": "PERSON",
+        "start": 51,
+        "end": 69
+      },
+      {
+        "text": "Programmable regional moratorium",
+        "label": "COURSE",
+        "start": 119,
+        "end": 151
+      },
+      {
+        "text": "2540-03-18",
+        "label": "DATE",
+        "start": 156,
+        "end": 166
+      },
+      {
+        "text": "บริษัท ถนัดกลึง จำกัด",
+        "label": "ISSUER",
+        "start": 180,
+        "end": 201
+      },
+      {
+        "text": "https://www.nilsuwrrnbrikaar.com/",
+        "label": "URL",
+        "start": 275,
+        "end": 308
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.801442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "หจก.ทองเนื้อดี ozZ8358\nใบรับรอง\nมอบให้แก่\n\nสมใจ วาทา\n\nได้ผ่านการอบรม\nหลักสูตร: productize 24/7 deliverables\n\nวันที่ 13/04/2564\n\nอุลัยพร เขียวขุ้ย\n(ผู้อำนวยการ)\n\nhttp://haanghunswncchamkad.co.th/",
+    "entities": [
+      {
+        "text": "สมใจ วาทา",
+        "label": "PERSON",
+        "start": 43,
+        "end": 52
+      },
+      {
+        "text": "productize 24/7 deliverables",
+        "label": "COURSE",
+        "start": 79,
+        "end": 107
+      },
+      {
+        "text": "13/04/2564",
+        "label": "DATE",
+        "start": 116,
+        "end": 126
+      },
+      {
+        "text": "หจก.ทองเนื้อดี",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "text": "http://haanghunswncchamkad.co.th/",
+        "label": "URL",
+        "start": 161,
+        "end": 194
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.747486",
+      "language": "th"
+    }
+  },
+  {
+    "text": "ชมรมธูปะวิโรจน์ jVZ4882\nใบรับรอง\nมอบให้แก่\n\nนิวิลดาน ธีวร\n\nได้ผ่านการอบรม\nหลักสูตร: whiteboard transparent vortals\n\nวันที่ 25/03/2520\n\nภานุวัตร บุนยะศัพท์\n(ผู้อำนวยการ)\n\nhttps://brisath.com/",
+    "entities": [
+      {
+        "text": "นิวิลดาน ธีวร",
+        "label": "PERSON",
+        "start": 44,
+        "end": 57
+      },
+      {
+        "text": "whiteboard transparent vortals",
+        "label": "COURSE",
+        "start": 84,
+        "end": 114
+      },
+      {
+        "text": "25/03/2520",
+        "label": "DATE",
+        "start": 123,
+        "end": 133
+      },
+      {
+        "text": "ชมรมธูปะวิโรจน์",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "https://brisath.com/",
+        "label": "URL",
+        "start": 170,
+        "end": 190
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.850442",
+      "language": "th"
+    }
+  },
+  {
+    "text": "ห้างหุ้นส่วนจำกัด ดาบเพ็ชร์เฟอนิชชิ่ง jgy1914\nใบรับรอง\nมอบให้แก่\n\nรังสินี ตั้งรบ\n\nได้ผ่านการอบรม\nหลักสูตร: empower bricks-and-clicks content\n\nวันที่ 13/02/2562\n\nเฉลิมรัฐ ทรัพย์สาร\n(ประธานกรรมการ)\n\nhttps://brisath.com/",
+    "entities": [
+      {
+        "text": "รังสินี ตั้งรบ",
+        "label": "PERSON",
+        "start": 66,
+        "end": 80
+      },
+      {
+        "text": "empower bricks-and-clicks content",
+        "label": "COURSE",
+        "start": 107,
+        "end": 140
+      },
+      {
+        "text": "13/02/2562",
+        "label": "DATE",
+        "start": 149,
+        "end": 159
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด ดาบเพ็ชร์เฟอนิชชิ่ง",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 37
+      },
+      {
+        "text": "https://brisath.com/",
+        "label": "URL",
+        "start": 197,
+        "end": 217
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.787442",
+      "language": "th"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: ภัคศุภางค์ ฉายแสง\nCOURSE: Synchronized didactic benchmark / exploit scalable relationships\nDATE: 2531-03-29 (21/10/2554)\nORGANIZATION: เมืองสุข-คณานุรักษ์\n\nID: vDk9079 | URL: http://www.datphanthu-unk.go.th/\nVALIDATED BY: ธนวันต์ วะคีมัน, Director",
+    "entities": [
+      {
+        "text": "ภัคศุภางค์ ฉายแสง",
+        "label": "PERSON",
+        "start": 47,
+        "end": 64
+      },
+      {
+        "text": "Synchronized didactic benchmark",
+        "label": "COURSE",
+        "start": 73,
+        "end": 104
+      },
+      {
+        "text": "exploit scalable relationships",
+        "label": "COURSE",
+        "start": 107,
+        "end": 137
+      },
+      {
+        "text": "2531-03-29",
+        "label": "DATE",
+        "start": 144,
+        "end": 154
+      },
+      {
+        "text": "21/10/2554",
+        "label": "DATE",
+        "start": 156,
+        "end": 166
+      },
+      {
+        "text": "เมืองสุข-คณานุรักษ์",
+        "label": "ISSUER",
+        "start": 182,
+        "end": 201
+      },
+      {
+        "text": "http://www.datphanthu-unk.go.th/",
+        "label": "URL",
+        "start": 222,
+        "end": 254
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.856442",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: อริสรา ทหารแท้\nCOURSE: Operative zero administration moratorium / integrate seamless technologies\nDATE: 2558-07-06 (12/12/2550)\nORGANIZATION: หจก.ทองแท้\n\nID: mmr7537 | URL: http://www.haanghunswnsaamay.net/\nVALIDATED BY: พันเกล้า วุฑฒยากร, President",
+    "entities": [
+      {
+        "text": "อริสรา ทหารแท้",
+        "label": "PERSON",
+        "start": 47,
+        "end": 61
+      },
+      {
+        "text": "Operative zero administration moratorium",
+        "label": "COURSE",
+        "start": 70,
+        "end": 110
+      },
+      {
+        "text": "integrate seamless technologies",
+        "label": "COURSE",
+        "start": 113,
+        "end": 144
+      },
+      {
+        "text": "2558-07-06",
+        "label": "DATE",
+        "start": 151,
+        "end": 161
+      },
+      {
+        "text": "12/12/2550",
+        "label": "DATE",
+        "start": 163,
+        "end": 173
+      },
+      {
+        "text": "หจก.ทองแท้",
+        "label": "ISSUER",
+        "start": 189,
+        "end": 199
+      },
+      {
+        "text": "http://www.haanghunswnsaamay.net/",
+        "label": "URL",
+        "start": 220,
+        "end": 253
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.824443",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: ชัญญานุนาย นะวะมันดร\nCOURSE: Seamless bandwidth-monitored contingency / deploy frictionless e-services\nDATE: 2548-09-26 (16/07/2537)\nORGANIZATION: บริษัท ราชมณีการบัญชี จำกัด\n\nID: mLO1316 | URL: https://www.haanghunswncchamkad.net.th/\nVALIDATED BY: ณัฐติญา มิ่งขวัญ, CEO",
+    "entities": [
+      {
+        "text": "ชัญญานุนาย นะวะมันดร",
+        "label": "PERSON",
+        "start": 47,
+        "end": 67
+      },
+      {
+        "text": "Seamless bandwidth-monitored contingency",
+        "label": "COURSE",
+        "start": 76,
+        "end": 116
+      },
+      {
+        "text": "deploy frictionless e-services",
+        "label": "COURSE",
+        "start": 119,
+        "end": 149
+      },
+      {
+        "text": "2548-09-26",
+        "label": "DATE",
+        "start": 156,
+        "end": 166
+      },
+      {
+        "text": "16/07/2537",
+        "label": "DATE",
+        "start": 168,
+        "end": 178
+      },
+      {
+        "text": "บริษัท ราชมณีการบัญชี จำกัด",
+        "label": "ISSUER",
+        "start": 194,
+        "end": 221
+      },
+      {
+        "text": "https://www.haanghunswncchamkad.net.th/",
+        "label": "URL",
+        "start": 242,
+        "end": 281
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.790443",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "ชมรมศรีวงค์ XNf5207\nใบรับรอง\nมอบให้แก่\n\nกิติชัย ธนรักษ์\n\nได้ผ่านการอบรม\nหลักสูตร: seize granular applications\n\nวันที่ 02/03/2550\n\nอณัฐตา ทหารแท้\n(ผู้อำนวยการ)\n\nhttps://www.smaakhmthngsinthu.go.th/",
+    "entities": [
+      {
+        "text": "กิติชัย ธนรักษ์",
+        "label": "PERSON",
+        "start": 40,
+        "end": 55
+      },
+      {
+        "text": "seize granular applications",
+        "label": "COURSE",
+        "start": 82,
+        "end": 109
+      },
+      {
+        "text": "02/03/2550",
+        "label": "DATE",
+        "start": 118,
+        "end": 128
+      },
+      {
+        "text": "ชมรมศรีวงค์",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "https://www.smaakhmthngsinthu.go.th/",
+        "label": "URL",
+        "start": 160,
+        "end": 196
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.825442",
+      "language": "th"
+    }
+  },
+  {
+    "text": "บริษัท นิลวิมลและเพื่อน จำกัด BdX8586\nใบรับรอง\nมอบให้แก่\n\nกวาง ราชมณี\n\nได้ผ่านการอบรม\nหลักสูตร: extend dot-com web services\n\nวันที่ 22/06/2557\n\nณัฐติญา นุชแนวนุ่ม\n(ผู้อำนวยการ)\n\nhttps://www.brisath.net.th/",
+    "entities": [
+      {
+        "text": "กวาง ราชมณี",
+        "label": "PERSON",
+        "start": 58,
+        "end": 69
+      },
+      {
+        "text": "extend dot-com web services",
+        "label": "COURSE",
+        "start": 96,
+        "end": 123
+      },
+      {
+        "text": "22/06/2557",
+        "label": "DATE",
+        "start": 132,
+        "end": 142
+      },
+      {
+        "text": "บริษัท นิลวิมลและเพื่อน จำกัด",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 29
+      },
+      {
+        "text": "https://www.brisath.net.th/",
+        "label": "URL",
+        "start": 178,
+        "end": 205
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.814442",
+      "language": "th"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: มลิวรรณ ฉายแสง\nCOURSE: Total object-oriented system engine / envisioneer granular paradigms\nDATE: 2529-07-30 (22/11/2521)\nORGANIZATION: ห้างหุ้นส่วนจำกัด นิลวิมลคอมพิวเตอร์\n\nID: nVC9396 | URL: http://brisath.com/\nVALIDATED BY: บุญเทียน ตัณฑนุช, President",
+    "entities": [
+      {
+        "text": "มลิวรรณ ฉายแสง",
+        "label": "PERSON",
+        "start": 47,
+        "end": 61
+      },
+      {
+        "text": "Total object-oriented system engine",
+        "label": "COURSE",
+        "start": 70,
+        "end": 105
+      },
+      {
+        "text": "envisioneer granular paradigms",
+        "label": "COURSE",
+        "start": 108,
+        "end": 138
+      },
+      {
+        "text": "2529-07-30",
+        "label": "DATE",
+        "start": 145,
+        "end": 155
+      },
+      {
+        "text": "22/11/2521",
+        "label": "DATE",
+        "start": 157,
+        "end": 167
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด นิลวิมลคอมพิวเตอร์",
+        "label": "ISSUER",
+        "start": 183,
+        "end": 219
+      },
+      {
+        "text": "http://brisath.com/",
+        "label": "URL",
+        "start": 240,
+        "end": 259
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.839442",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nโชติวุฒิ ปรีชากุลเศรษฐ์\nhas successfully completed the training program\n'Synchronized next generation matrices'\non 2529-01-20.\n\nIssued by: บริษัท ธูปหอมกรุ๊ป จำกัด\nAuthorized by: ภัทรนาฎ ชุมวระ, CEO\nCertificate ID: vvy6503\n\nVerify at: http://brisath.net/",
+    "entities": [
+      {
+        "text": "โชติวุฒิ ปรีชากุลเศรษฐ์",
+        "label": "PERSON",
+        "start": 51,
+        "end": 74
+      },
+      {
+        "text": "Synchronized next generation matrices",
+        "label": "COURSE",
+        "start": 124,
+        "end": 161
+      },
+      {
+        "text": "2529-01-20",
+        "label": "DATE",
+        "start": 166,
+        "end": 176
+      },
+      {
+        "text": "บริษัท ธูปหอมกรุ๊ป จำกัด",
+        "label": "ISSUER",
+        "start": 190,
+        "end": 214
+      },
+      {
+        "text": "http://brisath.net/",
+        "label": "URL",
+        "start": 286,
+        "end": 305
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.818442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nมณียา ธรรมสถิตไพศาล\nhas successfully completed the training program\n'Organic empowering product'\non 2562-07-24.\n\nIssued by: ห้างหุ้นส่วนสามัญ แจ้งสว่าง\nAuthorized by: มนัส ศาสตร์ศิลป์, Director\nCertificate ID: wxm9617\n\nVerify at: https://www.haanghunswncchamkad.co.th/",
+    "entities": [
+      {
+        "text": "มณียา ธรรมสถิตไพศาล",
+        "label": "PERSON",
+        "start": 51,
+        "end": 70
+      },
+      {
+        "text": "Organic empowering product",
+        "label": "COURSE",
+        "start": 120,
+        "end": 146
+      },
+      {
+        "text": "2562-07-24",
+        "label": "DATE",
+        "start": 151,
+        "end": 161
+      },
+      {
+        "text": "ห้างหุ้นส่วนสามัญ แจ้งสว่าง",
+        "label": "ISSUER",
+        "start": 175,
+        "end": 202
+      },
+      {
+        "text": "https://www.haanghunswncchamkad.co.th/",
+        "label": "URL",
+        "start": 281,
+        "end": 319
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.838442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "บมจ.นิระหานีสโตร์ bzu7088\nใบรับรอง\nมอบให้แก่\n\nเสรี ประจันตะเสน\n\nได้ผ่านการอบรม\nหลักสูตร: benchmark web-enabled solutions\n\nวันที่ 04/10/2555\n\nพันเทพ ถนัดภาษา\n(ผู้จัดการทั่วไป)\n\nhttp://www.brisath.mi.th/",
+    "entities": [
+      {
+        "text": "เสรี ประจันตะเสน",
+        "label": "PERSON",
+        "start": 46,
+        "end": 62
+      },
+      {
+        "text": "benchmark web-enabled solutions",
+        "label": "COURSE",
+        "start": 89,
+        "end": 120
+      },
+      {
+        "text": "04/10/2555",
+        "label": "DATE",
+        "start": 129,
+        "end": 139
+      },
+      {
+        "text": "บมจ.นิระหานีสโตร์",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "http://www.brisath.mi.th/",
+        "label": "URL",
+        "start": 176,
+        "end": 201
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.825442",
+      "language": "th"
+    }
+  },
+  {
+    "text": "บริษัท แน่นดุจป้อมอินเตอร์เนชั่นแนล จำกัด (มหาชน) Cil8054\nใบรับรอง\nมอบให้แก่\n\nนพ ถิรสวัสดิ์\n\nได้ผ่านการอบรม\nหลักสูตร: re-intermediate distributed applications\n\nวันที่ 18/08/2551\n\nซูฮัยดา นิยมสำหรวจ\n(ประธานกรรมการ)\n\nhttp://www.thnraks-trakuulbuy.ac.th/",
+    "entities": [
+      {
+        "text": "นพ ถิรสวัสดิ์",
+        "label": "PERSON",
+        "start": 78,
+        "end": 91
+      },
+      {
+        "text": "re-intermediate distributed applications",
+        "label": "COURSE",
+        "start": 118,
+        "end": 158
+      },
+      {
+        "text": "18/08/2551",
+        "label": "DATE",
+        "start": 167,
+        "end": 177
+      },
+      {
+        "text": "บริษัท แน่นดุจป้อมอินเตอร์เนชั่นแนล จำกัด (มหาชน)",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 49
+      },
+      {
+        "text": "http://www.thnraks-trakuulbuy.ac.th/",
+        "label": "URL",
+        "start": 215,
+        "end": 251
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.742487",
+      "language": "th"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nกุลเชษฐ นาฏคายี\nhas successfully completed the training program\n'Operative neutral matrices'\non 2529-03-16.\n\nIssued by: ห้างหุ้นส่วนจำกัด เวียงจันทึก\nAuthorized by: ปฐม ธัญเสถียร, President\nCertificate ID: yGH5941\n\nVerify at: https://www.haanghunswncchamkad.net/",
+    "entities": [
+      {
+        "text": "กุลเชษฐ นาฏคายี",
+        "label": "PERSON",
+        "start": 51,
+        "end": 66
+      },
+      {
+        "text": "Operative neutral matrices",
+        "label": "COURSE",
+        "start": 116,
+        "end": 142
+      },
+      {
+        "text": "2529-03-16",
+        "label": "DATE",
+        "start": 147,
+        "end": 157
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด เวียงจันทึก",
+        "label": "ISSUER",
+        "start": 171,
+        "end": 200
+      },
+      {
+        "text": "https://www.haanghunswncchamkad.net/",
+        "label": "URL",
+        "start": 277,
+        "end": 313
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.804442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nตรีนุช ถนอมพลกรัง\nhas successfully completed the training program\n'Multi-channeled heuristic collaboration'\non 2549-08-19.\n\nIssued by: ตั้งเผ่าและทันยุค\nAuthorized by: สโรชา ตรีครุธพันธุ์, Director\nCertificate ID: RTd1378\n\nVerify at: https://bmcchemuuengsukhkaarbaychii.in.th/",
+    "entities": [
+      {
+        "text": "ตรีนุช ถนอมพลกรัง",
+        "label": "PERSON",
+        "start": 51,
+        "end": 68
+      },
+      {
+        "text": "Multi-channeled heuristic collaboration",
+        "label": "COURSE",
+        "start": 118,
+        "end": 157
+      },
+      {
+        "text": "2549-08-19",
+        "label": "DATE",
+        "start": 162,
+        "end": 172
+      },
+      {
+        "text": "ตั้งเผ่าและทันยุค",
+        "label": "ISSUER",
+        "start": 186,
+        "end": 203
+      },
+      {
+        "text": "https://bmcchemuuengsukhkaarbaychii.in.th/",
+        "label": "URL",
+        "start": 285,
+        "end": 327
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.745486",
+      "language": "en"
+    }
+  },
+  {
+    "text": "นฤภัยคอนสตรัคชั่น dVY8845\nใบรับรอง\nมอบให้แก่\n\nปัตถพงษ์ นามขำ\n\nได้ผ่านการอบรม\nหลักสูตร: re-intermediate scalable schemas\n\nวันที่ 12/02/2523\n\nธีร์ธวันาย ทับทิมไทย\n(ผู้อำนวยการ)\n\nhttp://smaakhmaithysuchaat.org/",
+    "entities": [
+      {
+        "text": "ปัตถพงษ์ นามขำ",
+        "label": "PERSON",
+        "start": 46,
+        "end": 60
+      },
+      {
+        "text": "re-intermediate scalable schemas",
+        "label": "COURSE",
+        "start": 87,
+        "end": 119
+      },
+      {
+        "text": "12/02/2523",
+        "label": "DATE",
+        "start": 128,
+        "end": 138
+      },
+      {
+        "text": "นฤภัยคอนสตรัคชั่น",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 17
+      },
+      {
+        "text": "http://smaakhmaithysuchaat.org/",
+        "label": "URL",
+        "start": 176,
+        "end": 207
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.843444",
+      "language": "th"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nสมพิศ พงศ์ฉบับนภา\nhas successfully completed the training program\n'Re-contextualized exuding encryption'\non 2517-08-29.\n\nIssued by: ตราชู-ธนรักษ์\nAuthorized by: ผกาทิพย์ ถนิมมาศ, CEO\nCertificate ID: byi1390\n\nVerify at: http://www.brisath.com/",
+    "entities": [
+      {
+        "text": "สมพิศ พงศ์ฉบับนภา",
+        "label": "PERSON",
+        "start": 51,
+        "end": 68
+      },
+      {
+        "text": "Re-contextualized exuding encryption",
+        "label": "COURSE",
+        "start": 118,
+        "end": 154
+      },
+      {
+        "text": "2517-08-29",
+        "label": "DATE",
+        "start": 159,
+        "end": 169
+      },
+      {
+        "text": "ตราชู-ธนรักษ์",
+        "label": "ISSUER",
+        "start": 183,
+        "end": 196
+      },
+      {
+        "text": "http://www.brisath.com/",
+        "label": "URL",
+        "start": 270,
+        "end": 293
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.851442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "ห้างหุ้นส่วนจำกัด จันอ้น aPb1857\nใบรับรอง\nมอบให้แก่\n\nมณียา นามเสวตร\n\nได้ผ่านการอบรม\nหลักสูตร: empower one-to-one technologies\n\nวันที่ 29/10/2553\n\nสุรธัช ถนิมมาศ\n(ผู้อำนวยการ)\n\nhttp://www.enuuenum-thnprathiip.or.th/",
+    "entities": [
+      {
+        "text": "มณียา นามเสวตร",
+        "label": "PERSON",
+        "start": 53,
+        "end": 67
+      },
+      {
+        "text": "empower one-to-one technologies",
+        "label": "COURSE",
+        "start": 94,
+        "end": 125
+      },
+      {
+        "text": "29/10/2553",
+        "label": "DATE",
+        "start": 134,
+        "end": 144
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด จันอ้น",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 24
+      },
+      {
+        "text": "http://www.enuuenum-thnprathiip.or.th/",
+        "label": "URL",
+        "start": 176,
+        "end": 214
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.842444",
+      "language": "th"
+    }
+  },
+  {
+    "text": "บริษัท ดุษฎีวนิช จำกัด nZn1841\nใบรับรอง\nมอบให้แก่\n\nรภัสพงษ์ ถนอมมนุษย์\n\nได้ผ่านการอบรม\nหลักสูตร: enable proactive platforms\n\nวันที่ 29/04/2524\n\nพิมพ์สุตา นาควงษ์\n(ผู้อำนวยการ)\n\nhttps://www.hmphikulaelaunk.go.th/",
+    "entities": [
+      {
+        "text": "รภัสพงษ์ ถนอมมนุษย์",
+        "label": "PERSON",
+        "start": 51,
+        "end": 70
+      },
+      {
+        "text": "enable proactive platforms",
+        "label": "COURSE",
+        "start": 97,
+        "end": 123
+      },
+      {
+        "text": "29/04/2524",
+        "label": "DATE",
+        "start": 132,
+        "end": 142
+      },
+      {
+        "text": "บริษัท ดุษฎีวนิช จำกัด",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 22
+      },
+      {
+        "text": "https://www.hmphikulaelaunk.go.th/",
+        "label": "URL",
+        "start": 177,
+        "end": 211
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.750485",
+      "language": "th"
+    }
+  },
+  {
+    "text": "บริษัท นานายนบรรจุภัณฑ์ จำกัด (มหาชน) QqQ3917\nใบรับรอง\nมอบให้แก่\n\nเลิศเดช นาควงษ์\n\nได้ผ่านการอบรม\nหลักสูตร: syndicate real-time models\n\nวันที่ 01/03/2536\n\nขอดิเยาะ ขุนดำ\n(ผู้อำนวยการ)\n\nhttps://www.aisykicch-buyyaaaily.in.th/",
+    "entities": [
+      {
+        "text": "เลิศเดช นาควงษ์",
+        "label": "PERSON",
+        "start": 66,
+        "end": 81
+      },
+      {
+        "text": "syndicate real-time models",
+        "label": "COURSE",
+        "start": 108,
+        "end": 134
+      },
+      {
+        "text": "01/03/2536",
+        "label": "DATE",
+        "start": 143,
+        "end": 153
+      },
+      {
+        "text": "บริษัท นานายนบรรจุภัณฑ์ จำกัด (มหาชน)",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 37
+      },
+      {
+        "text": "https://www.aisykicch-buyyaaaily.in.th/",
+        "label": "URL",
+        "start": 185,
+        "end": 224
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.784442",
+      "language": "th"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nธัชญา ธาราธร\nhas successfully completed the training program\n'Triple-buffered impactful solution'\non 2553-11-21.\n\nIssued by: ห้างหุ้นส่วนจำกัด ขอหมั่นกลาง\nAuthorized by: กิ่งแก้ว ถาวรรัตน, CEO\nCertificate ID: gyo2153\n\nVerify at: http://muulnithitrakuulaimeriiyng.co.th/",
+    "entities": [
+      {
+        "text": "ธัชญา ธาราธร",
+        "label": "PERSON",
+        "start": 51,
+        "end": 63
+      },
+      {
+        "text": "Triple-buffered impactful solution",
+        "label": "COURSE",
+        "start": 113,
+        "end": 147
+      },
+      {
+        "text": "2553-11-21",
+        "label": "DATE",
+        "start": 152,
+        "end": 162
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด ขอหมั่นกลาง",
+        "label": "ISSUER",
+        "start": 176,
+        "end": 205
+      },
+      {
+        "text": "http://muulnithitrakuulaimeriiyng.co.th/",
+        "label": "URL",
+        "start": 280,
+        "end": 320
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.812445",
+      "language": "en"
+    }
+  },
+  {
+    "text": "หจก.ตันเผ่า jZu0259\nใบรับรอง\nมอบให้แก่\n\nภูวิช นักรบ\n\nได้ผ่านการอบรม\nหลักสูตร: orchestrate leading-edge partnerships\n\nวันที่ 16/09/2559\n\nธราวิทญ์ นำธวัช\n(ผู้อำนวยการ)\n\nhttps://www.smaakhmnamthiphy.co.th/",
+    "entities": [
+      {
+        "text": "ภูวิช นักรบ",
+        "label": "PERSON",
+        "start": 40,
+        "end": 51
+      },
+      {
+        "text": "orchestrate leading-edge partnerships",
+        "label": "COURSE",
+        "start": 78,
+        "end": 115
+      },
+      {
+        "text": "16/09/2559",
+        "label": "DATE",
+        "start": 124,
+        "end": 134
+      },
+      {
+        "text": "หจก.ตันเผ่า",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "text": "https://www.smaakhmnamthiphy.co.th/",
+        "label": "URL",
+        "start": 167,
+        "end": 202
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.778443",
+      "language": "th"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nกุลปรียา ถาวรายุศม์\nhas successfully completed the training program\n'Seamless radical leverage'\non 2527-06-14.\n\nIssued by: ห้างหุ้นส่วนจำกัด บินดีบรรจุภัณฑ์\nAuthorized by: เจตพินิษฐ์ ตันเผ่า, Director\nCertificate ID: QCe2596\n\nVerify at: http://www.bmcchephiiyyaa.co.th/",
+    "entities": [
+      {
+        "text": "กุลปรียา ถาวรายุศม์",
+        "label": "PERSON",
+        "start": 51,
+        "end": 70
+      },
+      {
+        "text": "Seamless radical leverage",
+        "label": "COURSE",
+        "start": 120,
+        "end": 145
+      },
+      {
+        "text": "2527-06-14",
+        "label": "DATE",
+        "start": 150,
+        "end": 160
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด บินดีบรรจุภัณฑ์",
+        "label": "ISSUER",
+        "start": 174,
+        "end": 207
+      },
+      {
+        "text": "http://www.bmcchephiiyyaa.co.th/",
+        "label": "URL",
+        "start": 288,
+        "end": 320
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.833443",
+      "language": "en"
+    }
+  },
+  {
+    "text": "บริษัท นิษประปัญจ์ จำกัด yqK0469\nใบรับรอง\nมอบให้แก่\n\nอาภัศรา ถนิมมาศ\n\nได้ผ่านการอบรม\nหลักสูตร: seize strategic e-commerce\n\nวันที่ 08/09/2541\n\nพลภูมิ บุนยาภิสนท์\n(ผู้อำนวยการ)\n\nhttp://brisath.com/",
+    "entities": [
+      {
+        "text": "อาภัศรา ถนิมมาศ",
+        "label": "PERSON",
+        "start": 53,
+        "end": 68
+      },
+      {
+        "text": "seize strategic e-commerce",
+        "label": "COURSE",
+        "start": 95,
+        "end": 121
+      },
+      {
+        "text": "08/09/2541",
+        "label": "DATE",
+        "start": 130,
+        "end": 140
+      },
+      {
+        "text": "บริษัท นิษประปัญจ์ จำกัด",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 24
+      },
+      {
+        "text": "http://brisath.com/",
+        "label": "URL",
+        "start": 176,
+        "end": 195
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.779442",
+      "language": "th"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nภูมิปัญญา บุญบำรุง\nhas successfully completed the training program\n'Down-sized intermediate matrix'\non 2550-05-13.\n\nIssued by: กุมารบุญและเณรานุสนธิ์\nAuthorized by: ราณี ธูปะวิโรจน์, CEO\nCertificate ID: Ipl6360\n\nVerify at: http://chmrmthwiiedch.org/",
+    "entities": [
+      {
+        "text": "ภูมิปัญญา บุญบำรุง",
+        "label": "PERSON",
+        "start": 51,
+        "end": 69
+      },
+      {
+        "text": "Down-sized intermediate matrix",
+        "label": "COURSE",
+        "start": 119,
+        "end": 149
+      },
+      {
+        "text": "2550-05-13",
+        "label": "DATE",
+        "start": 154,
+        "end": 164
+      },
+      {
+        "text": "กุมารบุญและเณรานุสนธิ์",
+        "label": "ISSUER",
+        "start": 178,
+        "end": 200
+      },
+      {
+        "text": "http://chmrmthwiiedch.org/",
+        "label": "URL",
+        "start": 274,
+        "end": 300
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.781442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "หจก.ตะละภัฏกรุ๊ป Xzh4453\nใบรับรอง\nมอบให้แก่\n\nเมษา นกทอง\n\nได้ผ่านการอบรม\nหลักสูตร: evolve leading-edge infrastructures\n\nวันที่ 08/01/2550\n\nสุทธิพจน์ นานายน\n(ประธานกรรมการ)\n\nhttps://sangkhkrdethrdding.co.th/",
+    "entities": [
+      {
+        "text": "เมษา นกทอง",
+        "label": "PERSON",
+        "start": 45,
+        "end": 55
+      },
+      {
+        "text": "evolve leading-edge infrastructures",
+        "label": "COURSE",
+        "start": 82,
+        "end": 117
+      },
+      {
+        "text": "08/01/2550",
+        "label": "DATE",
+        "start": 126,
+        "end": 136
+      },
+      {
+        "text": "หจก.ตะละภัฏกรุ๊ป",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 16
+      },
+      {
+        "text": "https://sangkhkrdethrdding.co.th/",
+        "label": "URL",
+        "start": 172,
+        "end": 205
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.771442",
+      "language": "th"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: อธิวัตร ธีวร\nCOURSE: Synchronized exuding process improvement / brand efficient platforms\nDATE: 2544-03-19 (06/01/2556)\nORGANIZATION: บริษัท สังข์กรดสโตร์ จำกัด\n\nID: IsX4120 | URL: https://brisath.com/\nVALIDATED BY: วุฒิ พานเกล้า, CEO",
+    "entities": [
+      {
+        "text": "อธิวัตร ธีวร",
+        "label": "PERSON",
+        "start": 47,
+        "end": 59
+      },
+      {
+        "text": "Synchronized exuding process improvement",
+        "label": "COURSE",
+        "start": 68,
+        "end": 108
+      },
+      {
+        "text": "brand efficient platforms",
+        "label": "COURSE",
+        "start": 111,
+        "end": 136
+      },
+      {
+        "text": "2544-03-19",
+        "label": "DATE",
+        "start": 143,
+        "end": 153
+      },
+      {
+        "text": "06/01/2556",
+        "label": "DATE",
+        "start": 155,
+        "end": 165
+      },
+      {
+        "text": "บริษัท สังข์กรดสโตร์ จำกัด",
+        "label": "ISSUER",
+        "start": 181,
+        "end": 207
+      },
+      {
+        "text": "https://brisath.com/",
+        "label": "URL",
+        "start": 228,
+        "end": 248
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.741486",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: เบญญาทิพย์ ตันตราจิณ\nCOURSE: Future-proofed mission-critical strategy / aggregate bricks-and-clicks supply-chains\nDATE: 2542-05-12 (24/06/2557)\nORGANIZATION: บมจ.เธียรายัน\n\nID: kuE0315 | URL: https://brisath.com/\nVALIDATED BY: โสภณิตา ธรรมนิยม, President",
+    "entities": [
+      {
+        "text": "เบญญาทิพย์ ตันตราจิณ",
+        "label": "PERSON",
+        "start": 47,
+        "end": 67
+      },
+      {
+        "text": "Future-proofed mission-critical strategy",
+        "label": "COURSE",
+        "start": 76,
+        "end": 116
+      },
+      {
+        "text": "aggregate bricks-and-clicks supply-chains",
+        "label": "COURSE",
+        "start": 119,
+        "end": 160
+      },
+      {
+        "text": "2542-05-12",
+        "label": "DATE",
+        "start": 167,
+        "end": 177
+      },
+      {
+        "text": "24/06/2557",
+        "label": "DATE",
+        "start": 179,
+        "end": 189
+      },
+      {
+        "text": "บมจ.เธียรายัน",
+        "label": "ISSUER",
+        "start": 205,
+        "end": 218
+      },
+      {
+        "text": "https://brisath.com/",
+        "label": "URL",
+        "start": 239,
+        "end": 259
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.820444",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: เจษฎากร บุตราช\nCOURSE: Pre-emptive non-volatile open system / utilize viral technologies\nDATE: 2552-07-26 (07/04/2567)\nORGANIZATION: บริษัท นกทองสโตร์ จำกัด\n\nID: wnK3952 | URL: http://haanghunswncchamkad.org/\nVALIDATED BY: จิตตานันท์ ธีวร, Director",
+    "entities": [
+      {
+        "text": "เจษฎากร บุตราช",
+        "label": "PERSON",
+        "start": 47,
+        "end": 61
+      },
+      {
+        "text": "Pre-emptive non-volatile open system",
+        "label": "COURSE",
+        "start": 70,
+        "end": 106
+      },
+      {
+        "text": "utilize viral technologies",
+        "label": "COURSE",
+        "start": 109,
+        "end": 135
+      },
+      {
+        "text": "2552-07-26",
+        "label": "DATE",
+        "start": 142,
+        "end": 152
+      },
+      {
+        "text": "07/04/2567",
+        "label": "DATE",
+        "start": 154,
+        "end": 164
+      },
+      {
+        "text": "บริษัท นกทองสโตร์ จำกัด",
+        "label": "ISSUER",
+        "start": 180,
+        "end": 203
+      },
+      {
+        "text": "http://haanghunswncchamkad.org/",
+        "label": "URL",
+        "start": 224,
+        "end": 255
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.792442",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "นุ่มกัน-ไชยภา KKb6989\nใบรับรอง\nมอบให้แก่\n\nภูวรา เมืองสุข\n\nได้ผ่านการอบรม\nหลักสูตร: facilitate cross-platform mindshare\n\nวันที่ 05/11/2527\n\nบุญเกิด สาระพันธ์\n(ประธานกรรมการ)\n\nhttps://haanghunswncchamkad.in.th/",
+    "entities": [
+      {
+        "text": "ภูวรา เมืองสุข",
+        "label": "PERSON",
+        "start": 42,
+        "end": 56
+      },
+      {
+        "text": "facilitate cross-platform mindshare",
+        "label": "COURSE",
+        "start": 83,
+        "end": 118
+      },
+      {
+        "text": "05/11/2527",
+        "label": "DATE",
+        "start": 127,
+        "end": 137
+      },
+      {
+        "text": "นุ่มกัน-ไชยภา",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "text": "https://haanghunswncchamkad.in.th/",
+        "label": "URL",
+        "start": 174,
+        "end": 208
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.803443",
+      "language": "th"
+    }
+  },
+  {
+    "text": "ห้างหุ้นส่วนสามัญ ยางสวยพืชผล OBW1826\nใบรับรอง\nมอบให้แก่\n\nณภัทร เนตร์มณี\n\nได้ผ่านการอบรม\nหลักสูตร: visualize interactive ROI\n\nวันที่ 27/12/2535\n\nนาทภูวพัฒน์ ศรีเผด็จ\n(ประธานกรรมการ)\n\nhttps://www.brisath.in.th/",
+    "entities": [
+      {
+        "text": "ณภัทร เนตร์มณี",
+        "label": "PERSON",
+        "start": 58,
+        "end": 72
+      },
+      {
+        "text": "visualize interactive ROI",
+        "label": "COURSE",
+        "start": 99,
+        "end": 124
+      },
+      {
+        "text": "27/12/2535",
+        "label": "DATE",
+        "start": 133,
+        "end": 143
+      },
+      {
+        "text": "ห้างหุ้นส่วนสามัญ ยางสวยพืชผล",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 29
+      },
+      {
+        "text": "https://www.brisath.in.th/",
+        "label": "URL",
+        "start": 183,
+        "end": 209
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.796442",
+      "language": "th"
+    }
+  },
+  {
+    "text": "บุญส่งและตระกูลไม้เรียง hJy5665\nใบรับรอง\nมอบให้แก่\n\nวิสาร ธนูปกรณ์\n\nได้ผ่านการอบรม\nหลักสูตร: re-intermediate holistic schemas\n\nวันที่ 25/05/2561\n\nวัลลภ พรมอ่อน\n(ผู้อำนวยการ)\n\nhttps://bmcchthuuphm.org/",
+    "entities": [
+      {
+        "text": "วิสาร ธนูปกรณ์",
+        "label": "PERSON",
+        "start": 52,
+        "end": 66
+      },
+      {
+        "text": "re-intermediate holistic schemas",
+        "label": "COURSE",
+        "start": 93,
+        "end": 125
+      },
+      {
+        "text": "25/05/2561",
+        "label": "DATE",
+        "start": 134,
+        "end": 144
+      },
+      {
+        "text": "บุญส่งและตระกูลไม้เรียง",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 23
+      },
+      {
+        "text": "https://bmcchthuuphm.org/",
+        "label": "URL",
+        "start": 175,
+        "end": 200
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.803443",
+      "language": "th"
+    }
+  },
+  {
+    "text": "สมาคมตวันเยี่ยม zDU6015\nใบรับรอง\nมอบให้แก่\n\nตอฮา นุตตาร\n\nได้ผ่านการอบรม\nหลักสูตร: disintermediate 24/7 synergies\n\nวันที่ 19/02/2513\n\nสุภาพร ธรรมสถิตไพศาล\n(ผู้อำนวยการ)\n\nhttp://www.bmcchsangkhkrd.go.th/",
+    "entities": [
+      {
+        "text": "ตอฮา นุตตาร",
+        "label": "PERSON",
+        "start": 44,
+        "end": 55
+      },
+      {
+        "text": "disintermediate 24/7 synergies",
+        "label": "COURSE",
+        "start": 82,
+        "end": 112
+      },
+      {
+        "text": "19/02/2513",
+        "label": "DATE",
+        "start": 121,
+        "end": 131
+      },
+      {
+        "text": "สมาคมตวันเยี่ยม",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "text": "http://www.bmcchsangkhkrd.go.th/",
+        "label": "URL",
+        "start": 169,
+        "end": 201
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.746485",
+      "language": "th"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nฐิติกุล อุ่นอก\nhas successfully completed the training program\n'Programmable incremental moratorium'\non 2549-02-06.\n\nIssued by: ห้างหุ้นส่วนสามัญ ถนัดการยนต์\nAuthorized by: สิริ ปานสุวรรณ, CEO\nCertificate ID: MZm8464\n\nVerify at: http://www.smaakhmnilathat.com/",
+    "entities": [
+      {
+        "text": "ฐิติกุล อุ่นอก",
+        "label": "PERSON",
+        "start": 51,
+        "end": 65
+      },
+      {
+        "text": "Programmable incremental moratorium",
+        "label": "COURSE",
+        "start": 115,
+        "end": 150
+      },
+      {
+        "text": "2549-02-06",
+        "label": "DATE",
+        "start": 155,
+        "end": 165
+      },
+      {
+        "text": "ห้างหุ้นส่วนสามัญ ถนัดการยนต์",
+        "label": "ISSUER",
+        "start": 179,
+        "end": 208
+      },
+      {
+        "text": "http://www.smaakhmnilathat.com/",
+        "label": "URL",
+        "start": 280,
+        "end": 311
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.848443",
+      "language": "en"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: ราชพฤกษ์ นาถะเดชะ\nCOURSE: Front-line mission-critical flexibility / e-enable sticky communities\nDATE: 2566-08-14 (05/07/2527)\nORGANIZATION: บริษัท ธัญาโภชน์ จำกัด\n\nID: CVN0466 | URL: http://www.muulnithicchynuaesng.co.th/\nVALIDATED BY: จักรีรัตน์ ถนอมกุลบุตร, CEO",
+    "entities": [
+      {
+        "text": "ราชพฤกษ์ นาถะเดชะ",
+        "label": "PERSON",
+        "start": 47,
+        "end": 64
+      },
+      {
+        "text": "Front-line mission-critical flexibility",
+        "label": "COURSE",
+        "start": 73,
+        "end": 112
+      },
+      {
+        "text": "e-enable sticky communities",
+        "label": "COURSE",
+        "start": 115,
+        "end": 142
+      },
+      {
+        "text": "2566-08-14",
+        "label": "DATE",
+        "start": 149,
+        "end": 159
+      },
+      {
+        "text": "05/07/2527",
+        "label": "DATE",
+        "start": 161,
+        "end": 171
+      },
+      {
+        "text": "บริษัท ธัญาโภชน์ จำกัด",
+        "label": "ISSUER",
+        "start": 187,
+        "end": 209
+      },
+      {
+        "text": "http://www.muulnithicchynuaesng.co.th/",
+        "label": "URL",
+        "start": 230,
+        "end": 268
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.849443",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: นิวิลดาน ตั้งเผ่า\nCOURSE: Upgradable composite encryption / innovate extensible communities\nDATE: 2538-07-02 (06/12/2552)\nORGANIZATION: บริษัท นาคสุทินภาพยนตร์ จำกัด (มหาชน)\n\nID: jUa5565 | URL: https://haanghunswnsaamay.com/\nVALIDATED BY: สุรการณ์ เจริญรัมย์, Director",
+    "entities": [
+      {
+        "text": "นิวิลดาน ตั้งเผ่า",
+        "label": "PERSON",
+        "start": 47,
+        "end": 64
+      },
+      {
+        "text": "Upgradable composite encryption",
+        "label": "COURSE",
+        "start": 73,
+        "end": 104
+      },
+      {
+        "text": "innovate extensible communities",
+        "label": "COURSE",
+        "start": 107,
+        "end": 138
+      },
+      {
+        "text": "2538-07-02",
+        "label": "DATE",
+        "start": 145,
+        "end": 155
+      },
+      {
+        "text": "06/12/2552",
+        "label": "DATE",
+        "start": 157,
+        "end": 167
+      },
+      {
+        "text": "บริษัท นาคสุทินภาพยนตร์ จำกัด (มหาชน)",
+        "label": "ISSUER",
+        "start": 183,
+        "end": 220
+      },
+      {
+        "text": "https://haanghunswnsaamay.com/",
+        "label": "URL",
+        "start": 241,
+        "end": 271
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.745486",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: ใกล้รุ่ง ถนิมมาศ\nCOURSE: Devolved tertiary system engine / reinvent vertical supply-chains\nDATE: 2534-07-09 (01/06/2546)\nORGANIZATION: หจก.แถมธนวิศวการ\n\nID: Ysp6722 | URL: https://brisath.org/\nVALIDATED BY: สุธาวี ถนอมพลกรัง, CEO",
+    "entities": [
+      {
+        "text": "ใกล้รุ่ง ถนิมมาศ",
+        "label": "PERSON",
+        "start": 47,
+        "end": 63
+      },
+      {
+        "text": "Devolved tertiary system engine",
+        "label": "COURSE",
+        "start": 72,
+        "end": 103
+      },
+      {
+        "text": "reinvent vertical supply-chains",
+        "label": "COURSE",
+        "start": 106,
+        "end": 137
+      },
+      {
+        "text": "2534-07-09",
+        "label": "DATE",
+        "start": 144,
+        "end": 154
+      },
+      {
+        "text": "01/06/2546",
+        "label": "DATE",
+        "start": 156,
+        "end": 166
+      },
+      {
+        "text": "หจก.แถมธนวิศวการ",
+        "label": "ISSUER",
+        "start": 182,
+        "end": 198
+      },
+      {
+        "text": "https://brisath.org/",
+        "label": "URL",
+        "start": 219,
+        "end": 239
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.740439",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nนัสรุน ฉัตรอภิเที่ยงค่ำ\nhas successfully completed the training program\n'Customizable heuristic matrix'\non 2563-10-10.\n\nIssued by: บริษัท ศิวะวรเวทแลบ จำกัด\nAuthorized by: ญาณพันธุ์ ทวนไชย์, President\nCertificate ID: NZc7122\n\nVerify at: https://www.bmcchyaangswykaarkhaa.in.th/",
+    "entities": [
+      {
+        "text": "นัสรุน ฉัตรอภิเที่ยงค่ำ",
+        "label": "PERSON",
+        "start": 51,
+        "end": 74
+      },
+      {
+        "text": "Customizable heuristic matrix",
+        "label": "COURSE",
+        "start": 124,
+        "end": 153
+      },
+      {
+        "text": "2563-10-10",
+        "label": "DATE",
+        "start": 158,
+        "end": 168
+      },
+      {
+        "text": "บริษัท ศิวะวรเวทแลบ จำกัด",
+        "label": "ISSUER",
+        "start": 182,
+        "end": 207
+      },
+      {
+        "text": "https://www.bmcchyaangswykaarkhaa.in.th/",
+        "label": "URL",
+        "start": 288,
+        "end": 328
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.835442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nมลิวรรณ ฉายแสง\nhas successfully completed the training program\n'Cloned cohesive hierarchy'\non 2552-12-04.\n\nIssued by: บริษัท ศาสตร์ศิลป์แพคกิ้ง จำกัด\nAuthorized by: จิตตานันท์ คำลือ, Director\nCertificate ID: Prb8255\n\nVerify at: https://smaakhmthiiwr.or.th/",
+    "entities": [
+      {
+        "text": "มลิวรรณ ฉายแสง",
+        "label": "PERSON",
+        "start": 51,
+        "end": 65
+      },
+      {
+        "text": "Cloned cohesive hierarchy",
+        "label": "COURSE",
+        "start": 115,
+        "end": 140
+      },
+      {
+        "text": "2552-12-04",
+        "label": "DATE",
+        "start": 145,
+        "end": 155
+      },
+      {
+        "text": "บริษัท ศาสตร์ศิลป์แพคกิ้ง จำกัด",
+        "label": "ISSUER",
+        "start": 169,
+        "end": 200
+      },
+      {
+        "text": "https://smaakhmthiiwr.or.th/",
+        "label": "URL",
+        "start": 279,
+        "end": 307
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.848443",
+      "language": "en"
+    }
+  },
+  {
+    "text": "บริษัท ตวงทอง จำกัด bCw9403\nใบรับรอง\nมอบให้แก่\n\nวรรณชนะชัย ฉายแสง\n\nได้ผ่านการอบรม\nหลักสูตร: re-intermediate user-centric synergies\n\nวันที่ 12/06/2548\n\nสุรการณ์ ถิรสวัสดิ์\n(ผู้อำนวยการ)\n\nhttps://www.haanghunswncchamkad.ac.th/",
+    "entities": [
+      {
+        "text": "วรรณชนะชัย ฉายแสง",
+        "label": "PERSON",
+        "start": 48,
+        "end": 65
+      },
+      {
+        "text": "re-intermediate user-centric synergies",
+        "label": "COURSE",
+        "start": 92,
+        "end": 130
+      },
+      {
+        "text": "12/06/2548",
+        "label": "DATE",
+        "start": 139,
+        "end": 149
+      },
+      {
+        "text": "บริษัท ตวงทอง จำกัด",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "text": "https://www.haanghunswncchamkad.ac.th/",
+        "label": "URL",
+        "start": 186,
+        "end": 224
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.747486",
+      "language": "th"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nธีราทัต ตวงทอง\nhas successfully completed the training program\n'Intuitive 24hour encoding'\non 2524-10-16.\n\nIssued by: แท่นทองเอเยนซี\nAuthorized by: อาฮามัด นิละทัต, CEO\nCertificate ID: eke9024\n\nVerify at: https://smaakhmedchwaa.or.th/",
+    "entities": [
+      {
+        "text": "ธีราทัต ตวงทอง",
+        "label": "PERSON",
+        "start": 51,
+        "end": 65
+      },
+      {
+        "text": "Intuitive 24hour encoding",
+        "label": "COURSE",
+        "start": 115,
+        "end": 140
+      },
+      {
+        "text": "2524-10-16",
+        "label": "DATE",
+        "start": 145,
+        "end": 155
+      },
+      {
+        "text": "แท่นทองเอเยนซี",
+        "label": "ISSUER",
+        "start": 169,
+        "end": 183
+      },
+      {
+        "text": "https://smaakhmedchwaa.or.th/",
+        "label": "URL",
+        "start": 256,
+        "end": 285
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.850442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "ห้างหุ้นส่วนจำกัด ทันยุคเคมิคอล gZb1230\nใบรับรอง\nมอบให้แก่\n\nพิมพ์ประภา นิลเสนา\n\nได้ผ่านการอบรม\nหลักสูตร: reinvent out-of-the-box infrastructures\n\nวันที่ 23/03/2551\n\nมะลีวัลย์ เพียยา\n(ประธานกรรมการ)\n\nhttps://www.brisathhlakthraphy.in.th/",
+    "entities": [
+      {
+        "text": "พิมพ์ประภา นิลเสนา",
+        "label": "PERSON",
+        "start": 60,
+        "end": 78
+      },
+      {
+        "text": "reinvent out-of-the-box infrastructures",
+        "label": "COURSE",
+        "start": 105,
+        "end": 144
+      },
+      {
+        "text": "23/03/2551",
+        "label": "DATE",
+        "start": 153,
+        "end": 163
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด ทันยุคเคมิคอล",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 31
+      },
+      {
+        "text": "https://www.brisathhlakthraphy.in.th/",
+        "label": "URL",
+        "start": 199,
+        "end": 236
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.812445",
+      "language": "th"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nฮาฟิต ทหารแท้\nhas successfully completed the training program\n'Cloned incremental synergy'\non 2565-12-21.\n\nIssued by: ห้างหุ้นส่วนจำกัด ไทไชโย\nAuthorized by: ณภัทร ทับทิมไทย, CEO\nCertificate ID: bop6154\n\nVerify at: https://www.twaneyiiymenetraiphrs.net/",
+    "entities": [
+      {
+        "text": "ฮาฟิต ทหารแท้",
+        "label": "PERSON",
+        "start": 51,
+        "end": 64
+      },
+      {
+        "text": "Cloned incremental synergy",
+        "label": "COURSE",
+        "start": 114,
+        "end": 140
+      },
+      {
+        "text": "2565-12-21",
+        "label": "DATE",
+        "start": 145,
+        "end": 155
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด ไทไชโย",
+        "label": "ISSUER",
+        "start": 169,
+        "end": 193
+      },
+      {
+        "text": "https://www.twaneyiiymenetraiphrs.net/",
+        "label": "URL",
+        "start": 266,
+        "end": 304
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.834442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nวรศาสส์ ดำริห์ชอบ\nhas successfully completed the training program\n'De-engineered real-time emulation'\non 2563-04-25.\n\nIssued by: ห้างหุ้นส่วนจำกัด ถนอมกุลบุตร\nAuthorized by: ยอดแมน บุญญาภิรมย์, Director\nCertificate ID: rSY5433\n\nVerify at: http://www.smaakhmbuyyaaphirmy.com/",
+    "entities": [
+      {
+        "text": "วรศาสส์ ดำริห์ชอบ",
+        "label": "PERSON",
+        "start": 51,
+        "end": 68
+      },
+      {
+        "text": "De-engineered real-time emulation",
+        "label": "COURSE",
+        "start": 118,
+        "end": 151
+      },
+      {
+        "text": "2563-04-25",
+        "label": "DATE",
+        "start": 156,
+        "end": 166
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด ถนอมกุลบุตร",
+        "label": "ISSUER",
+        "start": 180,
+        "end": 209
+      },
+      {
+        "text": "http://www.smaakhmbuyyaaphirmy.com/",
+        "label": "URL",
+        "start": 290,
+        "end": 325
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.772442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nซูฮัยดา ธรรมทินนา\nhas successfully completed the training program\n'Grass-roots needs-based concept'\non 2526-05-09.\n\nIssued by: บริษัทหลักทรัพย์ ธัญาโภชน์ จำกัด\nAuthorized by: ศศินา ทวนทอง, CEO\nCertificate ID: MVf0498\n\nVerify at: http://brisath.co.th/",
+    "entities": [
+      {
+        "text": "ซูฮัยดา ธรรมทินนา",
+        "label": "PERSON",
+        "start": 51,
+        "end": 68
+      },
+      {
+        "text": "Grass-roots needs-based concept",
+        "label": "COURSE",
+        "start": 118,
+        "end": 149
+      },
+      {
+        "text": "2526-05-09",
+        "label": "DATE",
+        "start": 154,
+        "end": 164
+      },
+      {
+        "text": "บริษัทหลักทรัพย์ ธัญาโภชน์ จำกัด",
+        "label": "ISSUER",
+        "start": 178,
+        "end": 210
+      },
+      {
+        "text": "http://brisath.co.th/",
+        "label": "URL",
+        "start": 280,
+        "end": 301
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.783442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "บริษัท นะวะมันดรคอมพิวเตอร์ จำกัด pKE5467\nใบรับรอง\nมอบให้แก่\n\nยุภา ผลบุญ\n\nได้ผ่านการอบรม\nหลักสูตร: facilitate global models\n\nวันที่ 01/05/2518\n\nอภิลักษณ์ พีระเพ็ญกุล\n(ผู้จัดการทั่วไป)\n\nhttps://www.brisath.go.th/",
+    "entities": [
+      {
+        "text": "ยุภา ผลบุญ",
+        "label": "PERSON",
+        "start": 62,
+        "end": 72
+      },
+      {
+        "text": "facilitate global models",
+        "label": "COURSE",
+        "start": 99,
+        "end": 123
+      },
+      {
+        "text": "01/05/2518",
+        "label": "DATE",
+        "start": 132,
+        "end": 142
+      },
+      {
+        "text": "บริษัท นะวะมันดรคอมพิวเตอร์ จำกัด",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 33
+      },
+      {
+        "text": "https://www.brisath.go.th/",
+        "label": "URL",
+        "start": 185,
+        "end": 211
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.769443",
+      "language": "th"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nโชติวุฒิ ตวันเยี่ยม\nhas successfully completed the training program\n'Assimilated bottom-line website'\non 2516-08-31.\n\nIssued by: นามเสวตรบริการ\nAuthorized by: จันทภา นรวิทย์โชติกุล, President\nCertificate ID: hKd9836\n\nVerify at: https://chuusaarethrdding.in.th/",
+    "entities": [
+      {
+        "text": "โชติวุฒิ ตวันเยี่ยม",
+        "label": "PERSON",
+        "start": 51,
+        "end": 70
+      },
+      {
+        "text": "Assimilated bottom-line website",
+        "label": "COURSE",
+        "start": 120,
+        "end": 151
+      },
+      {
+        "text": "2516-08-31",
+        "label": "DATE",
+        "start": 156,
+        "end": 166
+      },
+      {
+        "text": "นามเสวตรบริการ",
+        "label": "ISSUER",
+        "start": 180,
+        "end": 194
+      },
+      {
+        "text": "https://chuusaarethrdding.in.th/",
+        "label": "URL",
+        "start": 279,
+        "end": 311
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.804442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: สุทธิพจน์ ด้วงโสน\nCOURSE: Adaptive logistical flexibility / whiteboard user-centric e-business\nDATE: 2537-05-13 (22/04/2547)\nORGANIZATION: บริษัท ทองปากน้ำ จำกัด\n\nID: qKh5983 | URL: http://www.brisath.com/\nVALIDATED BY: อณาวิน ขำเอนก, Director",
+    "entities": [
+      {
+        "text": "สุทธิพจน์ ด้วงโสน",
+        "label": "PERSON",
+        "start": 47,
+        "end": 64
+      },
+      {
+        "text": "Adaptive logistical flexibility",
+        "label": "COURSE",
+        "start": 73,
+        "end": 104
+      },
+      {
+        "text": "whiteboard user-centric e-business",
+        "label": "COURSE",
+        "start": 107,
+        "end": 141
+      },
+      {
+        "text": "2537-05-13",
+        "label": "DATE",
+        "start": 148,
+        "end": 158
+      },
+      {
+        "text": "22/04/2547",
+        "label": "DATE",
+        "start": 160,
+        "end": 170
+      },
+      {
+        "text": "บริษัท ทองปากน้ำ จำกัด",
+        "label": "ISSUER",
+        "start": 186,
+        "end": 208
+      },
+      {
+        "text": "http://www.brisath.com/",
+        "label": "URL",
+        "start": 229,
+        "end": 252
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.831442",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nสีหราช ทรัพย์ธำรงค์\nhas successfully completed the training program\n'Programmable homogeneous approach'\non 2522-05-01.\n\nIssued by: ซาซุมและทันยุค\nAuthorized by: โกมล สุวรรณหงษ์, Director\nCertificate ID: CLA0618\n\nVerify at: https://brisath.com/",
+    "entities": [
+      {
+        "text": "สีหราช ทรัพย์ธำรงค์",
+        "label": "PERSON",
+        "start": 51,
+        "end": 70
+      },
+      {
+        "text": "Programmable homogeneous approach",
+        "label": "COURSE",
+        "start": 120,
+        "end": 153
+      },
+      {
+        "text": "2522-05-01",
+        "label": "DATE",
+        "start": 158,
+        "end": 168
+      },
+      {
+        "text": "ซาซุมและทันยุค",
+        "label": "ISSUER",
+        "start": 182,
+        "end": 196
+      },
+      {
+        "text": "https://brisath.com/",
+        "label": "URL",
+        "start": 274,
+        "end": 294
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.854443",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nเลิศเดช เขียวขุ้ย\nhas successfully completed the training program\n'Synchronized asynchronous Local Area Network'\non 2541-07-21.\n\nIssued by: มิ่งขวัญก่อสร้าง\nAuthorized by: สายสุรีย์ นิยมธรรม, Director\nCertificate ID: bzw4977\n\nVerify at: https://bcchknuttaar.net.th/",
+    "entities": [
+      {
+        "text": "เลิศเดช เขียวขุ้ย",
+        "label": "PERSON",
+        "start": 51,
+        "end": 68
+      },
+      {
+        "text": "Synchronized asynchronous Local Area Network",
+        "label": "COURSE",
+        "start": 118,
+        "end": 162
+      },
+      {
+        "text": "2541-07-21",
+        "label": "DATE",
+        "start": 167,
+        "end": 177
+      },
+      {
+        "text": "มิ่งขวัญก่อสร้าง",
+        "label": "ISSUER",
+        "start": 191,
+        "end": 207
+      },
+      {
+        "text": "https://bcchknuttaar.net.th/",
+        "label": "URL",
+        "start": 288,
+        "end": 316
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.769443",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nปรมินทร์ ถนัดอักษร\nhas successfully completed the training program\n'Switchable incremental definition'\non 2526-05-30.\n\nIssued by: ตัณฑนุช-ตัณฑนุช\nAuthorized by: รอซีด๊ะ นาถะพินธุ, CEO\nCertificate ID: dTL5206\n\nVerify at: http://www.chmrmthirswasdi.or.th/",
+    "entities": [
+      {
+        "text": "ปรมินทร์ ถนัดอักษร",
+        "label": "PERSON",
+        "start": 51,
+        "end": 69
+      },
+      {
+        "text": "Switchable incremental definition",
+        "label": "COURSE",
+        "start": 119,
+        "end": 152
+      },
+      {
+        "text": "2526-05-30",
+        "label": "DATE",
+        "start": 157,
+        "end": 167
+      },
+      {
+        "text": "ตัณฑนุช-ตัณฑนุช",
+        "label": "ISSUER",
+        "start": 181,
+        "end": 196
+      },
+      {
+        "text": "http://www.chmrmthirswasdi.or.th/",
+        "label": "URL",
+        "start": 271,
+        "end": 304
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.847442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: นพรัตน์ นิลวรรณ\nCOURSE: Vision-oriented encompassing capability / extend vertical channels\nDATE: 2561-10-01 (29/07/2532)\nORGANIZATION: บริษัท นาฏคายีซัพพลาย จำกัด (มหาชน)\n\nID: XJr5056 | URL: https://brisath.com/\nVALIDATED BY: อาแอเสาะ บุญศล, President",
+    "entities": [
+      {
+        "text": "นพรัตน์ นิลวรรณ",
+        "label": "PERSON",
+        "start": 47,
+        "end": 62
+      },
+      {
+        "text": "Vision-oriented encompassing capability",
+        "label": "COURSE",
+        "start": 71,
+        "end": 110
+      },
+      {
+        "text": "extend vertical channels",
+        "label": "COURSE",
+        "start": 113,
+        "end": 137
+      },
+      {
+        "text": "2561-10-01",
+        "label": "DATE",
+        "start": 144,
+        "end": 154
+      },
+      {
+        "text": "29/07/2532",
+        "label": "DATE",
+        "start": 156,
+        "end": 166
+      },
+      {
+        "text": "บริษัท นาฏคายีซัพพลาย จำกัด (มหาชน)",
+        "label": "ISSUER",
+        "start": 182,
+        "end": 217
+      },
+      {
+        "text": "https://brisath.com/",
+        "label": "URL",
+        "start": 238,
+        "end": 258
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.851442",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: นนทกาญจน์ นามขำ\nCOURSE: Pre-emptive zero tolerance database / aggregate front-end e-tailers\nDATE: 2563-11-14 (11/04/2532)\nORGANIZATION: สมาคมพานเกล้า\n\nID: SHu9184 | URL: https://www.wuththyaakrbrrcchuphanth.org/\nVALIDATED BY: ธมลพรรณ ศาสตร์ศิลป์, Director",
+    "entities": [
+      {
+        "text": "นนทกาญจน์ นามขำ",
+        "label": "PERSON",
+        "start": 47,
+        "end": 62
+      },
+      {
+        "text": "Pre-emptive zero tolerance database",
+        "label": "COURSE",
+        "start": 71,
+        "end": 106
+      },
+      {
+        "text": "aggregate front-end e-tailers",
+        "label": "COURSE",
+        "start": 109,
+        "end": 138
+      },
+      {
+        "text": "2563-11-14",
+        "label": "DATE",
+        "start": 145,
+        "end": 155
+      },
+      {
+        "text": "11/04/2532",
+        "label": "DATE",
+        "start": 157,
+        "end": 167
+      },
+      {
+        "text": "สมาคมพานเกล้า",
+        "label": "ISSUER",
+        "start": 183,
+        "end": 196
+      },
+      {
+        "text": "https://www.wuththyaakrbrrcchuphanth.org/",
+        "label": "URL",
+        "start": 217,
+        "end": 258
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.778443",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: พิมพกานต์ ทองอยู่\nCOURSE: Adaptive cohesive time-frame / innovate front-end channels\nDATE: 2542-03-17 (28/11/2526)\nORGANIZATION: บริษัท ศาสตร์ศิลป์และเพื่อน จำกัด\n\nID: hAM0366 | URL: https://haanghunswnsaamay.in.th/\nVALIDATED BY: น้ำเพชร ธนูปกรณ์, Director",
+    "entities": [
+      {
+        "text": "พิมพกานต์ ทองอยู่",
+        "label": "PERSON",
+        "start": 47,
+        "end": 64
+      },
+      {
+        "text": "Adaptive cohesive time-frame",
+        "label": "COURSE",
+        "start": 73,
+        "end": 101
+      },
+      {
+        "text": "innovate front-end channels",
+        "label": "COURSE",
+        "start": 104,
+        "end": 131
+      },
+      {
+        "text": "2542-03-17",
+        "label": "DATE",
+        "start": 138,
+        "end": 148
+      },
+      {
+        "text": "28/11/2526",
+        "label": "DATE",
+        "start": 150,
+        "end": 160
+      },
+      {
+        "text": "บริษัท ศาสตร์ศิลป์และเพื่อน จำกัด",
+        "label": "ISSUER",
+        "start": 176,
+        "end": 209
+      },
+      {
+        "text": "https://haanghunswnsaamay.in.th/",
+        "label": "URL",
+        "start": 230,
+        "end": 262
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.856442",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nมาซีเตาะ นิลสลัว\nhas successfully completed the training program\n'Switchable methodical secured line'\non 2519-02-21.\n\nIssued by: บริษัท มิ่งขวัญคอมมิวนิเคชั่น จำกัด\nAuthorized by: มาสิตะ ทวนทอง, President\nCertificate ID: yrm9839\n\nVerify at: https://shphaaphaerngngaanthumabutr.in.th/",
+    "entities": [
+      {
+        "text": "มาซีเตาะ นิลสลัว",
+        "label": "PERSON",
+        "start": 51,
+        "end": 67
+      },
+      {
+        "text": "Switchable methodical secured line",
+        "label": "COURSE",
+        "start": 117,
+        "end": 151
+      },
+      {
+        "text": "2519-02-21",
+        "label": "DATE",
+        "start": 156,
+        "end": 166
+      },
+      {
+        "text": "บริษัท มิ่งขวัญคอมมิวนิเคชั่น จำกัด",
+        "label": "ISSUER",
+        "start": 180,
+        "end": 215
+      },
+      {
+        "text": "https://shphaaphaerngngaanthumabutr.in.th/",
+        "label": "URL",
+        "start": 292,
+        "end": 334
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.819444",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nคมกริบ ถาวรรัตน\nhas successfully completed the training program\n'Devolved transitional help-desk'\non 2556-04-25.\n\nIssued by: ห้างหุ้นส่วนสามัญ แต้กุล\nAuthorized by: ผกาทิพย์ บินดี, CEO\nCertificate ID: Mdp9539\n\nVerify at: http://brisath.net/",
+    "entities": [
+      {
+        "text": "คมกริบ ถาวรรัตน",
+        "label": "PERSON",
+        "start": 51,
+        "end": 66
+      },
+      {
+        "text": "Devolved transitional help-desk",
+        "label": "COURSE",
+        "start": 116,
+        "end": 147
+      },
+      {
+        "text": "2556-04-25",
+        "label": "DATE",
+        "start": 152,
+        "end": 162
+      },
+      {
+        "text": "ห้างหุ้นส่วนสามัญ แต้กุล",
+        "label": "ISSUER",
+        "start": 176,
+        "end": 200
+      },
+      {
+        "text": "http://brisath.net/",
+        "label": "URL",
+        "start": 272,
+        "end": 291
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.817442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nวันฉัตร ทหารแท้\nhas successfully completed the training program\n'Seamless responsive protocol'\non 2531-11-04.\n\nIssued by: บริษัท นาคะนครมอเตอร์ จำกัด (มหาชน)\nAuthorized by: โยธิการ์ ชุมวระ, President\nCertificate ID: odN1064\n\nVerify at: https://www.haanghunswncchamkad.com/",
+    "entities": [
+      {
+        "text": "วันฉัตร ทหารแท้",
+        "label": "PERSON",
+        "start": 51,
+        "end": 66
+      },
+      {
+        "text": "Seamless responsive protocol",
+        "label": "COURSE",
+        "start": 116,
+        "end": 144
+      },
+      {
+        "text": "2531-11-04",
+        "label": "DATE",
+        "start": 149,
+        "end": 159
+      },
+      {
+        "text": "บริษัท นาคะนครมอเตอร์ จำกัด (มหาชน)",
+        "label": "ISSUER",
+        "start": 173,
+        "end": 208
+      },
+      {
+        "text": "https://www.haanghunswncchamkad.com/",
+        "label": "URL",
+        "start": 287,
+        "end": 323
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.809442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: วิรชัย จันอ้น\nCOURSE: Reduced directional portal / iterate sticky functionalities\nDATE: 2520-05-31 (12/06/2550)\nORGANIZATION: มูลนิธิตวงทอง\n\nID: xNy2902 | URL: http://www.brisath.ac.th/\nVALIDATED BY: หลี ทรัพย์สาร, CEO",
+    "entities": [
+      {
+        "text": "วิรชัย จันอ้น",
+        "label": "PERSON",
+        "start": 47,
+        "end": 60
+      },
+      {
+        "text": "Reduced directional portal",
+        "label": "COURSE",
+        "start": 69,
+        "end": 95
+      },
+      {
+        "text": "iterate sticky functionalities",
+        "label": "COURSE",
+        "start": 98,
+        "end": 128
+      },
+      {
+        "text": "2520-05-31",
+        "label": "DATE",
+        "start": 135,
+        "end": 145
+      },
+      {
+        "text": "12/06/2550",
+        "label": "DATE",
+        "start": 147,
+        "end": 157
+      },
+      {
+        "text": "มูลนิธิตวงทอง",
+        "label": "ISSUER",
+        "start": 173,
+        "end": 186
+      },
+      {
+        "text": "http://www.brisath.ac.th/",
+        "label": "URL",
+        "start": 207,
+        "end": 232
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.857445",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nโรสชา ถนอมพลกรัง\nhas successfully completed the training program\n'Automated 24hour attitude'\non 2528-11-24.\n\nIssued by: ห้างหุ้นส่วนจำกัด พรรษาสกุล\nAuthorized by: ธนนนท์ ชุมวระ, Director\nCertificate ID: MVH9678\n\nVerify at: https://smaakhmenraanusnthi.co.th/",
+    "entities": [
+      {
+        "text": "โรสชา ถนอมพลกรัง",
+        "label": "PERSON",
+        "start": 51,
+        "end": 67
+      },
+      {
+        "text": "Automated 24hour attitude",
+        "label": "COURSE",
+        "start": 117,
+        "end": 142
+      },
+      {
+        "text": "2528-11-24",
+        "label": "DATE",
+        "start": 147,
+        "end": 157
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด พรรษาสกุล",
+        "label": "ISSUER",
+        "start": 171,
+        "end": 198
+      },
+      {
+        "text": "https://smaakhmenraanusnthi.co.th/",
+        "label": "URL",
+        "start": 274,
+        "end": 308
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.828443",
+      "language": "en"
+    }
+  },
+  {
+    "text": "บริษัท ศิวะวรเวทพานิช จำกัด GKx9047\nใบรับรอง\nมอบให้แก่\n\nยุศรอน คณานุรักษ์\n\nได้ผ่านการอบรม\nหลักสูตร: visualize out-of-the-box e-services\n\nวันที่ 30/07/2545\n\nมะสูเกียน นิระหานี\n(ประธานกรรมการ)\n\nhttps://www.hcchkthsoythin.in.th/",
+    "entities": [
+      {
+        "text": "ยุศรอน คณานุรักษ์",
+        "label": "PERSON",
+        "start": 56,
+        "end": 73
+      },
+      {
+        "text": "visualize out-of-the-box e-services",
+        "label": "COURSE",
+        "start": 100,
+        "end": 135
+      },
+      {
+        "text": "30/07/2545",
+        "label": "DATE",
+        "start": 144,
+        "end": 154
+      },
+      {
+        "text": "บริษัท ศิวะวรเวทพานิช จำกัด",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 27
+      },
+      {
+        "text": "https://www.hcchkthsoythin.in.th/",
+        "label": "URL",
+        "start": 192,
+        "end": 225
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.841443",
+      "language": "th"
+    }
+  },
+  {
+    "text": "บริษัท ดัตพันธุ์ จำกัด (มหาชน) lJI5944\nใบรับรอง\nมอบให้แก่\n\nจำรัส นกทอง\n\nได้ผ่านการอบรม\nหลักสูตร: envisioneer ubiquitous web services\n\nวันที่ 30/08/2556\n\nสุรการณ์ ถุงเงิน\n(ผู้อำนวยการ)\n\nhttp://haanghunswncchamkad.com/",
+    "entities": [
+      {
+        "text": "จำรัส นกทอง",
+        "label": "PERSON",
+        "start": 59,
+        "end": 70
+      },
+      {
+        "text": "envisioneer ubiquitous web services",
+        "label": "COURSE",
+        "start": 97,
+        "end": 132
+      },
+      {
+        "text": "30/08/2556",
+        "label": "DATE",
+        "start": 141,
+        "end": 151
+      },
+      {
+        "text": "บริษัท ดัตพันธุ์ จำกัด (มหาชน)",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 30
+      },
+      {
+        "text": "http://haanghunswncchamkad.com/",
+        "label": "URL",
+        "start": 185,
+        "end": 216
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.770442",
+      "language": "th"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nณัฐญาดา ตะละภัฏ\nhas successfully completed the training program\n'Progressive system-worthy attitude'\non 2565-06-15.\n\nIssued by: ห้างหุ้นส่วนจำกัด ตวงทองเทรดดิ้ง\nAuthorized by: สุพัตร ถนิมมาศ, President\nCertificate ID: qzl1310\n\nVerify at: http://www.nisprapaycch-nkhrethph.co.th/",
+    "entities": [
+      {
+        "text": "ณัฐญาดา ตะละภัฏ",
+        "label": "PERSON",
+        "start": 51,
+        "end": 66
+      },
+      {
+        "text": "Progressive system-worthy attitude",
+        "label": "COURSE",
+        "start": 116,
+        "end": 150
+      },
+      {
+        "text": "2565-06-15",
+        "label": "DATE",
+        "start": 155,
+        "end": 165
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด ตวงทองเทรดดิ้ง",
+        "label": "ISSUER",
+        "start": 179,
+        "end": 211
+      },
+      {
+        "text": "http://www.nisprapaycch-nkhrethph.co.th/",
+        "label": "URL",
+        "start": 289,
+        "end": 329
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.839442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: รวิวาน เลิศกิ่ง\nCOURSE: Face-to-face disintermediate capability / implement e-business communities\nDATE: 2567-10-05 (27/09/2542)\nORGANIZATION: ห้างหุ้นส่วนจำกัด นิละทัต\n\nID: buz2441 | URL: http://muulnithiemuuengsukh.in.th/\nVALIDATED BY: พิไลพร แนวพนิช, Director",
+    "entities": [
+      {
+        "text": "รวิวาน เลิศกิ่ง",
+        "label": "PERSON",
+        "start": 47,
+        "end": 62
+      },
+      {
+        "text": "Face-to-face disintermediate capability",
+        "label": "COURSE",
+        "start": 71,
+        "end": 110
+      },
+      {
+        "text": "implement e-business communities",
+        "label": "COURSE",
+        "start": 113,
+        "end": 145
+      },
+      {
+        "text": "2567-10-05",
+        "label": "DATE",
+        "start": 152,
+        "end": 162
+      },
+      {
+        "text": "27/09/2542",
+        "label": "DATE",
+        "start": 164,
+        "end": 174
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด นิละทัต",
+        "label": "ISSUER",
+        "start": 190,
+        "end": 215
+      },
+      {
+        "text": "http://muulnithiemuuengsukh.in.th/",
+        "label": "URL",
+        "start": 236,
+        "end": 270
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.821442",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: ภาสินี พรสีมา\nCOURSE: Cross-platform bandwidth-monitored instruction set / leverage rich experiences\nDATE: 2554-03-05 (13/05/2539)\nORGANIZATION: บริษัท ศรีตะวัน จำกัด\n\nID: jvB8551 | URL: http://niymthrrm-niymechiiym.net.th/\nVALIDATED BY: ตรีนุช พานเกล้า, Director",
+    "entities": [
+      {
+        "text": "ภาสินี พรสีมา",
+        "label": "PERSON",
+        "start": 47,
+        "end": 60
+      },
+      {
+        "text": "Cross-platform bandwidth-monitored instruction set",
+        "label": "COURSE",
+        "start": 69,
+        "end": 119
+      },
+      {
+        "text": "leverage rich experiences",
+        "label": "COURSE",
+        "start": 122,
+        "end": 147
+      },
+      {
+        "text": "2554-03-05",
+        "label": "DATE",
+        "start": 154,
+        "end": 164
+      },
+      {
+        "text": "13/05/2539",
+        "label": "DATE",
+        "start": 166,
+        "end": 176
+      },
+      {
+        "text": "บริษัท ศรีตะวัน จำกัด",
+        "label": "ISSUER",
+        "start": 192,
+        "end": 213
+      },
+      {
+        "text": "http://niymthrrm-niymechiiym.net.th/",
+        "label": "URL",
+        "start": 234,
+        "end": 270
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.811443",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nพิมพ์พิชญา ถนัดอาวุธ\nhas successfully completed the training program\n'Reverse-engineered interactive instruction set'\non 2528-08-26.\n\nIssued by: มูลนิธิบินดี\nAuthorized by: อณาวิน สันตะวงศ์, Director\nCertificate ID: waL9288\n\nVerify at: https://www.hcchkdaabephchrenetraiphrs.com/",
+    "entities": [
+      {
+        "text": "พิมพ์พิชญา ถนัดอาวุธ",
+        "label": "PERSON",
+        "start": 51,
+        "end": 71
+      },
+      {
+        "text": "Reverse-engineered interactive instruction set",
+        "label": "COURSE",
+        "start": 121,
+        "end": 167
+      },
+      {
+        "text": "2528-08-26",
+        "label": "DATE",
+        "start": 172,
+        "end": 182
+      },
+      {
+        "text": "มูลนิธิบินดี",
+        "label": "ISSUER",
+        "start": 196,
+        "end": 208
+      },
+      {
+        "text": "https://www.hcchkdaabephchrenetraiphrs.com/",
+        "label": "URL",
+        "start": 287,
+        "end": 330
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.785442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nกฤตพร บุญบำรุง\nhas successfully completed the training program\n'Profit-focused clear-thinking collaboration'\non 2560-12-15.\n\nIssued by: ฉิมพาลีและภูภักดี\nAuthorized by: สมใจ ตั้งรบ, President\nCertificate ID: eGk0475\n\nVerify at: https://www.brisath.co.th/",
+    "entities": [
+      {
+        "text": "กฤตพร บุญบำรุง",
+        "label": "PERSON",
+        "start": 51,
+        "end": 65
+      },
+      {
+        "text": "Profit-focused clear-thinking collaboration",
+        "label": "COURSE",
+        "start": 115,
+        "end": 158
+      },
+      {
+        "text": "2560-12-15",
+        "label": "DATE",
+        "start": 163,
+        "end": 173
+      },
+      {
+        "text": "ฉิมพาลีและภูภักดี",
+        "label": "ISSUER",
+        "start": 187,
+        "end": 204
+      },
+      {
+        "text": "https://www.brisath.co.th/",
+        "label": "URL",
+        "start": 279,
+        "end": 305
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.794443",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nสมเกียรติ จันทา\nhas successfully completed the training program\n'Synergistic intangible hardware'\non 2567-04-10.\n\nIssued by: หจก.ถนัดรบ\nAuthorized by: วรดาพร ถนัดภาษา, Director\nCertificate ID: HTz6876\n\nVerify at: http://brisath.in.th/",
+    "entities": [
+      {
+        "text": "สมเกียรติ จันทา",
+        "label": "PERSON",
+        "start": 51,
+        "end": 66
+      },
+      {
+        "text": "Synergistic intangible hardware",
+        "label": "COURSE",
+        "start": 116,
+        "end": 147
+      },
+      {
+        "text": "2567-04-10",
+        "label": "DATE",
+        "start": 152,
+        "end": 162
+      },
+      {
+        "text": "หจก.ถนัดรบ",
+        "label": "ISSUER",
+        "start": 176,
+        "end": 186
+      },
+      {
+        "text": "http://brisath.in.th/",
+        "label": "URL",
+        "start": 264,
+        "end": 285
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.771442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nโอภาส บุณยะภาชน์\nhas successfully completed the training program\n'Synergized methodical array'\non 2550-01-29.\n\nIssued by: บริษัท นิลเสนาภาพยนตร์ จำกัด\nAuthorized by: เจตธนากร จันอ้น, CEO\nCertificate ID: TKj0921\n\nVerify at: http://www.hcchkphlbuy.in.th/",
+    "entities": [
+      {
+        "text": "โอภาส บุณยะภาชน์",
+        "label": "PERSON",
+        "start": 51,
+        "end": 67
+      },
+      {
+        "text": "Synergized methodical array",
+        "label": "COURSE",
+        "start": 117,
+        "end": 144
+      },
+      {
+        "text": "2550-01-29",
+        "label": "DATE",
+        "start": 149,
+        "end": 159
+      },
+      {
+        "text": "บริษัท นิลเสนาภาพยนตร์ จำกัด",
+        "label": "ISSUER",
+        "start": 173,
+        "end": 201
+      },
+      {
+        "text": "http://www.hcchkphlbuy.in.th/",
+        "label": "URL",
+        "start": 274,
+        "end": 303
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.763442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nพีรภัทร์ ถนัดรบ\nhas successfully completed the training program\n'Right-sized dynamic analyzer'\non 2559-02-05.\n\nIssued by: บริษัท จันอ้น จำกัด\nAuthorized by: วรนาฎ นามขำ, President\nCertificate ID: iah9725\n\nVerify at: https://www.haanghunswncchamkad.org/",
+    "entities": [
+      {
+        "text": "พีรภัทร์ ถนัดรบ",
+        "label": "PERSON",
+        "start": 51,
+        "end": 66
+      },
+      {
+        "text": "Right-sized dynamic analyzer",
+        "label": "COURSE",
+        "start": 116,
+        "end": 144
+      },
+      {
+        "text": "2559-02-05",
+        "label": "DATE",
+        "start": 149,
+        "end": 159
+      },
+      {
+        "text": "บริษัท จันอ้น จำกัด",
+        "label": "ISSUER",
+        "start": 173,
+        "end": 192
+      },
+      {
+        "text": "https://www.haanghunswncchamkad.org/",
+        "label": "URL",
+        "start": 267,
+        "end": 303
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.854443",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nธารา บุนยะตีรณะ\nhas successfully completed the training program\n'Profit-focused grid-enabled extranet'\non 2529-07-02.\n\nIssued by: บริษัท ทองลาภ จำกัด\nAuthorized by: ภัคศุภางค์ ศรีอุ่น, President\nCertificate ID: ztS7018\n\nVerify at: https://smaakhmaitrbrrph.com/",
+    "entities": [
+      {
+        "text": "ธารา บุนยะตีรณะ",
+        "label": "PERSON",
+        "start": 51,
+        "end": 66
+      },
+      {
+        "text": "Profit-focused grid-enabled extranet",
+        "label": "COURSE",
+        "start": 116,
+        "end": 152
+      },
+      {
+        "text": "2529-07-02",
+        "label": "DATE",
+        "start": 157,
+        "end": 167
+      },
+      {
+        "text": "บริษัท ทองลาภ จำกัด",
+        "label": "ISSUER",
+        "start": 181,
+        "end": 200
+      },
+      {
+        "text": "https://smaakhmaitrbrrph.com/",
+        "label": "URL",
+        "start": 282,
+        "end": 311
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.829442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: ทรรศนชัย บุนยาภิสนท์\nCOURSE: Digitized executive implementation / integrate proactive relationships\nDATE: 2526-08-16 (05/11/2527)\nORGANIZATION: หจก.ถนิมมาศ\n\nID: eeA4478 | URL: http://brisath.co.th/\nVALIDATED BY: คำปลิว ยางสวย, Director",
+    "entities": [
+      {
+        "text": "ทรรศนชัย บุนยาภิสนท์",
+        "label": "PERSON",
+        "start": 47,
+        "end": 67
+      },
+      {
+        "text": "Digitized executive implementation",
+        "label": "COURSE",
+        "start": 76,
+        "end": 110
+      },
+      {
+        "text": "integrate proactive relationships",
+        "label": "COURSE",
+        "start": 113,
+        "end": 146
+      },
+      {
+        "text": "2526-08-16",
+        "label": "DATE",
+        "start": 153,
+        "end": 163
+      },
+      {
+        "text": "05/11/2527",
+        "label": "DATE",
+        "start": 165,
+        "end": 175
+      },
+      {
+        "text": "หจก.ถนิมมาศ",
+        "label": "ISSUER",
+        "start": 191,
+        "end": 202
+      },
+      {
+        "text": "http://brisath.co.th/",
+        "label": "URL",
+        "start": 223,
+        "end": 244
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.778443",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: ราชันทร์ นาฏคายี\nCOURSE: Ameliorated didactic Graphic Interface / exploit frictionless partnerships\nDATE: 2527-08-28 (07/11/2547)\nORGANIZATION: ห้างหุ้นส่วนจำกัด ดุษฎีวนิช\n\nID: KzW8840 | URL: https://www.brisath.org/\nVALIDATED BY: เอนกพงศ์ บุญญาภิรมย์, Director",
+    "entities": [
+      {
+        "text": "ราชันทร์ นาฏคายี",
+        "label": "PERSON",
+        "start": 47,
+        "end": 63
+      },
+      {
+        "text": "Ameliorated didactic Graphic Interface",
+        "label": "COURSE",
+        "start": 72,
+        "end": 110
+      },
+      {
+        "text": "exploit frictionless partnerships",
+        "label": "COURSE",
+        "start": 113,
+        "end": 146
+      },
+      {
+        "text": "2527-08-28",
+        "label": "DATE",
+        "start": 153,
+        "end": 163
+      },
+      {
+        "text": "07/11/2547",
+        "label": "DATE",
+        "start": 165,
+        "end": 175
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด ดุษฎีวนิช",
+        "label": "ISSUER",
+        "start": 191,
+        "end": 218
+      },
+      {
+        "text": "https://www.brisath.org/",
+        "label": "URL",
+        "start": 239,
+        "end": 263
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.784442",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "ห้างหุ้นส่วนจำกัด ทองแท้วิศวการ XfC8697\nใบรับรอง\nมอบให้แก่\n\nคำมั่น โพธิสัตย์\n\nได้ผ่านการอบรม\nหลักสูตร: harness cross-media eyeballs\n\nวันที่ 01/06/2538\n\nเกษมชัย ถนอมพล\n(ประธานกรรมการ)\n\nhttp://www.thaawraayusmechrwis.net/",
+    "entities": [
+      {
+        "text": "คำมั่น โพธิสัตย์",
+        "label": "PERSON",
+        "start": 60,
+        "end": 76
+      },
+      {
+        "text": "harness cross-media eyeballs",
+        "label": "COURSE",
+        "start": 103,
+        "end": 131
+      },
+      {
+        "text": "01/06/2538",
+        "label": "DATE",
+        "start": 140,
+        "end": 150
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด ทองแท้วิศวการ",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 31
+      },
+      {
+        "text": "http://www.thaawraayusmechrwis.net/",
+        "label": "URL",
+        "start": 184,
+        "end": 219
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.803443",
+      "language": "th"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: สมใจ ฉิมพาลี\nCOURSE: Multi-lateral zero-defect throughput / enhance visionary bandwidth\nDATE: 2522-12-21 (30/04/2557)\nORGANIZATION: ห้างหุ้นส่วนจำกัด ภูภักดีอุตสาหกรรม\n\nID: SDy4210 | URL: https://haanghunswncchamkad.com/\nVALIDATED BY: พรชีวิน ตั้งเผ่า, President",
+    "entities": [
+      {
+        "text": "สมใจ ฉิมพาลี",
+        "label": "PERSON",
+        "start": 47,
+        "end": 59
+      },
+      {
+        "text": "Multi-lateral zero-defect throughput",
+        "label": "COURSE",
+        "start": 68,
+        "end": 104
+      },
+      {
+        "text": "enhance visionary bandwidth",
+        "label": "COURSE",
+        "start": 107,
+        "end": 134
+      },
+      {
+        "text": "2522-12-21",
+        "label": "DATE",
+        "start": 141,
+        "end": 151
+      },
+      {
+        "text": "30/04/2557",
+        "label": "DATE",
+        "start": 153,
+        "end": 163
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด ภูภักดีอุตสาหกรรม",
+        "label": "ISSUER",
+        "start": 179,
+        "end": 214
+      },
+      {
+        "text": "https://haanghunswncchamkad.com/",
+        "label": "URL",
+        "start": 235,
+        "end": 267
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.794443",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: ปิยะชาติ นามขำ\nCOURSE: Face-to-face coherent application / grow compelling applications\nDATE: 2545-05-18 (07/03/2563)\nORGANIZATION: บจก.ศรีธนะเวทย์เฟอนิชชิ่ง\n\nID: Qrh1655 | URL: http://brisath.com/\nVALIDATED BY: สัญชาน ถะเกิงชศ, President",
+    "entities": [
+      {
+        "text": "ปิยะชาติ นามขำ",
+        "label": "PERSON",
+        "start": 47,
+        "end": 61
+      },
+      {
+        "text": "Face-to-face coherent application",
+        "label": "COURSE",
+        "start": 70,
+        "end": 103
+      },
+      {
+        "text": "grow compelling applications",
+        "label": "COURSE",
+        "start": 106,
+        "end": 134
+      },
+      {
+        "text": "2545-05-18",
+        "label": "DATE",
+        "start": 141,
+        "end": 151
+      },
+      {
+        "text": "07/03/2563",
+        "label": "DATE",
+        "start": 153,
+        "end": 163
+      },
+      {
+        "text": "บจก.ศรีธนะเวทย์เฟอนิชชิ่ง",
+        "label": "ISSUER",
+        "start": 179,
+        "end": 204
+      },
+      {
+        "text": "http://brisath.com/",
+        "label": "URL",
+        "start": 225,
+        "end": 244
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.835442",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nมะลีวัลย์ เนื้อนุ่ม\nhas successfully completed the training program\n'Reduced exuding archive'\non 2556-06-22.\n\nIssued by: สงประเสริฐแพคกิ้ง\nAuthorized by: ปาริตา ธนรักษ์, CEO\nCertificate ID: cEO1664\n\nVerify at: https://haanghunswncchamkad.in.th/",
+    "entities": [
+      {
+        "text": "มะลีวัลย์ เนื้อนุ่ม",
+        "label": "PERSON",
+        "start": 51,
+        "end": 70
+      },
+      {
+        "text": "Reduced exuding archive",
+        "label": "COURSE",
+        "start": 120,
+        "end": 143
+      },
+      {
+        "text": "2556-06-22",
+        "label": "DATE",
+        "start": 148,
+        "end": 158
+      },
+      {
+        "text": "สงประเสริฐแพคกิ้ง",
+        "label": "ISSUER",
+        "start": 172,
+        "end": 189
+      },
+      {
+        "text": "https://haanghunswncchamkad.in.th/",
+        "label": "URL",
+        "start": 261,
+        "end": 295
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.742487",
+      "language": "en"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: คำมั่น หิรัญสาลี\nCOURSE: Inverse mobile Local Area Network / whiteboard sticky ROI\nDATE: 2533-05-13 (21/04/2515)\nORGANIZATION: บจก.ตันเผ่า\n\nID: bQL0717 | URL: https://www.brisath.com/\nVALIDATED BY: สุพัตร ตั้งกุลงาม, President",
+    "entities": [
+      {
+        "text": "คำมั่น หิรัญสาลี",
+        "label": "PERSON",
+        "start": 47,
+        "end": 63
+      },
+      {
+        "text": "Inverse mobile Local Area Network",
+        "label": "COURSE",
+        "start": 72,
+        "end": 105
+      },
+      {
+        "text": "whiteboard sticky ROI",
+        "label": "COURSE",
+        "start": 108,
+        "end": 129
+      },
+      {
+        "text": "2533-05-13",
+        "label": "DATE",
+        "start": 136,
+        "end": 146
+      },
+      {
+        "text": "21/04/2515",
+        "label": "DATE",
+        "start": 148,
+        "end": 158
+      },
+      {
+        "text": "บจก.ตันเผ่า",
+        "label": "ISSUER",
+        "start": 174,
+        "end": 185
+      },
+      {
+        "text": "https://www.brisath.com/",
+        "label": "URL",
+        "start": 206,
+        "end": 230
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.808442",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: ณัฐจศักดิ์ บุญญาภิรมย์\nCOURSE: Innovative disintermediate extranet / target best-of-breed e-markets\nDATE: 2535-03-16 (29/05/2539)\nORGANIZATION: บริษัท ทวนไชย์คอมมิวนิเคชั่น จำกัด\n\nID: yWr3659 | URL: http://www.brisath.org/\nVALIDATED BY: ชิดชนก ขอหมั่นกลาง, Director",
+    "entities": [
+      {
+        "text": "ณัฐจศักดิ์ บุญญาภิรมย์",
+        "label": "PERSON",
+        "start": 47,
+        "end": 69
+      },
+      {
+        "text": "Innovative disintermediate extranet",
+        "label": "COURSE",
+        "start": 78,
+        "end": 113
+      },
+      {
+        "text": "target best-of-breed e-markets",
+        "label": "COURSE",
+        "start": 116,
+        "end": 146
+      },
+      {
+        "text": "2535-03-16",
+        "label": "DATE",
+        "start": 153,
+        "end": 163
+      },
+      {
+        "text": "29/05/2539",
+        "label": "DATE",
+        "start": 165,
+        "end": 175
+      },
+      {
+        "text": "บริษัท ทวนไชย์คอมมิวนิเคชั่น จำกัด",
+        "label": "ISSUER",
+        "start": 191,
+        "end": 225
+      },
+      {
+        "text": "http://www.brisath.org/",
+        "label": "URL",
+        "start": 246,
+        "end": 269
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.798443",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: กันตวรรณ ทองลาภ\nCOURSE: Intuitive intangible functionalities / empower killer initiatives\nDATE: 2557-05-15 (05/06/2533)\nORGANIZATION: บริษัท ร่มธิติรัตน์\n\nID: JAi7378 | URL: http://www.nrphaymetr.in.th/\nVALIDATED BY: วรศาสส์ ธนประทีป, Director",
+    "entities": [
+      {
+        "text": "กันตวรรณ ทองลาภ",
+        "label": "PERSON",
+        "start": 47,
+        "end": 62
+      },
+      {
+        "text": "Intuitive intangible functionalities",
+        "label": "COURSE",
+        "start": 71,
+        "end": 107
+      },
+      {
+        "text": "empower killer initiatives",
+        "label": "COURSE",
+        "start": 110,
+        "end": 136
+      },
+      {
+        "text": "2557-05-15",
+        "label": "DATE",
+        "start": 143,
+        "end": 153
+      },
+      {
+        "text": "05/06/2533",
+        "label": "DATE",
+        "start": 155,
+        "end": 165
+      },
+      {
+        "text": "บริษัท ร่มธิติรัตน์",
+        "label": "ISSUER",
+        "start": 181,
+        "end": 200
+      },
+      {
+        "text": "http://www.nrphaymetr.in.th/",
+        "label": "URL",
+        "start": 221,
+        "end": 249
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.829442",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nพรรณปพร ธนรักษ์\nhas successfully completed the training program\n'Decentralized foreground toolset'\non 2518-03-22.\n\nIssued by: บจก.ธรรมเมธาอิมปอร์ตเอ็กซปอร์ต\nAuthorized by: ณัฐธิตา งามพิเชษฐ์, President\nCertificate ID: TRh7538\n\nVerify at: http://bcchktwngthngchaphphlaay.in.th/",
+    "entities": [
+      {
+        "text": "พรรณปพร ธนรักษ์",
+        "label": "PERSON",
+        "start": 51,
+        "end": 66
+      },
+      {
+        "text": "Decentralized foreground toolset",
+        "label": "COURSE",
+        "start": 116,
+        "end": 148
+      },
+      {
+        "text": "2518-03-22",
+        "label": "DATE",
+        "start": 153,
+        "end": 163
+      },
+      {
+        "text": "บจก.ธรรมเมธาอิมปอร์ตเอ็กซปอร์ต",
+        "label": "ISSUER",
+        "start": 177,
+        "end": 207
+      },
+      {
+        "text": "http://bcchktwngthngchaphphlaay.in.th/",
+        "label": "URL",
+        "start": 289,
+        "end": 327
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.741486",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nเยาวรัตน์ ธนประทีป\nhas successfully completed the training program\n'Polarized logistical circuit'\non 2564-12-31.\n\nIssued by: บริษัท ทรัพย์สารวิศวกรรม จำกัด\nAuthorized by: ทินวัฒน์ ฉิมพาลี, CEO\nCertificate ID: xPj5330\n\nVerify at: http://thrrmsthitaiphsaalaephkhking.org/",
+    "entities": [
+      {
+        "text": "เยาวรัตน์ ธนประทีป",
+        "label": "PERSON",
+        "start": 51,
+        "end": 69
+      },
+      {
+        "text": "Polarized logistical circuit",
+        "label": "COURSE",
+        "start": 119,
+        "end": 147
+      },
+      {
+        "text": "2564-12-31",
+        "label": "DATE",
+        "start": 152,
+        "end": 162
+      },
+      {
+        "text": "บริษัท ทรัพย์สารวิศวกรรม จำกัด",
+        "label": "ISSUER",
+        "start": 176,
+        "end": 206
+      },
+      {
+        "text": "http://thrrmsthitaiphsaalaephkhking.org/",
+        "label": "URL",
+        "start": 280,
+        "end": 320
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.785442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nราชันทร์ ถนัดพิมพการ\nhas successfully completed the training program\n'Expanded tertiary parallelism'\non 2517-05-28.\n\nIssued by: หจก.พานเกล้า\nAuthorized by: วรรณกร ยะผา, President\nCertificate ID: GjR7508\n\nVerify at: https://hcchknrthukkh.co.th/",
+    "entities": [
+      {
+        "text": "ราชันทร์ ถนัดพิมพการ",
+        "label": "PERSON",
+        "start": 51,
+        "end": 71
+      },
+      {
+        "text": "Expanded tertiary parallelism",
+        "label": "COURSE",
+        "start": 121,
+        "end": 150
+      },
+      {
+        "text": "2517-05-28",
+        "label": "DATE",
+        "start": 155,
+        "end": 165
+      },
+      {
+        "text": "หจก.พานเกล้า",
+        "label": "ISSUER",
+        "start": 179,
+        "end": 191
+      },
+      {
+        "text": "https://hcchknrthukkh.co.th/",
+        "label": "URL",
+        "start": 266,
+        "end": 294
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.779442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nเกษมชัย ทวนทอง\nhas successfully completed the training program\n'Reactive exuding circuit'\non 2528-08-31.\n\nIssued by: ห้างหุ้นส่วนจำกัด นกทอง\nAuthorized by: ขอดิเยาะ ถนิมมาศ, CEO\nCertificate ID: Hbn0303\n\nVerify at: http://hcchkbutdaa.mi.th/",
+    "entities": [
+      {
+        "text": "เกษมชัย ทวนทอง",
+        "label": "PERSON",
+        "start": 51,
+        "end": 65
+      },
+      {
+        "text": "Reactive exuding circuit",
+        "label": "COURSE",
+        "start": 115,
+        "end": 139
+      },
+      {
+        "text": "2528-08-31",
+        "label": "DATE",
+        "start": 144,
+        "end": 154
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด นกทอง",
+        "label": "ISSUER",
+        "start": 168,
+        "end": 191
+      },
+      {
+        "text": "http://hcchkbutdaa.mi.th/",
+        "label": "URL",
+        "start": 265,
+        "end": 290
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.766446",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nอาแอเสาะ บุญญาไลย์\nhas successfully completed the training program\n'Profit-focused context-sensitive interface'\non 2548-05-25.\n\nIssued by: ห้างหุ้นส่วนจำกัด ตวันเยี่ยมแพคกิ้ง\nAuthorized by: สิรวัฒน์ ตันเผ่า, Director\nCertificate ID: Miw7246\n\nVerify at: http://etmiyaedch-thanyukh.com/",
+    "entities": [
+      {
+        "text": "อาแอเสาะ บุญญาไลย์",
+        "label": "PERSON",
+        "start": 51,
+        "end": 69
+      },
+      {
+        "text": "Profit-focused context-sensitive interface",
+        "label": "COURSE",
+        "start": 119,
+        "end": 161
+      },
+      {
+        "text": "2548-05-25",
+        "label": "DATE",
+        "start": 166,
+        "end": 176
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด ตวันเยี่ยมแพคกิ้ง",
+        "label": "ISSUER",
+        "start": 190,
+        "end": 225
+      },
+      {
+        "text": "http://etmiyaedch-thanyukh.com/",
+        "label": "URL",
+        "start": 304,
+        "end": 335
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.793442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nไมล์ ศาสตร์ศิลป์\nhas successfully completed the training program\n'Phased non-volatile initiative'\non 2520-02-03.\n\nIssued by: บริษัท ธูปหอม จำกัด\nAuthorized by: ปภาวรินทร์ แนวพญา, President\nCertificate ID: IJI7171\n\nVerify at: http://www.hcchkthnmkulbutr.ac.th/",
+    "entities": [
+      {
+        "text": "ไมล์ ศาสตร์ศิลป์",
+        "label": "PERSON",
+        "start": 51,
+        "end": 67
+      },
+      {
+        "text": "Phased non-volatile initiative",
+        "label": "COURSE",
+        "start": 117,
+        "end": 147
+      },
+      {
+        "text": "2520-02-03",
+        "label": "DATE",
+        "start": 152,
+        "end": 162
+      },
+      {
+        "text": "บริษัท ธูปหอม จำกัด",
+        "label": "ISSUER",
+        "start": 176,
+        "end": 195
+      },
+      {
+        "text": "http://www.hcchkthnmkulbutr.ac.th/",
+        "label": "URL",
+        "start": 276,
+        "end": 310
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.743486",
+      "language": "en"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: วัลลภ ตระกูลบุญ\nCOURSE: Integrated user-facing contingency / grow intuitive functionalities\nDATE: 2545-12-05 (21/04/2545)\nORGANIZATION: บริษัท ตั้งรบอินเตอร์เนชั่นแนล จำกัด\n\nID: FVd8799 | URL: http://www.hcchkdamrihchb.in.th/\nVALIDATED BY: ใจกลาง ตันตราจิณ, President",
+    "entities": [
+      {
+        "text": "วัลลภ ตระกูลบุญ",
+        "label": "PERSON",
+        "start": 47,
+        "end": 62
+      },
+      {
+        "text": "Integrated user-facing contingency",
+        "label": "COURSE",
+        "start": 71,
+        "end": 105
+      },
+      {
+        "text": "grow intuitive functionalities",
+        "label": "COURSE",
+        "start": 108,
+        "end": 138
+      },
+      {
+        "text": "2545-12-05",
+        "label": "DATE",
+        "start": 145,
+        "end": 155
+      },
+      {
+        "text": "21/04/2545",
+        "label": "DATE",
+        "start": 157,
+        "end": 167
+      },
+      {
+        "text": "บริษัท ตั้งรบอินเตอร์เนชั่นแนล จำกัด",
+        "label": "ISSUER",
+        "start": 183,
+        "end": 219
+      },
+      {
+        "text": "http://www.hcchkdamrihchb.in.th/",
+        "label": "URL",
+        "start": 240,
+        "end": 272
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.834442",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: เกศรา เขียวขุ้ย\nCOURSE: Distributed local application / e-enable strategic e-commerce\nDATE: 2541-09-05 (11/05/2552)\nORGANIZATION: ทุมะบุตร์-ตวันเยี่ยม\n\nID: nYS1907 | URL: http://www.smaakhmsriiun.co.th/\nVALIDATED BY: ยนงคราญ เยาวธนโชค, President",
+    "entities": [
+      {
+        "text": "เกศรา เขียวขุ้ย",
+        "label": "PERSON",
+        "start": 47,
+        "end": 62
+      },
+      {
+        "text": "Distributed local application",
+        "label": "COURSE",
+        "start": 71,
+        "end": 100
+      },
+      {
+        "text": "e-enable strategic e-commerce",
+        "label": "COURSE",
+        "start": 103,
+        "end": 132
+      },
+      {
+        "text": "2541-09-05",
+        "label": "DATE",
+        "start": 139,
+        "end": 149
+      },
+      {
+        "text": "11/05/2552",
+        "label": "DATE",
+        "start": 151,
+        "end": 161
+      },
+      {
+        "text": "ทุมะบุตร์-ตวันเยี่ยม",
+        "label": "ISSUER",
+        "start": 177,
+        "end": 197
+      },
+      {
+        "text": "http://www.smaakhmsriiun.co.th/",
+        "label": "URL",
+        "start": 218,
+        "end": 249
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.758444",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "ชมรมสังข์กรด JQO6004\nใบรับรอง\nมอบให้แก่\n\nฉัตรปรียา ดิสกะประกาย\n\nได้ผ่านการอบรม\nหลักสูตร: whiteboard wireless synergies\n\nวันที่ 04/06/2540\n\nชรินทร์ทิพย์ ทำประดู่\n(ผู้อำนวยการ)\n\nhttps://www.brisath.com/",
+    "entities": [
+      {
+        "text": "ฉัตรปรียา ดิสกะประกาย",
+        "label": "PERSON",
+        "start": 41,
+        "end": 62
+      },
+      {
+        "text": "whiteboard wireless synergies",
+        "label": "COURSE",
+        "start": 89,
+        "end": 118
+      },
+      {
+        "text": "04/06/2540",
+        "label": "DATE",
+        "start": 127,
+        "end": 137
+      },
+      {
+        "text": "ชมรมสังข์กรด",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "text": "https://www.brisath.com/",
+        "label": "URL",
+        "start": 176,
+        "end": 200
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.811443",
+      "language": "th"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nกิติกานต์ บุญศล\nhas successfully completed the training program\n'Front-line high-level collaboration'\non 2541-10-23.\n\nIssued by: ทองปากน้ำเคมิคอล\nAuthorized by: วัลยา อุลหัสสา, CEO\nCertificate ID: YYa7936\n\nVerify at: http://brisath.com/",
+    "entities": [
+      {
+        "text": "กิติกานต์ บุญศล",
+        "label": "PERSON",
+        "start": 51,
+        "end": 66
+      },
+      {
+        "text": "Front-line high-level collaboration",
+        "label": "COURSE",
+        "start": 116,
+        "end": 151
+      },
+      {
+        "text": "2541-10-23",
+        "label": "DATE",
+        "start": 156,
+        "end": 166
+      },
+      {
+        "text": "ทองปากน้ำเคมิคอล",
+        "label": "ISSUER",
+        "start": 180,
+        "end": 196
+      },
+      {
+        "text": "http://brisath.com/",
+        "label": "URL",
+        "start": 268,
+        "end": 287
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.762442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nมารุด ฉายแสง\nhas successfully completed the training program\n'User-friendly solution-oriented contingency'\non 2555-08-11.\n\nIssued by: อัตตนาถและยาปะโลหิต\nAuthorized by: พรชีวิน ถนัดรักษา, President\nCertificate ID: Ixs8013\n\nVerify at: https://hcchkchimphaalii.co.th/",
+    "entities": [
+      {
+        "text": "มารุด ฉายแสง",
+        "label": "PERSON",
+        "start": 51,
+        "end": 63
+      },
+      {
+        "text": "User-friendly solution-oriented contingency",
+        "label": "COURSE",
+        "start": 113,
+        "end": 156
+      },
+      {
+        "text": "2555-08-11",
+        "label": "DATE",
+        "start": 161,
+        "end": 171
+      },
+      {
+        "text": "อัตตนาถและยาปะโลหิต",
+        "label": "ISSUER",
+        "start": 185,
+        "end": 204
+      },
+      {
+        "text": "https://hcchkchimphaalii.co.th/",
+        "label": "URL",
+        "start": 285,
+        "end": 316
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.838442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "ทีฆะการค้า YMK2015\nใบรับรอง\nมอบให้แก่\n\nสิริลัดดา ทับทิมไทย\n\nได้ผ่านการอบรม\nหลักสูตร: monetize cross-media info-mediaries\n\nวันที่ 06/11/2519\n\nยนงคราญ ตันเผ่า\n(ผู้อำนวยการ)\n\nhttp://www.kngthunrwmaethmthn.com/",
+    "entities": [
+      {
+        "text": "สิริลัดดา ทับทิมไทย",
+        "label": "PERSON",
+        "start": 39,
+        "end": 58
+      },
+      {
+        "text": "monetize cross-media info-mediaries",
+        "label": "COURSE",
+        "start": 85,
+        "end": 120
+      },
+      {
+        "text": "06/11/2519",
+        "label": "DATE",
+        "start": 129,
+        "end": 139
+      },
+      {
+        "text": "ทีฆะการค้า",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 10
+      },
+      {
+        "text": "http://www.kngthunrwmaethmthn.com/",
+        "label": "URL",
+        "start": 172,
+        "end": 206
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.848443",
+      "language": "th"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: จิฬาภรณ์ เยาวธนโชค\nCOURSE: Customer-focused dedicated utilization / leverage end-to-end convergence\nDATE: 2567-01-05 (26/05/2544)\nORGANIZATION: นิยมสำหรวจและศรทอง\n\nID: nuM7854 | URL: http://www.brisath.com/\nVALIDATED BY: ธวัศชา สังข์กรด, Director",
+    "entities": [
+      {
+        "text": "จิฬาภรณ์ เยาวธนโชค",
+        "label": "PERSON",
+        "start": 47,
+        "end": 65
+      },
+      {
+        "text": "Customer-focused dedicated utilization",
+        "label": "COURSE",
+        "start": 74,
+        "end": 112
+      },
+      {
+        "text": "leverage end-to-end convergence",
+        "label": "COURSE",
+        "start": 115,
+        "end": 146
+      },
+      {
+        "text": "2567-01-05",
+        "label": "DATE",
+        "start": 153,
+        "end": 163
+      },
+      {
+        "text": "26/05/2544",
+        "label": "DATE",
+        "start": 165,
+        "end": 175
+      },
+      {
+        "text": "นิยมสำหรวจและศรทอง",
+        "label": "ISSUER",
+        "start": 191,
+        "end": 209
+      },
+      {
+        "text": "http://www.brisath.com/",
+        "label": "URL",
+        "start": 230,
+        "end": 253
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.780442",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "ห้างหุ้นส่วนสามัญ นรวิทย์โชติกุลพานิช LPD4416\nใบรับรอง\nมอบให้แก่\n\nณิชาภัทร ไทนิยม\n\nได้ผ่านการอบรม\nหลักสูตร: implement cross-platform users\n\nวันที่ 24/08/2561\n\nศศิรินทร์ น้ำทิพย์\n(ประธานกรรมการ)\n\nhttp://www.thnaakhaaraitrbrrphbrrcchuphanth.co.th/",
+    "entities": [
+      {
+        "text": "ณิชาภัทร ไทนิยม",
+        "label": "PERSON",
+        "start": 66,
+        "end": 81
+      },
+      {
+        "text": "implement cross-platform users",
+        "label": "COURSE",
+        "start": 108,
+        "end": 138
+      },
+      {
+        "text": "24/08/2561",
+        "label": "DATE",
+        "start": 147,
+        "end": 157
+      },
+      {
+        "text": "ห้างหุ้นส่วนสามัญ นรวิทย์โชติกุลพานิช",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 37
+      },
+      {
+        "text": "http://www.thnaakhaaraitrbrrphbrrcchuphanth.co.th/",
+        "label": "URL",
+        "start": 195,
+        "end": 245
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.812445",
+      "language": "th"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nธีริสรา ธรรมสถิตไพศาล\nhas successfully completed the training program\n'Managed bottom-line throughput'\non 2537-05-27.\n\nIssued by: เดชคุ้มบรรจุภัณฑ์\nAuthorized by: อนุบาล ถ้วนศรี, President\nCertificate ID: jRw2810\n\nVerify at: http://muulnithiaenwphyaa.com/",
+    "entities": [
+      {
+        "text": "ธีริสรา ธรรมสถิตไพศาล",
+        "label": "PERSON",
+        "start": 51,
+        "end": 72
+      },
+      {
+        "text": "Managed bottom-line throughput",
+        "label": "COURSE",
+        "start": 122,
+        "end": 152
+      },
+      {
+        "text": "2537-05-27",
+        "label": "DATE",
+        "start": 157,
+        "end": 167
+      },
+      {
+        "text": "เดชคุ้มบรรจุภัณฑ์",
+        "label": "ISSUER",
+        "start": 181,
+        "end": 198
+      },
+      {
+        "text": "http://muulnithiaenwphyaa.com/",
+        "label": "URL",
+        "start": 276,
+        "end": 306
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.756446",
+      "language": "en"
+    }
+  },
+  {
+    "text": "บริษัท เนตร์มณีการบัญชี จำกัด Kpq9938\nใบรับรอง\nมอบให้แก่\n\nอาแอเสาะ ธรรมนิยม\n\nได้ผ่านการอบรม\nหลักสูตร: unleash B2C partnerships\n\nวันที่ 09/09/2552\n\nนพวรรณ ธนประทีป\n(ผู้อำนวยการ)\n\nhttp://www.bcchkthnglaaphyaanynt.co.th/",
+    "entities": [
+      {
+        "text": "อาแอเสาะ ธรรมนิยม",
+        "label": "PERSON",
+        "start": 58,
+        "end": 75
+      },
+      {
+        "text": "unleash B2C partnerships",
+        "label": "COURSE",
+        "start": 102,
+        "end": 126
+      },
+      {
+        "text": "09/09/2552",
+        "label": "DATE",
+        "start": 135,
+        "end": 145
+      },
+      {
+        "text": "บริษัท เนตร์มณีการบัญชี จำกัด",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 29
+      },
+      {
+        "text": "http://www.bcchkthnglaaphyaanynt.co.th/",
+        "label": "URL",
+        "start": 178,
+        "end": 217
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.838442",
+      "language": "th"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: พลานุช ทองสุกเลิศ\nCOURSE: Reduced non-volatile moratorium / scale strategic architectures\nDATE: 2552-04-29 (22/11/2551)\nORGANIZATION: บริษัท สันตะวงศ์ จำกัด (มหาชน)\n\nID: Lor3199 | URL: https://brisath.in.th/\nVALIDATED BY: กระสุน นะวะมันดร, President",
+    "entities": [
+      {
+        "text": "พลานุช ทองสุกเลิศ",
+        "label": "PERSON",
+        "start": 47,
+        "end": 64
+      },
+      {
+        "text": "Reduced non-volatile moratorium",
+        "label": "COURSE",
+        "start": 73,
+        "end": 104
+      },
+      {
+        "text": "scale strategic architectures",
+        "label": "COURSE",
+        "start": 107,
+        "end": 136
+      },
+      {
+        "text": "2552-04-29",
+        "label": "DATE",
+        "start": 143,
+        "end": 153
+      },
+      {
+        "text": "22/11/2551",
+        "label": "DATE",
+        "start": 155,
+        "end": 165
+      },
+      {
+        "text": "บริษัท สันตะวงศ์ จำกัด (มหาชน)",
+        "label": "ISSUER",
+        "start": 181,
+        "end": 211
+      },
+      {
+        "text": "https://brisath.in.th/",
+        "label": "URL",
+        "start": 232,
+        "end": 254
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.825442",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "บริษัท ธาราธรการบัญชี จำกัด RSF7707\nใบรับรอง\nมอบให้แก่\n\nประสิทธิ์ วาทา\n\nได้ผ่านการอบรม\nหลักสูตร: monetize collaborative infrastructures\n\nวันที่ 24/02/2536\n\nอดิสรณ์ คณานุรักษ์\n(ผู้อำนวยการ)\n\nhttp://www.brisath.com/",
+    "entities": [
+      {
+        "text": "ประสิทธิ์ วาทา",
+        "label": "PERSON",
+        "start": 56,
+        "end": 70
+      },
+      {
+        "text": "monetize collaborative infrastructures",
+        "label": "COURSE",
+        "start": 97,
+        "end": 135
+      },
+      {
+        "text": "24/02/2536",
+        "label": "DATE",
+        "start": 144,
+        "end": 154
+      },
+      {
+        "text": "บริษัท ธาราธรการบัญชี จำกัด",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 27
+      },
+      {
+        "text": "http://www.brisath.com/",
+        "label": "URL",
+        "start": 190,
+        "end": 213
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.818442",
+      "language": "th"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nจิราภรณ์ ติณรัตน์\nhas successfully completed the training program\n'Enhanced fault-tolerant function'\non 2556-02-03.\n\nIssued by: บริษัท วุฑฒยากร จำกัด\nAuthorized by: พรชีวิน ตะละภัฏ, CEO\nCertificate ID: DXE3472\n\nVerify at: https://www.khamluue-thnmkulbutr.org/",
+    "entities": [
+      {
+        "text": "จิราภรณ์ ติณรัตน์",
+        "label": "PERSON",
+        "start": 51,
+        "end": 68
+      },
+      {
+        "text": "Enhanced fault-tolerant function",
+        "label": "COURSE",
+        "start": 118,
+        "end": 150
+      },
+      {
+        "text": "2556-02-03",
+        "label": "DATE",
+        "start": 155,
+        "end": 165
+      },
+      {
+        "text": "บริษัท วุฑฒยากร จำกัด",
+        "label": "ISSUER",
+        "start": 179,
+        "end": 200
+      },
+      {
+        "text": "https://www.khamluue-thnmkulbutr.org/",
+        "label": "URL",
+        "start": 273,
+        "end": 310
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.791442",
+      "language": "en"
+    }
+  },
+  {
+    "text": "ดิสกะประกายและธาราธร XIh2897\nใบรับรอง\nมอบให้แก่\n\nจณิสตา ยางสวย\n\nได้ผ่านการอบรม\nหลักสูตร: exploit magnetic platforms\n\nวันที่ 07/10/2567\n\nสุปรานี ถาวรรัตน\n(ประธานกรรมการ)\n\nhttps://brisath.org/",
+    "entities": [
+      {
+        "text": "จณิสตา ยางสวย",
+        "label": "PERSON",
+        "start": 49,
+        "end": 62
+      },
+      {
+        "text": "exploit magnetic platforms",
+        "label": "COURSE",
+        "start": 89,
+        "end": 115
+      },
+      {
+        "text": "07/10/2567",
+        "label": "DATE",
+        "start": 124,
+        "end": 134
+      },
+      {
+        "text": "ดิสกะประกายและธาราธร",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "text": "https://brisath.org/",
+        "label": "URL",
+        "start": 170,
+        "end": 190
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.755446",
+      "language": "th"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: อำไพ ดิสกะประกาย\nCOURSE: Progressive clear-thinking capacity / syndicate open-source markets\nDATE: 2530-01-09 (07/03/2535)\nORGANIZATION: หจก.ทวีเดช\n\nID: Hyk6425 | URL: https://kngthunrwmaisykiccheeynchii.com/\nVALIDATED BY: วิชา ธรรมทินนา, Director",
+    "entities": [
+      {
+        "text": "อำไพ ดิสกะประกาย",
+        "label": "PERSON",
+        "start": 47,
+        "end": 63
+      },
+      {
+        "text": "Progressive clear-thinking capacity",
+        "label": "COURSE",
+        "start": 72,
+        "end": 107
+      },
+      {
+        "text": "syndicate open-source markets",
+        "label": "COURSE",
+        "start": 110,
+        "end": 139
+      },
+      {
+        "text": "2530-01-09",
+        "label": "DATE",
+        "start": 146,
+        "end": 156
+      },
+      {
+        "text": "07/03/2535",
+        "label": "DATE",
+        "start": 158,
+        "end": 168
+      },
+      {
+        "text": "หจก.ทวีเดช",
+        "label": "ISSUER",
+        "start": 184,
+        "end": 194
+      },
+      {
+        "text": "https://kngthunrwmaisykiccheeynchii.com/",
+        "label": "URL",
+        "start": 215,
+        "end": 255
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.805442",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "ห้างหุ้นส่วนจำกัด ทองแท้อะไหล่ยนต์ zxu9183\nใบรับรอง\nมอบให้แก่\n\nพิมพ์พิชญา นฤภัย\n\nได้ผ่านการอบรม\nหลักสูตร: facilitate value-added portals\n\nวันที่ 11/03/2553\n\nสรายุทธ สุวรรณหงษ์\n(ผู้อำนวยการ)\n\nhttp://brisath.or.th/",
+    "entities": [
+      {
+        "text": "พิมพ์พิชญา นฤภัย",
+        "label": "PERSON",
+        "start": 63,
+        "end": 79
+      },
+      {
+        "text": "facilitate value-added portals",
+        "label": "COURSE",
+        "start": 106,
+        "end": 136
+      },
+      {
+        "text": "11/03/2553",
+        "label": "DATE",
+        "start": 145,
+        "end": 155
+      },
+      {
+        "text": "ห้างหุ้นส่วนจำกัด ทองแท้อะไหล่ยนต์",
+        "label": "ISSUER",
+        "start": 0,
+        "end": 34
+      },
+      {
+        "text": "http://brisath.or.th/",
+        "label": "URL",
+        "start": 191,
+        "end": 212
+      }
+    ],
+    "layout": "layout_thai_traditional",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.851442",
+      "language": "th"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nชัฎชา นาคะนคร\nhas successfully completed the training program\n'Diverse user-facing middleware'\non 2546-07-28.\n\nIssued by: มูลนิธิแก้วอยู่\nAuthorized by: ปิยนุช ศรทอง, Director\nCertificate ID: fZb5635\n\nVerify at: https://www.haanghunswnsaamay.co.th/",
+    "entities": [
+      {
+        "text": "ชัฎชา นาคะนคร",
+        "label": "PERSON",
+        "start": 51,
+        "end": 64
+      },
+      {
+        "text": "Diverse user-facing middleware",
+        "label": "COURSE",
+        "start": 114,
+        "end": 144
+      },
+      {
+        "text": "2546-07-28",
+        "label": "DATE",
+        "start": 149,
+        "end": 159
+      },
+      {
+        "text": "มูลนิธิแก้วอยู่",
+        "label": "ISSUER",
+        "start": 173,
+        "end": 188
+      },
+      {
+        "text": "https://www.haanghunswnsaamay.co.th/",
+        "label": "URL",
+        "start": 263,
+        "end": 299
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.799443",
+      "language": "en"
+    }
+  },
+  {
+    "text": "=== CERTIFICATE OF ACHIEVEMENT ===\n\nRECIPIENT: สมนึก ถมังรักษสัตว์\nCOURSE: Decentralized next generation middleware / visualize rich models\nDATE: 2555-09-03 (31/01/2528)\nORGANIZATION: ดาบเงินวิศวกรรม\n\nID: BfE6538 | URL: https://brisath.org/\nVALIDATED BY: ทิพย์วารี ศรีอุ่น, CEO",
+    "entities": [
+      {
+        "text": "สมนึก ถมังรักษสัตว์",
+        "label": "PERSON",
+        "start": 47,
+        "end": 66
+      },
+      {
+        "text": "Decentralized next generation middleware",
+        "label": "COURSE",
+        "start": 75,
+        "end": 115
+      },
+      {
+        "text": "visualize rich models",
+        "label": "COURSE",
+        "start": 118,
+        "end": 139
+      },
+      {
+        "text": "2555-09-03",
+        "label": "DATE",
+        "start": 146,
+        "end": 156
+      },
+      {
+        "text": "31/01/2528",
+        "label": "DATE",
+        "start": 158,
+        "end": 168
+      },
+      {
+        "text": "ดาบเงินวิศวกรรม",
+        "label": "ISSUER",
+        "start": 184,
+        "end": 199
+      },
+      {
+        "text": "https://brisath.org/",
+        "label": "URL",
+        "start": 220,
+        "end": 240
+      }
+    ],
+    "layout": "layout_mixed_modern",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.806442",
+      "language": "mixed"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nวรดาพร ธัญเสถียร\nhas successfully completed the training program\n'Object-based 6thgeneration methodology'\non 2557-08-23.\n\nIssued by: สหภาพแรงงานบัวเผื่อน\nAuthorized by: ราชัน แนวพญา, CEO\nCertificate ID: mgc7024\n\nVerify at: http://thngpradith-thuupawiorcchn.com/",
+    "entities": [
+      {
+        "text": "วรดาพร ธัญเสถียร",
+        "label": "PERSON",
+        "start": 51,
+        "end": 67
+      },
+      {
+        "text": "Object-based 6thgeneration methodology",
+        "label": "COURSE",
+        "start": 117,
+        "end": 155
+      },
+      {
+        "text": "2557-08-23",
+        "label": "DATE",
+        "start": 160,
+        "end": 170
+      },
+      {
+        "text": "สหภาพแรงงานบัวเผื่อน",
+        "label": "ISSUER",
+        "start": 184,
+        "end": 204
+      },
+      {
+        "text": "http://thngpradith-thuupawiorcchn.com/",
+        "label": "URL",
+        "start": 274,
+        "end": 312
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.799443",
+      "language": "en"
+    }
+  },
+  {
+    "text": "OFFICIAL CERTIFICATE\n\nThis document certifies that\nวรรณาต ทำประดู่\nhas successfully completed the training program\n'Persevering well-modulated software'\non 2565-09-25.\n\nIssued by: สหภาพแรงงานบุนยาภิสนท์\nAuthorized by: อัญธิกา กุมารบุญ, Director\nCertificate ID: kVA3838\n\nVerify at: http://smaakhmnaamkham.net/",
+    "entities": [
+      {
+        "text": "วรรณาต ทำประดู่",
+        "label": "PERSON",
+        "start": 51,
+        "end": 66
+      },
+      {
+        "text": "Persevering well-modulated software",
+        "label": "COURSE",
+        "start": 116,
+        "end": 151
+      },
+      {
+        "text": "2565-09-25",
+        "label": "DATE",
+        "start": 156,
+        "end": 166
+      },
+      {
+        "text": "สหภาพแรงงานบุนยาภิสนท์",
+        "label": "ISSUER",
+        "start": 180,
+        "end": 202
+      },
+      {
+        "text": "http://smaakhmnaamkham.net/",
+        "label": "URL",
+        "start": 281,
+        "end": 308
+      }
+    ],
+    "layout": "layout_english_formal",
+    "metadata": {
+      "generated_at": "2025-06-28T15:49:32.850442",
+      "language": "en"
+    }
+  }
+]
