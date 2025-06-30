@@ -1,0 +1,38 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "tokens": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "ner_tags": {
+      "feature": {
+        "names": [
+          "O",
+          "B-PERSON",
+          "I-PERSON",
+          "B-COURSE",
+          "I-COURSE",
+          "B-DATE",
+          "I-DATE",
+          "B-ORG",
+          "I-ORG",
+          "B-URL",
+          "I-URL"
+        ],
+        "_type": "ClassLabel"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
