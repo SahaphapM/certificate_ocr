@@ -150,11 +150,72 @@ def layout_mixed_modern(data):
 
 
 # รายการ layout ทั้งหมด
+def layout_thai_certificate(data):
+    """รูปแบบประกาศนียบัตรภาษาไทยที่พบบ่อย"""
+    text = (
+        f"ประกาศนียบัตร\n\n"
+        f"ชื่อผู้รับ: {data['recipient']}\n"
+        f"หลักสูตร: {data['course_th']}\n"
+        f"วันที่: {data['date_th']}\n"
+        f"ออกโดย: {data['company']}\n\n"
+        f"ตรวจสอบได้ที่: {data['url']}"
+    )
+    entities = [
+        {'text': data['recipient'], 'label': 'PERSON',
+         'start': text.find(data['recipient']),
+         'end': text.find(data['recipient']) + len(data['recipient'])},
+        {'text': data['course_th'], 'label': 'COURSE',
+         'start': text.find(data['course_th']),
+         'end': text.find(data['course_th']) + len(data['course_th'])},
+        {'text': data['date_th'], 'label': 'DATE',
+         'start': text.find(data['date_th']),
+         'end': text.find(data['date_th']) + len(data['date_th'])},
+        {'text': data['company'], 'label': 'ISSUER',
+         'start': text.find(data['company']),
+         'end': text.find(data['company']) + len(data['company'])},
+        {'text': data['url'], 'label': 'URL',
+         'start': text.find(data['url']),
+         'end': text.find(data['url']) + len(data['url'])},
+    ]
+    return text, entities
+
+
+def layout_english_simple(data):
+    """รูปแบบภาษาอังกฤษแบบย่อ"""
+    text = (
+        f"CERTIFICATE OF COMPLETION\n\n"
+        f"Awarded to {data['recipient']} for completing the {data['course_en']} course\n"
+        f"Date: {data['date_en']}\n"
+        f"Organization: {data['company']}\n\n"
+        f"Certificate ID: {data['company_id']}\n"
+        f"Verify: {data['url']}"
+    )
+    entities = [
+        {'text': data['recipient'], 'label': 'PERSON',
+         'start': text.find(data['recipient']),
+         'end': text.find(data['recipient']) + len(data['recipient'])},
+        {'text': data['course_en'], 'label': 'COURSE',
+         'start': text.find(data['course_en']),
+         'end': text.find(data['course_en']) + len(data['course_en'])},
+        {'text': data['date_en'], 'label': 'DATE',
+         'start': text.find(data['date_en']),
+         'end': text.find(data['date_en']) + len(data['date_en'])},
+        {'text': data['company'], 'label': 'ISSUER',
+         'start': text.find(data['company']),
+         'end': text.find(data['company']) + len(data['company'])},
+        {'text': data['url'], 'label': 'URL',
+         'start': text.find(data['url']),
+         'end': text.find(data['url']) + len(data['url'])},
+    ]
+    return text, entities
+
+
 ALL_LAYOUTS = [
     layout_thai_traditional,
     layout_english_formal,
-    layout_mixed_modern
-    # เพิ่ม layout อื่นๆ ที่นี่
+    layout_mixed_modern,
+    layout_thai_certificate,
+    layout_english_simple,
 ]
 
 # ========================
