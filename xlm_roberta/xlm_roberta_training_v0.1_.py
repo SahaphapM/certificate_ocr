@@ -1,119 +1,146 @@
+import os
 import json
-from datasets import Dataset, Features, Sequence, ClassLabel, Value
+from seqeval.metrics import classification_report
+import numpy as np
+from transformers import (
+    AutoModelForTokenClassification,
+    TrainingArguments,
+    Trainer,
+    DataCollatorForTokenClassification, AutoTokenizer
+)
+from datasets import load_from_disk
+
+# กำหนด path
+TOKENIZED_DATA_DIR = "./tokenized_data"
+
+# โหลดข้อมูลที่บันทึกไว้
 
 
-def load_and_prepare_data(file_path):
-    # โหลดข้อมูลจากไฟล์ JSON
-    with open(file_path, 'r', encoding='utf-8') as f:
-        data = json.load(f)
+def load_tokenized_data():
+    # โหลด tokenized dataset
+    tokenized_datasets = load_from_disk(
+        os.path.join(TOKENIZED_DATA_DIR, "tokenized_dataset"))
 
-    # กำหนดรายการ label ทั้งหมด (BIO format)
-    label_list = [
-        "O",
-        "B-PERSON", "I-PERSON",
-        "B-COURSE", "I-COURSE",
-        "B-DATE", "I-DATE",
-        "B-ORG", "I-ORG",
-        "B-URL", "I-URL"
-    ]
+    # โหลด metadata
+    with open(os.path.join(TOKENIZED_DATA_DIR, "metadata.json"), "r", encoding="utf-8") as f:
+        metadata = json.load(f)
 
-    # สร้าง mapping ระหว่าง label และ ID
-    label2id = {label: i for i, label in enumerate(label_list)}
-    id2label = {i: label for i, label in enumerate(label_list)}
+    label_list = metadata["label_list"]
+    # แปลง key เป็น int
+    id2label = {int(k): v for k, v in metadata["id2label"].items()}
+    label2id = metadata["label2id"]
 
-    processed_data = []
+    # โหลด tokenizer
+    tokenizer = AutoTokenizer.from_pretrained(TOKENIZED_DATA_DIR)
 
-    for item in data:
-        text = item['text']
-        # แบ่งข้อความเป็น character-level tokens
-        tokens = list(text)
-
-        # เริ่มต้นด้วย label "O" (non-entity) ทั้งหมด
-        ner_tags = ["O"] * len(tokens)
-
-        # กำหนด label ให้กับ entities
-        for entity in item['entities']:
-            start = entity['start']
-            end = entity['end']
-            entity_type = entity['label']
-
-            # แปลง entity type ให้ตรงกับรูปแบบ BIO
-            if entity_type == "PERSON":
-                prefix = "PERSON"
-            elif entity_type == "COURSE":
-                prefix = "COURSE"
-            elif entity_type == "DATE":
-                prefix = "DATE"
-            elif entity_type == "ISSUER":  # ISSUER จะถูกแปลงเป็น ORG
-                prefix = "ORG"
-            elif entity_type == "URL":
-                prefix = "URL"
-            else:
-                continue  # ข้าม entity type อื่นๆ
-
-            # ตั้งค่า B-tag สำหรับ token แรกของ entity
-            ner_tags[start] = f"B-{prefix}"
-
-            # ตั้งค่า I-tags สำหรับ token ที่เหลือของ entity
-            for i in range(start + 1, end):
-                ner_tags[i] = f"I-{prefix}"
-
-        # แปลง labels เป็น IDs
-        ner_ids = [label2id[tag] for tag in ner_tags]
-
-        # เพิ่มข้อมูลที่ประมวลผลแล้ว
-        processed_data.append({
-            "id": str(len(processed_data)),
-            "tokens": tokens,
-            "ner_tags": ner_ids
-        })
-
-    # กำหนดโครงสร้างของ dataset
-    features = Features({
-        'id': Value('string'),
-        'tokens': Sequence(Value('string')),
-        'ner_tags': Sequence(ClassLabel(names=label_list))
-    })
-
-    # สร้าง dataset
-    dataset = Dataset.from_list(processed_data, features=features)
-
-    return dataset, label_list, id2label, label2id
+    return tokenized_datasets, label_list, id2label, label2id, tokenizer
 
 
 # โหลดข้อมูล
-file_path = "./datasets/train_data_label.json"
-dataset, label_list, id2label, label2id = load_and_prepare_data(file_path)
+tokenized_datasets, label_list, id2label, label2id, tokenizer = load_tokenized_data()
 
-# แสดงตัวอย่างข้อมูล
-print(f"Total examples: {len(dataset)}")
-print(f"Label list: {label_list}")
 
-# แสดงตัวอย่างที่ 1
-example_idx = 0
-example = dataset[example_idx]
-print("\nExample 1:")
-print(f"Text: {''.join(example['tokens'])}")
-print(f"Tokens: {example['tokens'][:30]}...")  # แสดง 30 tokens แรก
-# แสดง 30 tags แรก
-print(f"NER tags: {[id2label[id] for id in example['ner_tags'][:30]]}...")
+######################### โหลดโมเดลและตั้งค่าการฝึก ################################
 
-# แสดงตัวอย่างที่ 2
-example_idx = 1
-example = dataset[example_idx]
-print("\nExample 2:")
-print(f"Text: {''.join(example['tokens'])}")
-print(f"Tokens: {example['tokens'][:30]}...")
-print(f"NER tags: {[id2label[id] for id in example['ner_tags'][:30]]}...")
 
-# แสดงสถิติของ entities
-entity_counts = {label: 0 for label in label_list if label != "O"}
-for example in dataset:
-    for tag_id in example['ner_tags']:
-        label = id2label[tag_id]
-        if label != "O":
-            entity_counts[label] += 1
+# โหลดโมเดล
+model = AutoModelForTokenClassification.from_pretrained(
+    "xlm-roberta-base",
+    num_labels=len(label_list),
+    id2label=id2label,
+    label2id=label2id
+)
 
-print("\nEntity counts:")
-for label, count in entity_counts.items():
-    print(f"{label}: {count}")
+# ตั้งค่าการฝึก
+training_args = TrainingArguments(
+    output_dir="xlm-roberta-certificate-ner",
+    eval_strategy="epoch",  # ประเมินทุก epoch
+    learning_rate=2e-5,           # อัตราการเรียนรู้ที่เหมาะสมสำหรับ fine-tuning
+    per_device_train_batch_size=8,
+    per_device_eval_batch_size=8,
+    num_train_epochs=10,          # จำนวน epoch
+    weight_decay=0.01,            # regularization
+    save_strategy="epoch",         # บันทึกโมเดลทุก epoch
+    load_best_model_at_end=True,   # โหลดโมเดลที่ดีที่สุดเมื่อจบการฝึก
+    metric_for_best_model="f1",    # ใช้ f1 เป็นตัวตัดสินโมเดลที่ดีที่สุด
+    greater_is_better=True,
+    fp16=True,                    # ใช้ mixed precision training
+    logging_dir='./logs',
+    report_to="none",             # ไม่รายงานไปยังบริการภายนอก
+    logging_steps=50,             # บันทึก log ทุก 50 steps
+    save_total_limit=3            # เก็บ checkpoint สุดท้าย 3 อันเท่านั้น
+)
+
+# ตั้งค่า Data Collator
+data_collator = DataCollatorForTokenClassification(tokenizer)
+
+# ฟังก์ชันประเมินผล (แก้ไขให้ปลอดภัยจาก KeyError)
+
+
+def compute_metrics(p):
+    predictions, labels = p
+    predictions = np.argmax(predictions, axis=2)
+
+    # เอาเฉพาะตำแหน่งที่ไม่ใช่ -100
+    true_predictions = []
+    true_labels = []
+
+    for i in range(len(predictions)):
+        preds = []
+        lbls = []
+        for j in range(len(predictions[i])):
+            if labels[i][j] != -100:
+                preds.append(label_list[predictions[i][j]])
+                lbls.append(label_list[labels[i][j]])
+        true_predictions.append(preds)
+        true_labels.append(lbls)
+
+    # ถ้าไม่มีข้อมูลให้คืนค่า default
+    if len(true_labels) == 0 or all(len(x) == 0 for x in true_labels):
+        return {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "accuracy": 0.0
+        }
+
+    # คำนวณ metrics
+    results = classification_report(
+        true_labels, true_predictions,
+        output_dict=True,
+        zero_division=0  # ตั้งค่าเป็น 0 เมื่อหารด้วยศูนย์
+    )
+
+    # ตรวจสอบค่าต่างๆ ก่อนคืนค่า
+    return {
+        "precision": results.get('micro avg', {}).get("precision", 0.0),
+        "recall": results.get('micro avg', {}).get("recall", 0.0),
+        "f1": results.get('micro avg', {}).get("f1-score", 0.0),
+        "accuracy": results.get('accuracy', 0.0)
+    }
+
+
+# สร้าง Trainer
+trainer = Trainer(
+    model=model,
+    args=training_args,
+    train_dataset=tokenized_datasets["train"],
+    eval_dataset=tokenized_datasets["test"],
+    data_collator=data_collator,
+    tokenizer=tokenizer,
+    compute_metrics=compute_metrics
+)
+
+# เริ่มการฝึก
+print("\nStarting training...")
+trainer.train()
+
+# บันทึกโมเดล
+print("\nSaving model...")
+model.save_pretrained("trained_xlm_roberta_ner")
+tokenizer.save_pretrained("trained_xlm_roberta_ner")
+
+# ประเมินผลโมเดล
+print("\nEvaluating model...")
+results = trainer.evaluate()
+print(f"Final evaluation results: {results}")
