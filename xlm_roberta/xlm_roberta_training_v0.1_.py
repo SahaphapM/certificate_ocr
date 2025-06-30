@@ -53,7 +53,7 @@ model = AutoModelForTokenClassification.from_pretrained(
 
 # ตั้งค่าการฝึก
 training_args = TrainingArguments(
-    output_dir="xlm-roberta-certificate-ner",
+    output_dir="trained_model",
     eval_strategy="epoch",  # ประเมินทุก epoch
     learning_rate=2e-5,           # อัตราการเรียนรู้ที่เหมาะสมสำหรับ fine-tuning
     per_device_train_batch_size=8,
