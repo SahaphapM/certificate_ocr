@@ -30,7 +30,7 @@ def extract_fields_from_image(image: Image.Image, studentName: str, courseName: 
 
     if cer_type == "buumooc":
         # Extract URL
-        url = extract_url_from_cropped_image(preprocessed_image)
+        url = extract_url_from_cropped_image(preprocessed_image,cer_type)
 
         # Check if URL matches name and course name
         isNameMatch, isCourseMatch = url_matching(url, studentName, courseName)
@@ -59,8 +59,7 @@ def extract_fields_from_image(image: Image.Image, studentName: str, courseName: 
         "full_text": full_text,
     }
 
-
-def extract_url_from_cropped_image(image: Image.Image) -> str:
+def extract_url_from_cropped_image(image: Image.Image,cer_type: str) -> str:
     """
     Perform OCR on the cropped image to extract the URL
     """
@@ -80,16 +79,21 @@ def extract_url_from_cropped_image(image: Image.Image) -> str:
         
         # Clean the URL by removing any unnecessary spaces
         url = re.sub(r'\s+', '', url)
+
+        # check url is id or http
+        if not url.startswith('http'):
+            if cer_type == "buumooc":
+                url = 'https://mooc.buu.ac.th/certificates/' + url
+            elif cer_type == "thaimooc":
+                url = 'https://mooc.thai.ac.th/certificates/' + url
+
         return url
 
     # Return empty string if no URL is found
     return ""
 
-    # def for url get to match name and course name on web
+    # Match URL to name and course name
 def url_matching(url: str, studentName: str, courseName: str) -> bool:
-    # check url is id or http
-    if not url.startswith('http'):
-        url = 'https://mooc.buu.ac.th/certificates/' + url
     try:
         response = requests.get(url)
         html = response.text
