@@ -7,8 +7,11 @@ import re
 import requests
 from fuzzywuzzy import fuzz
 
+# get env
+import os
+
 # ตั้งค่าพาธของ Tesseract
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'  # Windows path
+pytesseract.pytesseract.tesseract_cmd = os.getenv('TESSERACT_PATH')  # Windows path
 
 
 logger = logging.getLogger(__name__)
@@ -49,15 +52,23 @@ def extract_fields_from_image(image: Image.Image, studentName: str, courseName: 
         logger.info(f"🧠 Fuzzy Matching Course Score: {course_match_score}")
         isCourseMatch = course_match_score >= 90  # ตั้งค่า threshold ไว้ที่ 90% สำหรับการจับคู่ชื่อหลักสูตร
  
-    return {
-        "student_name": studentName,
-        "course_name": courseName,
-        "cer_type": cer_type,
-        "url": url,
-        "isNameMatch": isNameMatch,
-        "isCourseMatch": isCourseMatch,
-        "full_text": full_text,
-    }
+    if os.getenv('MODE') == 'production':
+        return {
+            "url": url,
+            "isNameMatch": isNameMatch,
+            "isCourseMatch": isCourseMatch,
+        }
+
+    else:
+        return {
+            "student_name": studentName,
+            "course_name": courseName,
+            "cer_type": cer_type,
+            "url": url,
+            "isNameMatch": isNameMatch,
+            "isCourseMatch": isCourseMatch,
+            "full_text": full_text,
+        }
 
 def extract_url_from_cropped_image(image: Image.Image,cer_type: str) -> str:
     """
