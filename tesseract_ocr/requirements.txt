@@ -6,3 +6,6 @@ pythainlp
 pdf2image
 PyMuPDF
 requests
+fuzzywuzzy
+os
+python-dotenv

@@ -1,8 +1,6 @@
 from fastapi import FastAPI, File, UploadFile, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 import logging
-from ocr import extract_fields_from_image
-from pdf_to_image import convert_pdf_to_images
 from utils import validate_file_type, process_ocr_from_file
 
 app = FastAPI(

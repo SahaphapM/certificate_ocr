@@ -1,16 +1,19 @@
+from dotenv import load_dotenv
+import os
 import pytesseract
 from PIL import Image
-from preprocess import preprocess_image
+from preprocess import preprocess_image,crop_image
 from pythainlp.util import normalize
 import logging
 import re
 import requests
 from fuzzywuzzy import fuzz
 
-# get env
-import os
+
+
 
 # ตั้งค่าพาธของ Tesseract
+load_dotenv()
 pytesseract.pytesseract.tesseract_cmd = os.getenv('TESSERACT_PATH')  # Windows path
 
 
@@ -77,9 +80,6 @@ def extract_url_from_cropped_image(image: Image.Image,cer_type: str) -> str:
     # Crop the image to focus on the bottom-left portion
     cropped_image = crop_image(image)
 
-    # Save the cropped image for debugging
-    cropped_image.save("img/preprocess/cropped_image.png")
-
     # Perform OCR to get the text
     full_text = pytesseract.image_to_string(cropped_image, lang='tha+eng')
 
@@ -115,12 +115,3 @@ def url_matching(url: str, studentName: str, courseName: str) -> bool:
     except Exception as e:
         logger.error(f"Error matching URL: {str(e)}")
         return False,False
-
-def crop_image(image: Image.Image, crop_percentage: float = 0.2) -> Image.Image:
-    """
-    Crop the bottom-left part of the image. The crop_percentage determines how much of the bottom is kept.
-    """
-    width, height = image.size
-    crop_box = (0, int(height * (1 - crop_percentage)), width/1.5, height)
-    cropped_image = image.crop(crop_box)
-    return cropped_image

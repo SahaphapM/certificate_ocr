@@ -1,4 +1,4 @@
-from fastapi import HTTPException
+import io
 from pdf_to_image import convert_pdf_to_images
 from ocr import extract_fields_from_image
 from PIL import Image
