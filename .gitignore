@@ -1,3 +1,5 @@
 xlm-roberta-certificate-ner*
 trained_xlm_roberta_ner*
 trained_model*
+# .venv
+.venv*
