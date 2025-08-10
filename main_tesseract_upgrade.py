@@ -102,14 +102,20 @@ def extract_url_from_image(image: Image.Image) -> str:
     url_text = pytesseract.image_to_string(cropped, lang='tha+eng')
     url_text_clean = re.sub(r'[\s|]', '', url_text or '')
 
-    match = re.search(r'https?[:/ ]+([a-zA-Z0-9.\-_]+)[/a-zA-Z0-9.\-_]+', url_text_clean)
+    # Use regex to extract a URL without page numbers or extra info
+    match = re.search(r'https?://[a-zA-Z0-9.-]+(?:/[a-zA-Z0-9.-]+)*', url_text_clean)
+
     if match:
         url = url_text_clean[url_text_clean.find('http'):]
+
+        # Clean the URL to remove unwanted page number info (e.g., 1/2)
+        url = re.sub(r'\s*\d+/\d+\s*$', '', url)  # Remove page numbers like '1/2' at the end
+
         url = url.replace(':/', '://').replace(' ', '').replace('|', '')
         url = re.split(r'[^a-zA-Z0-9:/._\-]', url)[0]
         return url
 
-    # fallback: whole image
+    # Fallback: process the whole image if URL wasn't found in the cropped part
     full_img = preprocess_image(
         image,
         save_path=None,
@@ -120,9 +126,13 @@ def extract_url_from_image(image: Image.Image) -> str:
     full_text = pytesseract.image_to_string(full_img, lang='tha+eng')
     full_text_clean = re.sub(r'[\s|]', '', full_text or '')
 
-    match_full = re.search(r'https?[:/ ]+([a-zA-Z0-9.\-_]+)[/a-zA-Z0-9.\-_]+', full_text_clean)
+    match_full = re.search(r'https?://[a-zA-Z0-9.-]+(?:/[a-zA-Z0-9.-]+)*', full_text_clean)
     if match_full:
         url = full_text_clean[full_text_clean.find('http'):]
+
+        # Clean the URL to remove unwanted page number info (e.g., 1/2)
+        url = re.sub(r'\s*\d+/\d+\s*$', '', url)  # Remove page numbers like '1/2' at the end
+
         url = url.replace(':/', '://').replace(' ', '').replace('|', '')
         url = re.split(r'[^a-zA-Z0-9:/._\-]', url)[0]
         return url

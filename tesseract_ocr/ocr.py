@@ -1,5 +1,4 @@
-from dotenv import load_dotenv
-import os
+
 import pytesseract
 from PIL import Image
 from preprocess import preprocess_image,crop_image
@@ -13,8 +12,7 @@ from fuzzywuzzy import fuzz
 
 
 # ตั้งค่าพาธของ Tesseract
-load_dotenv()
-pytesseract.pytesseract.tesseract_cmd = os.getenv('TESSERACT_PATH')  # Windows path
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'  # Windows path
 
 
 logger = logging.getLogger(__name__)
@@ -55,15 +53,9 @@ def extract_fields_from_image(image: Image.Image, studentName: str, courseName: 
         logger.info(f"🧠 Fuzzy Matching Course Score: {course_match_score}")
         isCourseMatch = course_match_score >= 90  # ตั้งค่า threshold ไว้ที่ 90% สำหรับการจับคู่ชื่อหลักสูตร
  
-    if os.getenv('MODE') == 'production':
-        return {
-            "url": url,
-            "isNameMatch": isNameMatch,
-            "isCourseMatch": isCourseMatch,
-        }
 
-    else:
-        return {
+
+    return {
             "student_name": studentName,
             "course_name": courseName,
             "cer_type": cer_type,
@@ -81,27 +73,25 @@ def extract_url_from_cropped_image(image: Image.Image,cer_type: str) -> str:
     cropped_image = crop_image(image)
 
     # Perform OCR to get the text
-    full_text = pytesseract.image_to_string(cropped_image, lang='tha+eng')
+    full_text = pytesseract.image_to_string(cropped_image, lang='eng+tha')
 
-    # Regular expression to match URLs (http:// or https://)
-    url_match = re.search(r'https?://[^\n]+', full_text)
+   # Regular expression to match certificate id from Certificate ID: 
+    url_match = re.search(r'Certificate ID Number : \d{10}', full_text)
+
     if url_match:
         url = url_match.group(0)
-        
         # Clean the URL by removing any unnecessary spaces
         url = re.sub(r'\s+', '', url)
-
         # check url is id or http
         if not url.startswith('http'):
             if cer_type == "buumooc":
                 url = 'https://mooc.buu.ac.th/certificates/' + url
-            elif cer_type == "thaimooc":
-                url = 'https://mooc.thai.ac.th/certificates/' + url
-
         return url
 
-    # Return empty string if no URL is found
-    return ""
+    else:
+        # Regular expression to match URLs (http:// or https://)
+        return re.search(r'https?://[^\n]+', full_text)
+
 
     # Match URL to name and course name
 def url_matching(url: str, studentName: str, courseName: str) -> bool:
