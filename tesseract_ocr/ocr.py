@@ -1,4 +1,3 @@
-
 import pytesseract
 from PIL import Image
 from preprocess import preprocess_image,crop_image
@@ -75,23 +74,22 @@ def extract_url_from_cropped_image(image: Image.Image,cer_type: str) -> str:
     # Perform OCR to get the text
     full_text = pytesseract.image_to_string(cropped_image, lang='eng+tha')
 
-   # Regular expression to match certificate id from Certificate ID: 
-    url_match = re.search(r'Certificate ID Number : \d{10}', full_text)
+   # ดึง Certificate ID Number จาก full_text โดยดึงข้อความหลัง Certificate ID Number :
+    url_match = re.search(r'Certificate ID Number\s*:\s*([^\n\r]+)', full_text)
 
     if url_match:
-        url = url_match.group(0)
-        # Clean the URL by removing any unnecessary spaces
+        url = url_match.group(1).strip()
+        # Clean by removing inner spaces
         url = re.sub(r'\s+', '', url)
-        # check url is id or http
+        # If it's an ID, convert to full URL for known types
         if not url.startswith('http'):
             if cer_type == "buumooc":
                 url = 'https://mooc.buu.ac.th/certificates/' + url
         return url
-
     else:
-        # Regular expression to match URLs (http:// or https://)
-        return re.search(r'https?://[^\n]+', full_text)
-
+        # Fallback: find a plain URL in the text
+        fallback = re.search(r'https?://[^\s]+', full_text)
+        return fallback.group(0) if fallback else None
 
     # Match URL to name and course name
 def url_matching(url: str, studentName: str, courseName: str) -> bool:
